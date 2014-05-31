@@ -1,0 +1,84 @@
+Abb.	n
+Abk.	n
+Abs.	n
+Allg.	n
+Anm.	n
+Anz.	n
+Aufl.	n
+Bestellnr.	n
+Bestnr.	n
+Bsp.	n
+Chr.	n
+Dez.	n
+Dipl.	n
+Dr.	n
+Fa.	n
+Feb.	n
+Frl.	n
+Ing.	n
+Inhaltsverz.	n
+Jg.	n
+Jul.	n
+Ltd.	n
+Mill.	n
+Mio.	n
+Mrd.	n
+MwSt.	n
+Nov.	n
+Nr.	n
+Okt.	n
+Pers.	n
+Pfg.	n
+Prof.	n
+Sa.	n
+Sept.	n
+St.	n
+Stck.	n
+Std.	n
+Stromvers.	n
+Tel.	n
+Zustandsnr.	n
+abzgl.
+allg.
+bes.
+betr.
+bez.
+bspw.
+bzgl.
+bzw.
+ca.
+cf.
+dto.
+einschl.
+elektr.
+engl.
+entspr.
+etc.
+evtl.
+ext.
+ff.
+geb.
+gem.
+ggf.
+hrsg.
+incl.
+inkl.
+insbes.
+insges.
+jmdm.
+lfd.
+lt.
+max.
+min.
+phil.
+resp.
+sek.
+usw.
+vergl.
+vgl.
+vorl.
+vorm.
+vs.
+wg.
+zus.
+zzgl.

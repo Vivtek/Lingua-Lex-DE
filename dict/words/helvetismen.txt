@@ -1,0 +1,29 @@
+Cheque/S	n
+Claim	n
+Fleischvogel	n
+Gemarchen	n
+Hosenlupf	n
+Jupe/S	n
+Matur/S	n
+Maturand/PF	n
+Mu"esli/S	n
+Necessaire/S	n
+Nessesa"r/S	n
+Pendenz/P	n
+Pa"rke/N	n
+Quai/S	n
+Rotkabis	n
+Sala"r/ESP	n
+Trottoir/ES	n
+Urbarisierung	n
+Velo/S	n
+Velofahren/S	n
+Velofahrer/NSF	n
+Zermatt/S	n
+Zermatter/N	n
+Zu"rcher/NF	n
+beiderhalb
+beidseits
+kremieren
+salarieren/DIXYW	v
+zu"rcherisch/A	aa

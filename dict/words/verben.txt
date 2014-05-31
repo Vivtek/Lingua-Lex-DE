@@ -1,0 +1,9224 @@
+aalen/DIXYW	v
+abarbeiten/DIXY	v
+abband/Z
+abbauen/BDIXY	v
+abbeisSen/DI	v
+abbekommen/IX	v
+abberufen/ADIX	v
+abbestellen/BDIOXY	v
+abbezahlen/BDIOXY	v
+abbiegen/DIX	v
+abbilden/BDIXY	v
+abbinden/DIX	v
+abblenden/BDIXY	v
+abblitzen/DIXY	v
+abblocken/DIXY	v
+abbla"ttern/DIXY	v
+abbog/Z
+abbrach/Z
+abbrachte/Z
+abbrannte/Z
+abbrausen/DIXY	v
+abbrechen/DI	v
+abbremsen/DIXY	v
+abbrennen/BDIX	v
+abbricht/X
+abbringen/DIX	v
+abbro"ckeln/DIXY	v
+abbuchen/DIXY	v
+abbu"geln/DIXY	v
+abbu"rsten/DIXY	v
+abdampfen/DIXY	v
+abdanken/DIXY	v
+abdecken/BDIXY	v
+abdichten/BDIXY	v
+abdienen/DIXY	v
+abdrehen/DIXY	v
+abdriften/DIXY	v
+abdrosseln/DIXY	v
+abdrucken/BDIXY	v
+abdunkeln/BDIXY	v
+abduschen/DIXY	v
+abdu"sen/DIXY	v
+abebben/DIXY	v
+aberkannt/AZ	aa
+aberkennen/DIX	v
+abernten/DIXY	v
+abessen/DI	v
+abfahren/BDI	v
+abfallen/DI	v
+abfangen/DI	v
+abfassen/DIXY	v
+abfaulen/DIXY	v
+abfedern/BDIXY	v
+abfeilen/DIXY	v
+abfertigen/DIXY	v
+abfeuern/DIXY	v
+abfinden/IX	v
+abfing/ZE
+abfischen/DIXY	v
+abflachen/DIXY	v
+abflauen/DIXY	v
+abfliegen/DIX	v
+abfliesSen/DIX	v
+abflog/Z
+abfloss/Z
+abfordern/DIXY	v
+abfotografieren/DIOXY	v
+abfragen/BDIXY	v
+abfrasS/Z
+abfressen/DI	v
+abfrisst
+abfra"sen/DIXY	v
+abfuhr/Z
+abfa"hrt/X
+abfa"llt/X
+abfa"ngt/X
+abfa"rben/DIXY	v
+abfu"hren/DIXY	v
+abfu"llen/DIXY	v
+abfu"ttern/DIXY	v
+abgab/Z
+abgeben/BDI	v
+abgeguckt/A	aa
+abgehen/DIX	v
+abgeholfen
+abgesehen
+abgewinnen/DIX	v
+abgewo"hnen/DIOXY	v
+abgibt/X
+abgiesSen/DIX	v
+abging/ZE
+abgleichen/BIX	v
+abgleiten/DIX	v
+abglich/ZE
+abgraben/DI	v
+abgrasen/DIXY	v
+abgreifen/BDIX	v
+abgrenzen/BDIXY	v
+abgriff/Z
+abgucken/DIXY	v
+abhaben/I	v
+abhacken/DIXY	v
+abhaken/DIXY	v
+abhalten/DI	v
+abhat/X
+abhauen/DIXY	v
+abheben/DIX	v
+abheften/BDIXY	v
+abheilen/DIXY	v
+abhelfen/DI	v
+abhetzen/DIXY	v
+abhielt/ZE
+abhilft/X
+abhing/ZE
+abhob/Z
+abhobeln/DIXY	v
+abholen/DIXY	v
+abholzen/DIXY	v
+abhorchen/DIXY	v
+abhungern/DIXY	v
+abhusten/BDIXY	v
+abha"ltst/X
+abha"ngen/BDIXY	v
+abho"ren/BDIXY	v
+abjagen/DIXY	v
+abkacken/nDIXY	v
+abkam/Z
+abkanzeln/DIXY	v
+abkapseln/DIXY	v
+abkassieren/DIOXY	v
+abkaufen/DIXY	v
+abkehren/DIXY	v
+abklang/Z
+abklappen/BDIXY	v
+abklappern/DIXY	v
+abkleben/DIXY	v
+abklemmen/DIXY	v
+abklingen/DIX	v
+abklopfen/DIXY	v
+abkla"ren/DIXY	v
+abknabbern/DIXY	v
+abknallen/DIXY	v
+abknappen/DIXY	v
+abkneifen/BDIX	v
+abknicken/DIXY	v
+abknutschen/DIXY	v
+abkno"pfen/DIXY	v
+abkochen/DIXY	v
+abkommandieren/DIOXY	v
+abkommen/DIX	v
+abkoppeln/BDIXY	v
+abkratzen/BDIXY	v
+abkriegen/DIXY	v
+abkupfern/BDIXY	v
+abku"hlen/BDIXY	v
+abku"ndigen/IXY	v
+abku"rzen/BDIXY	v
+abku"ssen/DIXY	v
+abladen/DI	v
+ablag/Z
+ablagern/DIXY	v
+ablassen/DI	v
+ablaufen/DI	v
+ablecken/DIXY	v
+ablegen/DIXY	v
+ablehnen/BDIXY	v
+ableisten/DIXY	v
+ableiten/BDIXY	v
+ablenken/BDIXY	v
+ablesen/BDIX	v
+ableugnen/DIXY	v
+ablichten/DIXY	v
+abliefern/DIXY	v
+abliegen/DIX	v
+abliest
+ablutschen/DIXY	v
+abla"dt/X
+abla"sst
+abla"uft/X
+ablo"schen/DIXY	v
+ablo"sen/BDIXY	v
+ablo"ten/DIXY	v
+abmachen/DIXY	v
+abmagern/DIXY	v
+abmahnen/BDIXY	v
+abmalen/DIXY	v
+abmarschieren/DIOXY	v
+abmasS/Z
+abmelden/DIXY	v
+abmessen/DI	v
+abmildern/DIXY	v
+abmindern/DIXY	v
+abmischen/BDIXY	v
+abmontieren/DIOXY	v
+abmustern/DIXY	v
+abma"hen/DIXY	v
+abmu"hen/DIXY	v
+abnabeln/DXY	v
+abnagen/DIXY	v
+abnahm/Z
+abnehmen/BDI	v
+abnicken/DIXY	v
+abnimmt/X
+abnutzen/DIXY	v
+abno"tigen/DIXY	v
+abnu"tzen/DIXY	v
+abonnieren/BDIOXY	v
+abordnen/DIXY	v
+abpacken/BDIXY	v
+abpassen/DIXY	v
+abpflu"cken/DIXY	v
+abphotographieren/DIOXY	v
+abplagen/DIXY	v
+abprallen/DIXY	v
+abpressen/DIXY	v
+abpumpen/BDIXY	v
+abputzen/DIXY	v
+abquetschen/DIXY	v
+abqua"len/DIXY	v
+abrackern/DIXY	v
+abraten/DI	v
+abreagieren/DIOXY	v
+abrechnen/DIXY	v
+abregen/DIXY	v
+abreiben/BDIX	v
+abreisen/DIXY	v
+abreisSen/BDIX	v
+abrichten/DIXY	v
+abriegeln/DIXY	v
+abriet/ZE
+abringen/DIX	v
+abriss/Z
+abrollen/DIXY	v
+abrufen/BDIX	v
+abrunden/DIXY	v
+abrutschen/DIXY	v
+abra"umen/DIXY	v
+abru"cken/DIXY	v
+abru"sten/DIXY	v
+absacken/DIXY	v
+absagen/DIXY	v
+absah/Z
+absahnen/DIXY	v
+absank/Z
+absaugen/DIXY	v
+absasS/Z
+abschaben/DIXY	v
+abschaffen/DIXY	v
+abschalten/BDIXY	v
+abscheiden/DIX	v
+abscheren/DIXY	v
+abschicken/DIXY	v
+abschieben/DIX	v
+abschied/Z
+abschiesSen/DIX	v
+abschirmen/DIXY	v
+abschlachten/DIXY	v
+abschlagen/DI	v
+abschleifen/DIX	v
+abschleppen/DIXY	v
+abschliesSen/BDIX	v
+abschla"gt/X
+abschmecken/BDIXY	v
+abschmelzen/DI	v
+abschmettern/DIXY	v
+abschmieren/DIXY	v
+abschminken/DIXY	v
+abschmirgeln/BDIXY	v
+abschnallen/DIXY	v
+abschneiden/BDIX	v
+abschnitt/ZE
+abschnu"ren/DIXY	v
+abschob/Z
+abschor/Z
+abschoss/Z
+abschotten/BDIXY	v
+abschrauben/BDIXY	v
+abschrecken/DIXY	v
+abschreiben/DIX	v
+abschreiten/DIX	v
+abschra"gen/DIXY	v
+abschuften/DIXY	v
+abschweifen/DIXY	v
+abschwenken/DIXY	v
+abschwa"chen/DIXY	v
+abschwa"tzen/DIXY	v
+abschwo"ren/DIX	v
+abscha"len/DIXY	v
+abscha"tzen/BDIXY	v
+abscho"pfen/DIXY	v
+abschu"rfen/DIXY	v
+abschu"tteln/DIXY	v
+absegeln/DIXY	v
+absegnen/DIXY	v
+absehen/BDI	v
+abseifen/DIXY	v
+abseilen/DIXY	v
+absenden/DIXY	v
+absenken/BIXY	v
+abservieren/DIOXY	v
+absetzen/DIXY	v
+absichern/DIXY	v
+absieht/X
+absingen/IX	v
+absinken/DIX	v
+absitzen/DIX	v
+absolvieren/DIOXY	v
+absondern/DIXY	v
+absorbieren/BDIOXY	v
+abspalten/DIXY	v
+abspannen/DIXY	v
+abspecken/IXY	v
+abspeisen/BDIXY	v
+absperren/BDIXY	v
+abspielen/BDIXY	v
+absplittern/DIXY	v
+absprach/Z
+absprang/Z
+absprechen/DI	v
+abspreizen/DIXY	v
+absprengen/BIXY	v
+abspricht/X
+abspringen/DIX	v
+abspritzen/DIXY	v
+abspulen/DIXY	v
+abspu"len/DIXY	v
+abstammen/DIXY	v
+abstatten/DIXY	v
+abstauben/DIXY	v
+abstechen/DI	v
+abstecken/DIXY	v
+abstehen/DIX	v
+absteigen/DIX	v
+abstellen/BDIXY	v
+abstempeln/DIXY	v
+absteppen/DIXY	v
+absterben/DI	v
+absticht/X
+abstieg/ZE
+abstillen/DIXY	v
+abstimmen/BDIXY	v
+abstirbt/X
+abstoppen/DIXY	v
+abstosSen/DI	v
+abstrafen/DIXY	v
+abstrahieren/DIOXY	v
+abstrahlen/DIXY	v
+abstreichen/DIX	v
+abstreifen/DIXY	v
+abstreiten/DIX	v
+abstritt/Z
+abstufen/BDIXY	v
+abstumpfen/DIXY	v
+abstu"rzen/DIXY	v
+abstu"tzen/DIXY	v
+absuchen/DIXY	v
+absa"gen/DIXY	v
+abtasten/DIXY	v
+abtat/Z
+abtauchen/DIXY	v
+abteilen/BDIXY	v
+abteufen/IXY	v
+abtippen/BDIXY	v
+abtragen/DI	v
+abtransportieren/BDIOXY	v
+abtrat/Z
+abtreiben/DIX	v
+abtrennen/BDIXY	v
+abtreten/DI	v
+abtrocknen/DIXY	v
+abtropfen/DIXY	v
+abtrotzen/DIXY	v
+abtrug/Z
+abtun/IX	v
+abtupfen/DIXY	v
+abto"ten/DIXY	v
+aburteilen/DIXY	v
+abverdienen/DIXY	v
+abverkaufen/DIOXY	v
+abverlangen/DIOXY	v
+abwandeln/BDIXY	v
+abwandern/DIXY	v
+abwandte/Z
+abwarf/Z
+abwarten/DIXY	v
+abwaschen/BDI	v
+abwechseln/DIXY	v
+abwehren/DIXY	v
+abweichen/DIX	v
+abweisen/DIX	v
+abwenden/BDIXY	v
+abwerben/DI	v
+abwerfen/BDI	v
+abwerten/DIXY	v
+abwich/ZE
+abwickeln/DIXY	v
+abwiegen/DIX	v
+abwinken/DIXY	v
+abwirbt/X
+abwirft/X
+abwirtschaften/DIXY	v
+abwischen/DIXY	v
+abwog/Z
+abwracken/BDIXY	v
+abwa"gen/BDIXY	v
+abwa"hlen/BIXY	v
+abwa"lzen/DIXY	v
+abwu"rgen/DIXY	v
+abzahlen/BDIXY	v
+abzapfen/DIXY	v
+abzeichnen/DIXY	v
+abziehen/BDIX	v
+abzielen/DIXY	v
+abzog/Z
+abzuarbeiten/D
+abzubauen/D
+abzubekommen
+abzubestellen/D
+abzubilden/D
+abzublocken/D
+abzubrechen/D
+abzubringen
+abzubuchen/D
+abzudanken
+abzudecken/D
+abzudichten/D
+abzudrehen/D
+abzudrucken/D
+abzudra"ngen/D
+abzudru"cken/D
+abzuerkennen/D
+abzufangen/D
+abzufedern/D
+abzufeiern/D
+abzufeuern/D
+abzufinden/D
+abzufragen/D
+abzufressen/D
+abzufu"hren/D
+abzugeben/D
+abzugehen/D
+abzugewinnen/D
+abzugleichen/D
+abzugrasen/D
+abzugreifen/D
+abzugrenzen/D
+abzuhalten/D
+abzuhauen
+abzuheben/D
+abzuheften/D
+abzuhelfen/D
+abzuholen/D
+abzuha"ngen/D
+abzuho"ren/D
+abzujagen/D
+abzukassieren
+abzuklingen
+abzuklopfen/D
+abzukla"ren/D
+abzuknabbern/D
+abzukochen/D
+abzukommen/D
+abzukoppeln/D
+abzuku"hlen/D
+abzuku"rzen/D
+abzulassen/D
+abzulaufen
+abzulegen/D
+abzulehnen/D
+abzuleisten/D
+abzuleiten/D
+abzulenken/D
+abzulesen/D
+abzuliefern/D
+abzulo"sen/D
+abzumelden/D
+abzumildern/D
+abzumu"hen
+abzunehmen/D
+abzupassen/D
+abzupflu"cken/D
+abzuraten
+abzureagieren/D
+abzurechnen/D
+abzureisen
+abzuriegeln/D
+abzuringen/D
+abzurufen/D
+abzurunden/D
+abzurutschen/D
+abzura"umen/D
+abzuru"cken/D
+abzusagen/D
+abzusahnen/D
+abzuschaffen/D
+abzuschalten/D
+abzuscheiden/D
+abzuschicken/D
+abzuschieben/D
+abzuschiesSen/D
+abzuschlagen/D
+abzuschleifen/D
+abzuschliesSen/D
+abzuschneiden/D
+abzuschotten/D
+abzuschrecken/D
+abzuschreiben/D
+abzuschwenken/D
+abzuschwa"chen/D
+abzuscha"tzen/D
+abzuschu"tteln/D
+abzusehen/D
+abzusenden/D
+abzusenken/D
+abzuservieren/D
+abzusetzen/D
+abzusichern/D
+abzusinken
+abzusitzen/D
+abzusondern/D
+abzuspeichern/D
+abzuspeisen/D
+abzusperren/D
+abzuspielen/D
+abzusprechen/D
+abzuspulen/D
+abzustatten/D
+abzustecken/D
+abzustehen
+abzusteigen
+abzustellen/D
+abzustempeln/D
+abzustimmen/D
+abzustosSen/D
+abzustrahlen/D
+abzustreifen/D
+abzustumpfen/D
+abzustu"rzen
+abzusuchen/D
+abzutasten/D
+abzutransportieren/D
+abzutreiben/D
+abzutrennen/D
+abzutreten/D
+abzutrocknen/D
+abzutrotzen/D
+abzutun
+abzuto"ten/D
+abzuverlangen/D
+abzuwandeln/D
+abzuwarten/D
+abzuwechseln/D
+abzuwehren/D
+abzuweichen
+abzuweisen/D
+abzuwenden/D
+abzuwerfen/D
+abzuwickeln/D
+abzuwiegen/D
+abzuwirtschaften/D
+abzuwa"gen/D
+abzuwa"hlen/D
+abzuwa"lzen/D
+abzuwu"rgen/D
+abzuzahlen/D
+abzuzeichnen/D
+abzuziehen/D
+abzuzocken/D
+abzuzweigen/D
+abzua"ndern/D
+abzweigen/DIXY	v
+abzwicken/DIXY	v
+abza"hlen/BDIXY	v
+abza"unen/DIXY	v
+abzo"ge/Z
+aba"ndern/DIXY	v
+achteln/DIXY	v
+achten/BDIVXY	v
+ackern/DIXY	v
+adaptieren/BDIOXY	v
+addieren/DIOXY	v
+adeln/DIXY	v
+administrieren/DIOXY	v
+adoptieren/DIOXY	v
+adressieren/BDIOXY	v
+adsorbieren/DIOXY	v
+affirmieren/DIXYW	v
+agglutinieren/DIXY	v
+agieren/DIXY	v
+agitieren/DIXY	v
+ahmen/IXY	v
+ahnden/DIXY	v
+ahnen/DIXY	v
+akklimatisieren/DIOXY	v
+akkommodieren/DIOXY	v
+akkordieren/DIOXYW	v
+akkreditieren/DIOXY	v
+akkumulieren/DIOXY	v
+akquirieren/BDIOXYW	v
+aktivieren/BDIOXY	v
+aktualisieren/BDIOXY	v
+akupunktieren/DIOXYW	v
+akzentuieren/DIOXY	v
+akzeptieren/DIOXY	v
+alarmieren/DIOXY	v
+albern/DIXYA	v
+alkoholisieren/BDIOXYW	v
+alliieren/DIOXYW	v
+altern/DIXY	v
+alternieren/DIOXY	v
+amerikanisieren/DIOXY	v
+amnestieren/DIOXY	v
+amortisieren/BDIOXY	v
+amputieren/DIOXY	v
+amtieren/DIXY	v
+amu"sieren/DIOXY	v
+analysieren/BDIOXY	v
+anbaggern/DIXY	v
+anbahnen/DIXY	v
+anbauen/DIXY	v
+anbehalten/DIXA	v
+anbeisSen/DIX	v
+anbelangen/DIOXY	v
+anbellen/DIXY	v
+anberaumen/DIOXY	v
+anbeten/DIXY	v
+anbetreffen/D
+anbetrifft
+anbetteln/DIXY	v
+anbiedern/DIXY	v
+anbieten/DIX	v
+anbinden/DIX	v
+anbiss/ZE
+anblasen/DI	v
+anblicken/DIXY	v
+anblinzeln/DIXY	v
+anbla"st
+anbohren/DIXY	v
+anbot/Z
+anbrach/Z
+anbrachte/Z
+anbrannte/Z
+anbraten/DI	v
+anbrechen/DI	v
+anbrennen/DIX	v
+anbricht/X
+anbriet/EZ
+anbringen/DIX	v
+anbru"llen/DIXY	v
+anba"ndeln/DIXY	v
+anbo"te/Z
+andauern/DIXY	v
+andeuten/DIXY	v
+andichten/DIXY	v
+andienen/DIXY	v
+andiskutieren/DIOXY	v
+andrehen/DIXY	v
+androhen/DIXY	v
+andu"nsten/DIXY	v
+anecken/IXY	v
+aneignen/DIXY	v
+anekeln/DIXY	v
+anerkennen/BDIX	v
+anerziehen/DIX	v
+anerzogen/AWX	v
+anfachen/DIXY	v
+anfahren/DI	v
+anfallen/DI	v
+anfangen/DI	v
+anfassen/DIXY	v
+anfaulen/DIXY	v
+anfechten/BDIX	v
+anfeilen/DIXY	v
+anfeinden/DIXY	v
+anfertigen/DIXY	v
+anfeuchten/DIXY	v
+anfeuern/DIXY	v
+anfiel/ZE
+anfing/ZE
+anflehen/DIXY	v
+anfliegen/DIX	v
+anflog/Z
+anfocht/Z
+anfordern/DIXY	v
+anfragen/DIXY	v
+anfrasS/Z
+anfreunden/DIXY	v
+anfrieren/DIX	v
+anfa"llt/X
+anfa"ngt/X
+anfu"gen/BDIXY	v
+anfu"hlen/DIXY	v
+anfu"hren/DIXY	v
+angab/Z
+angaffen/DIXY	v
+angeben/DI	v
+angegrenzt
+angeguckt
+angehen/DIX	v
+angeho"ren/DIOXY	v
+angeklingelt
+angeln/DIXY	v
+angestanden
+angewo"hnen/DIXY	v
+angibt/X
+anging/ZE
+angleichen/DIX	v
+angliedern/DIXY	v
+anglotzen/DIXY	v
+angreifen/DIX	v
+angrenzen/DI	v
+angriff/ZE
+angrinsen/DIXY	v
+angucken/DIXY	v
+anhaben/DI	v
+anhaften/DIXY	v
+anhalten/DI	v
+anhauchen/DIXY	v
+anheben/DIX	v
+anheften/DIXY	v
+anheimfallen
+anheimfa"llt/X
+anheizen/DIXY	v
+anheuern/DIXY	v
+anhielt/ZE
+anhimmeln/DIXY	v
+anhob/Z
+anha"ltst/X
+anha"ngen/DIX	v
+anha"ufen/DIXY	v
+anho"ren/DIXY	v
+animieren/BDIOXY	v
+ankam/Z
+ankaufen/DIXY	v
+ankern/DIVXY	v
+anketten/DIXY	v
+anklagen/DIXY	v
+anklammern/DIXY	v
+ankleben/DIXY	v
+ankleiden/DIXY	v
+anklicken/BDIXY	v
+anklingeln/DIXY	v
+anklingen/DIX	v
+anklopfen/DIXY	v
+anknipsen/DIXY	v
+anknu"pfen/DIXY	v
+ankommen/DIX	v
+ankoppeln/DIXY	v
+ankotzen/DIXY	v
+ankreiden/DIXY	v
+ankreuzen/DIXY	v
+ankurbeln/DIXY	v
+anka"men/IX	v
+anka"mpfen/DIXY	v
+anku"ndigen/DIXY	v
+anlachen/DIXY	v
+anlangen/DIXY	v
+anlassen/DIV	v
+anlaufen/DI	v
+anlegen/DIXY	v
+anlehnen/DIXY	v
+anleimen/DIXY	v
+anleiten/DIXY	v
+anlernen/DIXY	v
+anlief/ZE
+anliefern/DIXY	v
+anliegen/DIX	v
+anlocken/DIXY	v
+anla"cheln/DIXY	v
+anla"uft/X
+anlo"ten/DIXY	v
+anlu"gen/DIX	v
+anmachen/DIXY	v
+anmalen/DIXY	v
+anmarschieren/DIOXY	v
+anmasSen/DIXY	v
+anmelden/DIXY	v
+anmerken/DIXY	v
+anmessen/DIX	v
+anmieten/DIXY	v
+anmotzen/DIXY	v
+anmuten/DIXY	v
+annageln/DIXY	v
+annahm/Z
+annehmen/BDI	v
+annektieren/DIOXY	v
+annimmt/X
+annoncieren/DIOXY	v
+annullieren/BDIOXYW	v
+anna"hen/DIXY	v
+anna"hern/DIXY	v
+anna"hmen/IX	v
+anonymisieren/BDIOXYW	v
+anordnen/DIXY	v
+anpacken/DIXY	v
+anpassen/BDIXY	v
+anpeilen/DIXY	v
+anpflanzen/DIXY	v
+anprallen/DIXY	v
+anprangern/DIXY	v
+anpreisen/DIX	v
+anpressen/DIXY	v
+anpries/ZE
+anprobieren/BDIOXY	v
+anpumpen/DIXY	v
+anpo"beln/DIXY	v
+anraten/DI	v
+anrechnen/DIXY	v
+anreden/DIXY	v
+anregen/DIXY	v
+anreichern/DIXY	v
+anreihen/DIXY	v
+anreisen/DIXY	v
+anreizen/DIXY	v
+anreisSen/DIX	v
+anrennen/DIX	v
+anrichten/DIXY	v
+anrief/ZE
+anriss/ZE
+anrollen/DIXY	v
+anrufen/DIX	v
+anru"cken/DIXY	v
+anru"hren/DIXY	v
+ansagen/DIXY	v
+ansah/Z
+ansammeln/DIXY	v
+ansaugen/DIXY	v
+anschaffen/DIXY	v
+anschalten/DIXY	v
+anschauen/DIXY	v
+anscheinen/DIX	v
+anschichten/DIXY	v
+anschicken/DIXY	v
+anschieben/DIX	v
+anschien/ZE
+anschiesSen/DIX	v
+anschlagen/DIV	v
+anschleppen/DIXY	v
+anschliesSen/BDIX	v
+anschloss/Z
+anschlug/Z
+anschla"gt/X
+anschmiegen/DIXY	v
+anschmieren/DIXY	v
+anschnallen/DIXY	v
+anschnauzen/DIXY	v
+anschneiden/DIX	v
+anschob/Z
+anschrauben/DIXY	v
+anschreiben/DIX	v
+anschreien/DIX	v
+anschuldigen/DIXY	v
+anschweisSen/DIXY	v
+anschwellen/DIX	v
+anschwemmen/DIXY	v
+anschwillt/X
+anschwindeln/DIXY	v
+anschwa"rzen/DIXY	v
+ansehen/DI	v
+anseilen/DIXY	v
+ansengen/DIXY	v
+ansetzen/DIXY	v
+ansiedeln/DIXY	v
+ansieht/X
+anspannen/DIXY	v
+anspeien/DIX	v
+anspielen/DIXY	v
+anspinnen/DIX	v
+anspitzen/DIXY	v
+anspornen/DIXY	v
+ansprach/Z
+ansprechen/BI	v
+anspricht/X
+anspringen/DIX	v
+anspritzen/DIXY	v
+anspra"che/Z
+anspucken/DIXY	v
+anspu"len/DIXY	v
+anstach/Z
+anstacheln/DIXY	v
+anstarren/DIXY	v
+anstauen/DIXY	v
+anstechen/DI	v
+anstecken/BDIXY	v
+anstehen/DIX	v
+ansteigen/DIX	v
+anstellen/DIXY	v
+ansteuern/BDIXY	v
+anstiften/DIXY	v
+anstimmen/DIXY	v
+anstosSen/DI	v
+anstrahlen/DIXY	v
+anstreben/DIXY	v
+anstreichen/DIX	v
+anstrengen/DIXY	v
+ansto"sSt
+anstu"rmen/DIXY	v
+ansuchen/DIXY	v
+ansa"gen/DIXY	v
+antanzen/IXY	v
+antasten/DIXY	v
+antat/Z
+antizipieren/BDIOXY	v
+antraf/Z
+antragen/DI	v
+antrat/Z
+antreffen/DI	v
+antreiben/DIX	v
+antreten/DI	v
+antrieb/ZE
+antrifft/X
+antrittst/X
+antrug/Z
+antun/IX	v
+antworten/DIVXY	v
+anta"te/Z
+anto"rnen/DIXY	v
+anvertrauen/DIOXY	v
+anvisieren/DIOXY	v
+anwachsen/DI	v
+anwarb/Z
+anwarf/Z
+anwehen/DIXY	v
+anweisen/DIX	v
+anwenden/BDIXY	v
+anwerben/DI	v
+anwidern/DIXY	v
+anwies/ZE
+anwinkeln/DIXY	v
+anwirbt/X
+anwuchs/Z
+anwa"chst
+anwa"hlen/BIXY	v
+anzahlen/BDIXY	v
+anzapfen/DIXY	v
+anzeichnen/DIXY	v
+anzeigen/DIXY	v
+anzetteln/DIXY	v
+anziehen/DIX	v
+anzog/Z
+anzubahnen/D
+anzubauen/D
+anzubiedern
+anzubieten/D
+anzubinden/D
+anzubringen/D
+anzudeuten/D
+anzudienen/D
+anzueignen/D
+anzuerkennen/D
+anzufachen/D
+anzufahren
+anzufallen
+anzufangen
+anzufassen/D
+anzufechten/D
+anzufertigen/D
+anzuflehen/D
+anzufordern/D
+anzufragen/D
+anzufu"gen/D
+anzugeben/D
+anzugehen/D
+anzugeho"ren
+anzugleichen/D
+anzugliedern/D
+anzugreifen/D
+anzuhalten/D
+anzuheben/D
+anzuheften/D
+anzuheizen/D
+anzuha"ngen/D
+anzuho"ren/D
+anzukaufen/D
+anzuklagen/D
+anzuklicken/D
+anzuklopfen
+anzuknu"pfen/D
+anzukommen
+anzukreiden/D
+anzukuppeln/D
+anzukurbeln/D
+anzuka"mpfen
+anzuku"ndigen/D
+anzulasten/D
+anzulaufen
+anzulegen/D
+anzulehnen/D
+anzuleiern/D
+anzulernen
+anzulocken/D
+anzumelden/D
+anzumerken/D
+anzumieten/D
+anzunehmen/D
+anzuna"hern/D
+anzuordnen/D
+anzupacken/D
+anzupassen/D
+anzupeilen/D
+anzuprangern/D
+anzupreisen/D
+anzuraten/D
+anzurechnen/D
+anzuregen/D
+anzureichern/D
+anzureisen
+anzureisSen/D
+anzurempeln/D
+anzurichten/D
+anzurufen/D
+anzuru"hren/D
+anzusagen/D
+anzusammeln/D
+anzuschaffen/D
+anzuschauen/D
+anzuschieben/D
+anzuschlagen/D
+anzuschliesSen/D
+anzuschreiben/D
+anzusehen/D
+anzusetzen/D
+anzusiedeln/D
+anzuspannen/D
+anzusprechen/D
+anzustarren/D
+anzustecken/D
+anzusteigen
+anzustellen/D
+anzusteuern/D
+anzustosSen/D
+anzustreben/D
+anzustrengen/D
+anzutasten/D
+anzutragen/D
+anzutreffen/D
+anzutreten/D
+anzutun
+anzuvertrauen/D
+anzuweisen/D
+anzuwenden/D
+anzuwerben/D
+anzuwa"hlen/D
+anzuzapfen/D
+anzuzeigen/D
+anzuzetteln/D
+anzuziehen/D
+anzuzu"nden/D
+anzweifeln/DIXY	v
+anzu"nden/DIXY	v
+apostrophieren/DIOXYW	v
+appellieren/DIXY	v
+applaudieren/DIXY	v
+applizieren/BDIOXY	v
+apportieren/BDIOXYW	v
+approximieren/DIOXY	v
+arbeiten/DIVXY	v
+archivieren/DIOXY	v
+argumentieren/DIXY	v
+argwo"hnen/DIXY	v
+armieren/DIOXY	v
+arrangieren/BDIOXY	v
+arretieren/BDIOXY	v
+arrivieren/DIOXY	v
+arrondieren/DIOXY	v
+arten/IXY	v
+artikulieren/BDIOXY	v
+assimilieren/DIOXY	v
+assistieren/DIOXY	v
+assoziieren/BDIOXY	v
+atmen/DIXY	v
+attackieren/DIOXY	v
+attestieren/DIOXYW	v
+aufaddieren/DIOXY	v
+aufarbeiten/DIXY	v
+aufatmen/DIXY	v
+aufbahren/DIXY	v
+aufbauen/DIXY	v
+aufbauschen/DIXY	v
+aufbegehren/DIXY	v
+aufbereiten/BDIOXY	v
+aufbessern/DIXY	v
+aufbewahren/DIXY	v
+aufbinden/DIX	v
+aufblasen/BDI	v
+aufbleiben/DIX	v
+aufblicken/DIXY	v
+aufblieb/ZE
+aufblinken/DIXY	v
+aufbla"hen/DIXY	v
+aufbrach/Z
+aufbrachte/Z
+aufbrechen/I	v
+aufbricht/X
+aufbringen/IX	v
+aufbrummen/DIXY	v
+aufbru"hen/DXY	v
+aufba"umen/DIXY	v
+aufbu"rden/DIXY	v
+aufdampfen/BDIXY	v
+aufdecken/IXY	v
+aufdrehen/BDIXY	v
+aufdrucken/DIXY	v
+aufdra"ngen/DIXY	v
+aufdru"cken/DIXY	v
+auferlegen/DIOXY	v
+auferstehen/DIX	v
+auferstu"nden/IX	v
+auferwecken/DIOXY	v
+aufessen/DI	v
+auffahren/BDI	v
+auffallen/DI	v
+auffand/Z
+auffangen/BDI	v
+auffassen/BDIXY	v
+auffiel/ZE
+auffinden/BDIX	v
+auffing/ZE
+auffischen/DIXY	v
+aufflammen/DIXY	v
+auffliegen/DIX	v
+aufflog/Z
+aufflo"ge/Z
+auffordern/DIXY	v
+aufforsten/BDIXY	v
+auffrasS/Z
+auffressen/DI	v
+auffrischen/BDIXY	v
+auffrisst
+auffra"sSe/Z
+auffuhr/Z
+auffa"chern/BDIXY	v
+auffa"deln/BDIXY	v
+auffa"hrt/X
+auffa"llt/X
+auffa"ngt/X
+auffu"hren/BDIXY	v
+auffu"llen/BDIXY	v
+aufgab/Z
+aufgeben/DI	v
+aufgeblickt
+aufgehen/DIX	v
+aufgeho"rt
+aufgekriegt
+aufgerappelt
+aufgeschaut
+aufgeschrien
+aufgespalten/A	aa
+aufgetan
+aufgibt/X
+aufgiesSen/DIX	v
+aufging/ZE
+aufgliedern/DIXY	v
+aufglu"hen/DIXY	v
+aufgreifen/DIX	v
+aufgriff/Z
+aufhaben/DI	v
+aufhacken/DIXY	v
+aufhalf/Z
+aufhalten/DI	v
+aufheben/BDIX	v
+aufheitern/DIXY	v
+aufheizen/DIXY	v
+aufhelfen/DI	v
+aufhellen/DIXY	v
+aufhetzen/DIXY	v
+aufheulen/DIXY	v
+aufhielt/ZE
+aufhob/Z
+aufholen/DIXY	v
+aufhorchen/DIXY	v
+aufha"ltst/X
+aufha"ngen/DIX	v
+aufha"ufen/DIXY	v
+aufho"ren/DIXY	v
+aufkam/Z
+aufkaufen/DIXY	v
+aufkeimen/DIXY	v
+aufklaffen/DIXY	v
+aufklappen/DIXY	v
+aufklaren/DIXY	v
+aufkleben/DIXY	v
+aufkla"ren/DIXY	v
+aufkno"pfen/DIXY	v
+aufkochen/DIXY	v
+aufkommen/DIX	v
+aufkrempeln/DIXY	v
+aufkreuzen/DIXY	v
+aufkriegen/IXY	v
+aufku"ndigen/DIXY	v
+auflachen/DIXY	v
+aufladen/BDI	v
+auflassen/DI	v
+auflauern/DIXY	v
+auflaufen/DI	v
+aufleben/DIXY	v
+auflegen/DIXY	v
+auflehnen/DIXY	v
+auflesen/DI	v
+aufleuchten/DIXY	v
+aufliegen/DIX	v
+aufliesS/ZE
+auflisten/BDIXY	v
+auflockern/DIXY	v
+auflodern/DIXY	v
+aufla"dt/X
+aufla"uft/X
+auflo"sen/BDIXY	v
+auflo"ten/DIXY	v
+auflu"de/Z
+aufmachen/DIXY	v
+aufmarschieren/DIOXY	v
+aufmerken/DIXY	v
+aufmischen/BDIXY	v
+aufmucken/DIXY	v
+aufmuntern/DIXY	v
+aufmo"beln/DIXY	v
+aufnahm/Z
+aufnehmen/BDI	v
+aufnimmt/X
+aufna"hen/DIXY	v
+aufopfern/DIXY	v
+aufpassen/DIXY	v
+aufpeppen/DIXY	v
+aufpinseln/DIXY	v
+aufplatzen/DIXY	v
+aufpla"tten/DIXY	v
+aufpolieren/DIOXY	v
+aufprallen/DIXY	v
+aufprobieren/DIOXY	v
+aufpra"gen/DIXY	v
+aufpumpen/DIXY	v
+aufputschen/DIXY	v
+aufputzen/DIXY	v
+aufpa"ppeln/DIXY	v
+aufquellen/DI	v
+aufquillt/X
+aufquollen/X	v
+aufraffen/DIXY	v
+aufragen/DIXY	v
+aufrappeln/DIXY	v
+aufrauen/DIXY	v
+aufrechnen/DIXY	v
+aufrechterhalten/IDA	v
+aufrechterha"ltst/X
+aufregen/DIXY	v
+aufreiben/DIX	v
+aufreihen/DIXY	v
+aufreizen/DIXY	v
+aufreisSen/DIX	v
+aufrichten/DIXY	v
+aufrief/ZE
+aufrollen/DIXY	v
+aufrufen/BDIX	v
+aufrunden/DIXY	v
+aufra"umen/DIXY	v
+aufru"cken/DIXY	v
+aufru"hren/DIXY	v
+aufru"sten/BDIXY	v
+aufru"tteln/DIXY	v
+aufsagen/DIXY	v
+aufsammeln/DIXY	v
+aufsaugen/DIXY	v
+aufschauen/DIXY	v
+aufscheuchen/DIXY	v
+aufschichten/DIXY	v
+aufschieben/DIX	v
+aufschiesSen/DIX	v
+aufschlagen/DI	v
+aufschliesSen/DIX	v
+aufschlug/Z
+aufschla"gt/X
+aufschlu"ge/Z
+aufschlu"sseln/IXY	v
+aufschnappen/DIXY	v
+aufschneiden/DIX	v
+aufschnu"ren/DIXY	v
+aufschoss/Z
+aufschrauben/DIXY	v
+aufschrecken/DIXY	v
+aufschreiben/DIX	v
+aufschreien/DIX	v
+aufschrien/XI	v
+aufschwingen/DIX	v
+aufscho"ss/ZE
+aufschu"rfen/DIXY	v
+aufschu"tteln/DIXY	v
+aufschu"tten/DIXY	v
+aufsehen/DI	v
+aufsetzen/DIXY	v
+aufsieht/X
+aufsitzen/DIX	v
+aufspalten/DIXY	v
+aufspannen/DIXY	v
+aufsparen/DIXY	v
+aufsperren/DIXY	v
+aufspielen/DIXY	v
+aufspiesSen/DIXY	v
+aufsprang/Z
+aufspringen/DIX	v
+aufspu"ren/BDIXY	v
+aufstacheln/DIXY	v
+aufstampfen/DIXY	v
+aufstand/Z
+aufstapeln/DIXY	v
+aufstauen/DIXY	v
+aufstecken/DIXY	v
+aufstehen/DIX	v
+aufsteigen/DIX	v
+aufstellen/BDIXY	v
+aufstieg/ZE
+aufstocken/DIXY	v
+aufstosSen/DI	v
+aufstreben/DIXY	v
+aufstreichen/DIX	v
+aufsto"bern/DIXY	v
+aufsto"hnen/DIXY	v
+aufstu"tzen/DIXY	v
+aufsuchen/DIXY	v
+aufsummieren/DIOXY	v
+auftanken/DIXY	v
+auftat/Z
+auftauchen/DIXY	v
+auftauen/DIXY	v
+aufteilen/BDIXY	v
+auftischen/DIXY	v
+auftragen/DI	v
+auftrat/Z
+auftreffen/DI	v
+auftreiben/DIX	v
+auftrennen/DIXY	v
+auftreten/DI	v
+auftrittst/X
+auftrumpfen/DIXY	v
+auftra"gt/X
+auftun/IX	v
+aufwachen/DIXY	v
+aufwachsen/DI	v
+aufwallen/DIXY	v
+aufwarten/DIXY	v
+aufwecken/DIXY	v
+aufweichen/DIXY	v
+aufweisen/DIX	v
+aufwenden/DIXY	v
+aufwerfen/DI	v
+aufwerten/DIXY	v
+aufwickeln/DIXY	v
+aufwiegeln/DIXY	v
+aufwiegen/DIX	v
+aufwies/ZE
+aufwirbeln/DIXY	v
+aufwirft/X
+aufwischen/DIXY	v
+aufwuchs/Z
+aufwa"chst
+aufwa"rmen/DIXY	v
+aufwu"hlen/IXY	v
+aufzehren/DIXY	v
+aufzeichnen/DIXY	v
+aufzeigen/DIXY	v
+aufziehen/BDIX	v
+aufzog/Z
+aufzuarbeiten/D
+aufzubauen/D
+aufzubereiten/D
+aufzubessern/D
+aufzubewahren/D
+aufzubieten/D
+aufzubinden/D
+aufzublasen/D
+aufzublicken
+aufzublinken
+aufzubohren/D
+aufzubrechen/D
+aufzubringen/D
+aufzubrummen/D
+aufzubu"rden/D
+aufzudecken/D
+aufzudrehen/D
+aufzudra"ngen
+aufzudru"cken/D
+aufzuerbauen/D
+aufzuerlegen/D
+aufzuessen/D
+aufzufallen
+aufzufangen/D
+aufzufassen/D
+aufzufinden/D
+aufzufordern/D
+aufzuforsten/D
+aufzufrischen/D
+aufzufu"hren/D
+aufzufu"llen/D
+aufzugabeln/D
+aufzugeben/D
+aufzugehen
+aufzugliedern/D
+aufzugreifen/D
+aufzuhalten/D
+aufzuheben/D
+aufzuheitern/D
+aufzuhelfen/D
+aufzuholen/D
+aufzuha"ngen/D
+aufzuha"ufen/D
+aufzuho"ren
+aufzukaufen/D
+aufzukla"ren/D
+aufzukommen
+aufzulegen/D
+aufzulehnen
+aufzulesen/D
+aufzulisten/D
+aufzulockern/D
+aufzulo"sen/D
+aufzumucken
+aufzunehmen/D
+aufzuopfern/D
+aufzupassen
+aufzupeppen/D
+aufzuplustern
+aufzupolieren/D
+aufzupra"gen/D
+aufzurauen/D
+aufzurechnen/D
+aufzuregen/D
+aufzureisSen/D
+aufzurichten/D
+aufzurollen/D
+aufzurufen/D
+aufzura"umen/D
+aufzuru"cken/D
+aufzuru"sten/D
+aufzusammeln/D
+aufzuschichten/D
+aufzuschieben/D
+aufzuschlagen/D
+aufzuschliesSen/D
+aufzuschlu"sseln/D
+aufzuschnu"ren/D
+aufzuschrecken/D
+aufzuschreiben/D
+aufzuschwatzen/D
+aufzusetzen/D
+aufzuspalten/D
+aufzuspielen/D
+aufzuspu"ren/D
+aufzustauen/D
+aufzustecken/D
+aufzustehen
+aufzusteigen
+aufzustellen/D
+aufzustocken/D
+aufzusto"bern/D
+aufzusuchen/D
+aufzutauchen
+aufzuteilen/D
+aufzutragen/D
+aufzutreiben/D
+aufzutrennen/D
+aufzutreten
+aufzutun
+aufzuwachsen
+aufzuwecken/D
+aufzuweichen/D
+aufzuweisen/D
+aufzuweiten/D
+aufzuwenden/D
+aufzuwerfen/D
+aufzuwiegeln/D
+aufzuwiegen/D
+aufzuwa"rmen/D
+aufzuzeichnen/D
+aufzuzeigen/D
+aufzuziehen/D
+aufzuza"hlen/D
+aufzwang/Z
+aufzwingen/DIX	v
+aufza"hlen/DIXY	v
+aufza"umen/BDIXY	v
+aufzu"chten/IXY	v
+aufa"sSe/Z
+ausarbeiten/DIXY	v
+ausarten/DIXY	v
+ausatmen/DIXY	v
+ausbaden/DIXY	v
+ausbalancieren/DIOXY	v
+ausbauen/BDIXY	v
+ausbessern/DIXY	v
+ausbeuten/DIXY	v
+ausbezahlen/IOXY	v
+ausbilden/BDIXY	v
+ausbitten/DIX	v
+ausblasen/DI	v
+ausbleiben/DIX	v
+ausbleichen/DIX	v
+ausblenden/DIXY	v
+ausblieb/ZE
+ausbluten/DIXY	v
+ausbohren/DIXY	v
+ausbooten/DIXY	v
+ausborgen/DIXY	v
+ausbrach/Z
+ausbrannte/Z
+ausbrechen/DI	v
+ausbreiten/DIXY	v
+ausbrennen/DIX	v
+ausbricht/X
+ausbringen/DIX	v
+ausbru"ten/DIXY	v
+ausbuchten/DIXY	v
+ausbuddeln/DIXY	v
+ausbu"geln/DIXY	v
+ausbu"rgern/DIXY	v
+ausbu"rsten/DIXY	v
+ausdachte/N
+ausdehnen/BDIXY	v
+ausdenken/BDIX	v
+ausdiskutieren/DIOXY	v
+ausdorren/DIXY	v
+ausdrehen/DIXY	v
+ausdrucken/DIXY	v
+ausdru"cken/BDIXY	v
+ausdu"nnen/DIXY	v
+auseinandersetzen/DIXY	v
+auseinanderzusetzen
+auserwa"hlen/IOXY	v
+ausfahren/BDI	v
+ausfallen/DI	v
+ausfechten/DIX	v
+ausfegen/DIXY	v
+ausfeilen/DIXY	v
+ausfertigen/DIXY	v
+ausfiel/ZE
+ausfiltern/BDIXY	v
+ausfinden/DIX	v
+ausflicken/DIXY	v
+ausfliegen/DIX	v
+ausfliesSen/DIX	v
+ausfocht/Z
+ausformen/BDIXY	v
+ausformulieren/BDIOXY	v
+ausfragen/DIXY	v
+ausfransen/DIXY	v
+ausfressen/DI	v
+ausfra"sSe/Z
+ausfa"llt/X
+ausfu"hren/DIXY	v
+ausfu"llen/DIXY	v
+ausgab/Z
+ausgebadet
+ausgeben/DI	v
+ausgehen/DIX	v
+ausgekannt
+ausgekommen
+ausgependelt
+ausgesehen
+ausgesorgt
+ausgespa"ht
+ausgestalten/IXY	v
+ausgeweint
+ausgewirkt
+ausgibt/X
+ausgiesSen/DIX	v
+ausging/ZE
+ausgleichen/DIX	v
+ausgleiten/DIX	v
+ausgliedern/DIXY	v
+ausgraben/DI	v
+ausgreifen/DIX	v
+ausgrenzen/BDIXY	v
+ausgra"bt/X
+ausga"be/Z
+aushalten/DI	v
+aushandeln/DIXY	v
+ausharren/DIXY	v
+aushauchen/DIXY	v
+ausheben/DIX	v
+aushecken/DIXY	v
+ausheilen/DIXY	v
+aushelfen/DI	v
+aushielt/ZE
+ausholen/DIXY	v
+aushorchen/DIXY	v
+ausha"ltst/X
+ausha"ndigen/DIXY	v
+ausha"ngen/DIX	v
+ausha"rten/DIXY	v
+ausho"hlen/DIXY	v
+auskam/Z
+auskehren/DIXY	v
+auskennen/DIX	v
+ausklammern/DIXY	v
+ausklappen/BDIXY	v
+auskleiden/DIXY	v
+ausklingen/DIX	v
+ausklinken/DIXY	v
+ausklopfen/DIXY	v
+ausknipsen/DIXY	v
+auskochen/DIXY	v
+auskommen/DIX	v
+auskosten/DIXY	v
+auskratzen/DIXY	v
+auskristallisieren/O	v
+auskundschaften/DIXY	v
+auskuppeln/DIXY	v
+auskurieren/DIOXY	v
+ausku"hlen/DIXY	v
+auslachen/DIXY	v
+ausladen/DI	v
+auslagern/BDIXY	v
+auslassen/DI	v
+auslaufen/DI	v
+auslauten/DIXY	v
+ausleben/DIXY	v
+ausleeren/DIXY	v
+auslegen/BDIXY	v
+ausleihen/DIX	v
+auslesen/BDI	v
+ausleuchten/DIXY	v
+ausliefern/DIXY	v
+ausliest
+ausliesS/ZE
+auslisten/DIXY	v
+auslosen/DIXY	v
+ausloten/DIXY	v
+ausla"dt/X
+ausla"sst
+ausla"uft/X
+auslo"ffeln/DIXY	v
+auslo"schen/BDIXY	v
+auslo"sen/DIXY	v
+auslu"ften/DIXY	v
+ausmachen/DIXY	v
+ausmalen/DIXY	v
+ausmerzen/DIXY	v
+ausmessen/DI	v
+ausmisten/DIXY	v
+ausmustern/DIXY	v
+ausnahm/Z
+ausnehmen/DI	v
+ausnimmt/X
+ausnutzen/DIXY	v
+ausnu"tzen/DIXY	v
+auspacken/BDIXY	v
+auspeitschen/DIXY	v
+auspfeifen/DIX	v
+auspfiff/ZE
+ausplaudern/BDIXY	v
+ausplu"ndern/DIXY	v
+auspressen/DIXY	v
+ausprobieren/DIOXY	v
+auspra"gen/DIXY	v
+auspumpen/IXY	v
+ausputzen/DIXY	v
+ausquetschen/DIXY	v
+ausradieren/DIOXY	v
+ausrangieren/DIOXY	v
+ausrasten/DIXY	v
+ausrauben/DIXY	v
+ausrechnen/DIXY	v
+ausreden/DIXY	v
+ausreichen/DIXY	v
+ausreifen/DIXY	v
+ausreisen/DIXY	v
+ausreiten/DIX	v
+ausreizen/DIXY	v
+ausreisSen/DIX	v
+ausrenken/DIXY	v
+ausrichten/DIXY	v
+ausrief/ZE
+ausrollen/DIXY	v
+ausrotten/DIXY	v
+ausrufen/DIX	v
+ausruhen/DIXY	v
+ausrutschen/DIXY	v
+ausra"umen/DIXY	v
+ausru"cken/DIXY	v
+ausru"sten/BDIXY	v
+aussagen/DIXY	v
+aussah/Z
+aussaugen/DIXY	v
+ausschalten/BDIXY	v
+ausschauen/DIXY	v
+ausscheiden/DIX	v
+ausscheren/DIXY	v
+ausschied/ZE
+ausschildern/DIXY	v
+ausschimpfen/DIXY	v
+ausschlachten/BDIXY	v
+ausschlafen/DI	v
+ausschlagen/DI	v
+ausschliesSen/DIX	v
+ausschmu"cken/DIXY	v
+ausschneiden/DIX	v
+ausschnu"ffeln/BDIXY	v
+ausschreiben/DIX	v
+ausschreiten/DIX	v
+ausschweifen/DIXY	v
+ausschweigen/DIX	v
+ausschwenken/DIXY	v
+ausscho"pfen/IXY	v
+ausschu"tteln/DIXY	v
+ausschu"tten/DIXY	v
+aussehen/DI	v
+aussenden/DIXY	v
+aussetzen/DIXY	v
+aussiedeln/BDIXY	v
+aussieht/X
+aussondern/DIXY	v
+aussortieren/BDIOXY	v
+ausspannen/DIXY	v
+aussparen/DIXY	v
+ausspeien/DIX	v
+aussperren/DIXY	v
+ausspielen/DIXY	v
+ausspionieren/DIOXY	v
+aussprach/Z
+aussprechen/DI	v
+ausspricht/X
+ausspucken/DIXY	v
+ausspa"hen/BDIXY	v
+ausspu"len/DIXY	v
+ausstaffieren/DIOXY	v
+ausstanzen/DIXY	v
+ausstatten/DIXY	v
+ausstechen/DI	v
+ausstehen/DIX	v
+aussteigen/DIX	v
+ausstellen/BDIXY	v
+aussterben/DI	v
+ausstieg/Z
+ausstiesS/ZE
+ausstopfen/DIXY	v
+ausstosSen/DI	v
+ausstrahlen/BDIXY	v
+ausstrecken/BDIXY	v
+ausstreichen/DIX	v
+ausstreuen/DIXY	v
+ausstro"men/DIXY	v
+aussuchen/DIXY	v
+aussa"gen/DIXY	v
+aussa"h/ZE
+ausso"hnen/DIXY	v
+austauschen/BDIXY	v
+austeilen/DIXY	v
+austesten/DIXY	v
+austilgen/DIXY	v
+austoben/DIXY	v
+austragen/DI	v
+austrampeln/DIXY	v
+austrat/Z
+austreiben/DIX	v
+austreten/DI	v
+austrinken/DIX	v
+austritt/X
+austrocknen/DIXY	v
+austrug/Z
+austra"gt/X
+austu"fteln/DIXY	v
+ausufern/DIXY	v
+ausverkaufen/DIXY	v
+auswandern/DIXY	v
+auswarf/Z
+auswaschen/BI	v
+auswechseln/BDIXY	v
+ausweichen/DIX	v
+ausweinen/DIXY	v
+ausweisen/DIX	v
+ausweiten/DIXY	v
+auswerfen/DI	v
+auswerten/BDIXY	v
+auswich/ZE
+auswirft/X
+auswirken/DIXY	v
+auswischen/DIXY	v
+auswa"hlen/BDIXY	v
+auswa"scht
+auswu"rfeln/DIXY	v
+auszahlen/DIXYB	v
+auszeichnen/DIXY	v
+ausziehen/BIX	v
+auszog/Z
+auszuarbeiten/D
+auszuarten
+auszubauen/D
+auszubessern/D
+auszubeuten/D
+auszubilden/D
+auszublenden/D
+auszubluten
+auszubrechen/D
+auszubreiten/D
+auszubuddeln/D
+auszudehnen/D
+auszudenken/D
+auszudrucken/D
+auszudru"cken/D
+auszufahren/D
+auszufallen
+auszufiltern/D
+auszufragen/D
+auszufu"hren/D
+auszufu"llen/D
+auszugeben/D
+auszugehen
+auszugestalten/D
+auszugiesSen/D
+auszugleichen/D
+auszuhalten/D
+auszuhandeln/D
+auszuhauchen/D
+auszuhebeln
+auszuhecken/D
+auszuha"ndigen/D
+auszuha"ngen/D
+auszuklammern/D
+auszukommen
+auszukotzen/D
+auszukundschaften/D
+auszulagern/D
+auszulassen/D
+auszuleben/D
+auszulegen/D
+auszuleihen/D
+auszulesen/D
+auszuliefern/D
+auszuloten/D
+auszulo"schen/D
+auszulo"sen/D
+auszumachen/D
+auszumalen/D
+auszumerzen/D
+auszumessen/D
+auszunehmen/D
+auszunutzen/D
+auszupacken/D
+auszupeitschen/D
+auszuplu"ndern/D
+auszuprobieren/D
+auszurechnen/D
+auszureden/D
+auszureichen
+auszureizen/D
+auszureisSen/D
+auszurichten/D
+auszurotten/D
+auszurufen/D
+auszuruhen
+auszura"umen/D
+auszuru"sten/D
+auszusagen
+auszuschalten/D
+auszuschlachten/D
+auszuschlagen/D
+auszuschliesSen/D
+auszuschmu"cken/D
+auszuschreiben/D
+auszuscho"pfen/D
+auszusehen
+auszusenden/D
+auszusetzen/D
+auszusondern/D
+auszuspannen/D
+auszuspielen/D
+auszuspionieren/D
+auszusprechen/D
+auszuspucken/D
+auszuspa"hen/D
+auszustatten/D
+auszustellen/D
+auszustrahlen/D
+auszustrecken/D
+auszusuchen/D
+auszutauschen/D
+auszuteilen/D
+auszutilgen/D
+auszutragen/D
+auszutreiben/D
+auszutu"fteln/D
+auszuwandern
+auszuwechseln/D
+auszuweichen
+auszuweisen/D
+auszuweiten/D
+auszuwerfen/D
+auszuwerten/D
+auszuwa"hlen/D
+auszuzahlen/D
+auszuzeichnen/D
+auszuziehen/D
+auszuu"ben/D
+ausza"hlen/BDIXY	v
+ausu"ben/DIXY	v
+authentifizieren/DIOXYW	v
+authentisieren/DIOXYW	v
+automatisieren/BDIOXY	v
+autorisieren/IOXY	v
+avancieren/DIOXY	v
+avisieren/DIOXY	v
+asS/Z
+backen/DIXYW	v
+baden/DIXY	v
+bagatellisieren/DIOXYW	v
+baggern/DIXY	v
+bahnen/IXYW	v
+balancieren/DIXY	v
+balgen/DIXY	v
+ballen/DIXY	v
+ballern/DIXY	v
+balsamieren/DIOXYW	v
+band/VZ
+bandagieren/DIOXY	v
+bangen/DIXY	v
+bannen/DIVXY	v
+barg/VZ
+barst/Z
+basieren/DIOXY	v
+basteln/DIXY	v
+bat/VZ
+bauchpinseln/DIXYW	v
+bauen/BDIVXY	v
+baumeln/DIXY	v
+bauschen/DIXY	v
+beabsichtigen/DIOXY	v
+beachten/DIOXY	v
+beanspruchen/BDIOXY	v
+beanstanden/BDIOXY	v
+beantragen/DIOXY	v
+beantworten/BDIOXY	v
+bearbeiten/BDIOXY	v
+beargwo"hnen/DIOXY	v
+beatmen/DIOXY	v
+beaufsichtigen/DIXY	v
+beauftragen/DIOXY	v
+bebauen/BDIOXY	v
+beben/DIXY	v
+bebildern/IOXYW	v
+bechern/DIXY	v
+bedachte/Z
+bedampfen/BDIOXYW	v
+bedanken/DIXY	v
+bedarfst/W
+bedauern/DIOXY	v
+bedecken/DIOXY	v
+bedenken/DIX	v
+bedeuten/DIXY	v
+bedienen/BDIOXYW	v
+bedingen/DIOXY	v
+bedrohen/DIOXY	v
+bedrucken/BDIOXY	v
+bedra"ngen/DIOXY	v
+bedru"cken/DIOXY	v
+bedurften/IWX	v
+bedu"rfe/N
+bedu"rfen/DXO	v
+beehren/DIOXY	v
+beeilen/DIXY	v
+beeindrucken/DIOXY	v
+beeinflussen/BDIOXY	v
+beeintra"chtigen/DIOXY	v
+beenden/DIOXY	v
+beendigen/DIOXY	v
+beengen/DIOXYW	v
+beerdigen/DIOXY	v
+befahl/Z
+befahren/ABDI	v
+befand/Z
+befassen/DIOXY	v
+befehlen/DI	v
+befehligen/DIXY	v
+befestigen/DIXY	v
+befeuchten/DIOXY	v
+befeuern/DIOXYW	v
+befiehlt/X
+befielt/Z
+befinden/DIX	v
+beflecken/DIOXY	v
+beflu"geln/DIOXY	v
+befolgen/DIOXY	v
+befragen/DIOXY	v
+befreien/DIOXY	v
+befremden/DIOXY	v
+befreunden/DIOXY	v
+befrieden/DIOXY	v
+befriedigen/DIOXY	v
+befristen/DIOXY	v
+befruchten/DIOXY	v
+befuhr/Z
+befa"higen/DIOXY	v
+befa"hrt/X
+befa"llt/X
+befa"nde/Z
+befo"rdern/DIOXY	v
+befu"hlen/DIXY	v
+befu"llen/BDIOXYW	v
+befu"rchten/DIOXY	v
+befu"rworten/DIOXY	v
+begab/Z
+begann/Z
+begatten/DIOXY	v
+begeben/DI	v
+begegnen/DIXY	v
+begehen/DIX	v
+begehren/DIXY	v
+begeistern/DIOXY	v
+begibt/XW
+begiesSen/DIX	v
+beging/ZE
+beginnen/DIXW	v
+beglaubigen/DIOXY	v
+begleichen/DIX	v
+begleiten/DIOXY	v
+beglichen/AWX	v
+beglu"cken/DIOXY	v
+beglu"ckwu"nschen/DIOXY	v
+begnadigen/DIOXY	v
+begnu"gen/DIOXY	v
+begossen/AWX	v
+begraben/AI	v
+begradigen/DIOXY	v
+begreifen/BDIX	v
+begrenzen/DIOXY	v
+begriff/ZE
+begrub/Z
+begra"bt/X
+begru"nden/BDIOXY	v
+begru"sSen/DIOXYW	v
+begutachten/BDIOXY	v
+bega"nnen/XI	v
+begu"nstigen/DIOXY	v
+begu"tigen/DIOXY	v
+behagen/DIXY	v
+behalf/Z
+behalten/ADI	v
+behandeln/DBIOXY	v
+beharren/DIXY	v
+behauen/ADIOXY	v
+behaupten/BDIOXY	v
+behausen/DIXY	v
+beheben/BDIX	v
+beheimaten/DIOXY	v
+beheizen/BDIOXY	v
+behelfen/DI	v
+behelligen/DIOXY	v
+beherbergen/DIOXY	v
+beherrschen/BDIOXY	v
+beherzigen/DIOXY	v
+behexen/DIOXY	v
+behielt/EZ
+behilft/X
+behindern/DIOXY	v
+behoben/AWX	v
+beholfen
+behorchen/DIOXY	v
+beha"ltst/X
+behu"ten/DIOXY	v
+beibehalten/ADI	v
+beibehielt/Z
+beibeha"ltst/X
+beibrachte/Z
+beibringen/DIX	v
+beichten/DIXY	v
+beifolgen/DIXY	v
+beifu"gen/DIXY	v
+beigeben/DI	v
+beigewohnt
+beilegen/DIXY	v
+beiliegen/DIX	v
+beimengen/DIXY	v
+beimessen/DI	v
+beimischen/DIXY	v
+beimisst
+beinhalten/DIOXY	v
+beipacken/DIXY	v
+beipflichten/DIXY	v
+beirren/DIXY	v
+beisetzen/DIXY	v
+beispringen/DI	v
+beistand/Z
+beistehen/DIX	v
+beistellen/DIXY	v
+beisteuern/DIXY	v
+beitragen/DI	v
+beitrat/Z
+beitreiben/BDIX	v
+beitreten/DI	v
+beitrittst/X
+beitrug/Z
+beitra"gt/X
+beitra"ten/IX	v
+beitru"gen/IX	v
+beiwohnen/DIXY	v
+beizubehalten/D
+beizubringen/D
+beizufu"gen/D
+beizukommen/D
+beizulegen/D
+beizumessen/D
+beizumischen/D
+beizupacken/D
+beizustehen
+beizustellen/D
+beizutragen/D
+beizutreten
+beizuwohnen/D
+beisSen/DIVX	v
+bejahen/DIOXY	v
+bejubeln/DIOXY	v
+bekam/Z
+bekannte/Z
+bekanntgab/Z
+bekanntgeben/DI	v
+bekanntgibt/X
+bekanntmachen/DIXY	v
+bekehren/DIOXY	v
+bekennen/DIXW	v
+beklagen/DIOXY	v
+beklatschen/IOXY	v
+beklauen/DIOXY	v
+bekleben/DIOXY	v
+bekleckern/DIOXYW	v
+beklecksen/DIOXY	v
+bekleiden/DIOXY	v
+beklemmen/DIX	v
+bekommen/DIX	v
+bekriegen/DIOXY	v
+bekritteln/DIOXY	v
+bekra"ftigen/DIOXY	v
+bekunden/DIOXY	v
+beka"men/IX	v
+beka"mpfen/DIOXY	v
+beku"mmern/DIOXY	v
+belabern/DIOXY	v
+beladen/BADI	v
+belagern/DIOXY	v
+belangen/BDIOXYW	v
+belassen/IA	v
+belasten/IOXY	v
+belauern/DIOXY	v
+belaufen/DI	v
+belauschen/DIOXY	v
+beleben/DIOXY	v
+belegen/BDIOXY	v
+belehren/DIOXY	v
+beleidigen/DIOXY	v
+beleihen/BDIX	v
+beleuchten/BDIOXY	v
+belichten/DIOXY	v
+belieben/IXOY	v
+belief/PE
+beliefern/DIOXYW	v
+beliegen/DIX	v
+beliehen/AWX	v
+beliesS/ZE
+bellen/DIXY	v
+belobigen/DIOXY	v
+belogen/AWX	v
+belohnen/DIOXYW	v
+belud/Z
+belustigen/DIOXY	v
+bela"cheln/DIOXY	v
+bela"dt/X
+bela"sst
+bela"stigen/DIOXY	v
+bela"uft/X
+belu"ften/BDIOXY	v
+belu"gen/DIX	v
+bemalen/BDIOXY	v
+bemasS/Z
+bemerken/DIXY	v
+bemessen/ADI	v
+bemisst
+bemitleiden/DIOXY	v
+bemustern/DIOXYW	v
+bemuttern/DIOXY	v
+bema"chtigen/DIOXY	v
+bema"kelt/X
+bema"ngeln/DIOXY	v
+bemu"hen/DIOXY	v
+bemu"sSigen/DIXY	v
+benachrichtigen/DIOXY	v
+benachteiligen/DIOXY	v
+benahm/Z
+benannte/Z
+benebeln/DIOXY	v
+benehmen/DI	v
+beneiden/DIOXY	v
+benennen/DIXW	v
+benetzen/DIOXY	v
+benimmt/X
+benoten/DIOXY	v
+benutzen/BDIOXY	v
+beno"tigen/DIOXY	v
+benu"tzen/BDIOXY	v
+beobachten/BDIOXY	v
+bepacken/DIOXY	v
+bepflanzen/DIOXY	v
+bequatschen/DIXYW	v
+bequemen/DIXY	v
+berappen/DIOXY	v
+beraten/ADI	v
+beratschlagen/DIOXY	v
+berauben/DIOXY	v
+berauschen/IOXY	v
+berechnen/DIOXY	v
+berechtigen/DIOXY	v
+bereden/DIOXY	v
+bereichern/DIOXY	v
+bereinigen/DIOXY	v
+bereisen/DIOXY	v
+bereiten/DIOXY	v
+bereithalten/DI	v
+bereithielt/Z
+bereitha"ltst/X
+bereitliegen/DIX	v
+bereitstand/Z
+bereitstehen/DIX	v
+bereitstellen/BDIXY	v
+bereitstu"nde/Z
+bereitzufinden
+bereitzuhalten/D
+bereitzustellen/D
+bereuen/DIOXY	v
+bergen/DIV	v
+bergsteigen/DIX	v
+bergstieg/Z
+berichten/DIOXY	v
+berichtigen/DIOXY	v
+berief/ZE
+beriefe/Z
+berieseln/DIOXY	v
+beriet/Z
+bersten/DIX	v
+beruhen/DIXY	v
+beruhigen/DIOXY	v
+bera"tst/X
+beru"cksichtigen/DIOXY	v
+beru"hren/BDIOXY	v
+besagen/DIOXY	v
+besah/Z
+besaiten/DIOXY	v
+besann/Z
+besaufen/DI	v
+besasS/Z
+beschaffen/ABDIOXYW	v
+beschallen/DIOXY	v
+beschalten/DIOXY	v
+beschatten/DIOXY	v
+beschauen/DIOXY	v
+bescheinigen/DIOXY	v
+bescheint/X
+beschenken/DIOXY	v
+bescheren/DIOXY	v
+beschichten/IOXY	v
+beschieden/AWX	v
+beschienen/AWX	v
+beschiesSen/DIX	v
+beschimpfen/DIOXY	v
+beschlagen/ADI	v
+beschlagnahmen/DIOXY	v
+beschleichen/DIX	v
+beschleunigen/DIOXY	v
+beschlich/ZE
+beschliesSen/DIX	v
+beschlossen/AWX	v
+beschlug/Z
+beschla"gt/X
+beschmieren/DIOXY	v
+beschmutzen/DIOXY	v
+beschneiden/DIX	v
+beschnitten/AWX	v
+beschossen/AWX	v
+beschreiben/BDIX	v
+beschreiten/DIX	v
+beschrieb/Z
+beschriebe/Z
+beschriften/BDIOXY	v
+beschritten/AX	v
+beschra"nken/BDIOXY	v
+beschuldigen/DIOXYW	v
+beschweren/DIOXY	v
+beschwichtigen/DIOXY	v
+beschwindeln/IOXY	v
+beschwipsen/DIOXY	v
+beschworen/AWX	v
+beschwo"ren/DIX	v
+bescha"digen/DIOXY	v
+bescha"ftigen/DIOXY	v
+bescha"men/DIOXY	v
+bescho"nigen/DIOXY	v
+bescho"sse/Z
+beschu"tzen/DIOXY	v
+beseelen/DIOXY	v
+beseitigen/DIOXY	v
+besetzen/BDIOXY	v
+besichtigen/DIOXY	v
+besiedeln/DIOXY	v
+besiegeln/DIOXYW	v
+besiegen/BDIOXY	v
+besingen/DIX	v
+besinnen/DIXW	v
+besitzen/DIX	v
+besoffen/AWX	v
+besohlen/DIOXY	v
+besolden/DIOXY	v
+besorgen/DIOXY	v
+bespannen/DIOXY	v
+bespicken/DIOXY	v
+bespielen/BDIOXY	v
+bespitzeln/DIOXYW	v
+besprach/Z
+besprechen/DI	v
+besprengen/DIOXY	v
+bespricht/X
+bespritzen/DIOXY	v
+bespru"hen/IOXY	v
+bespucken/DIOXY	v
+bessern/DIVXY	v
+bestach/Z
+bestahl/Z
+bestanden/AWX	v
+bestatten/DIOXY	v
+bestaunen/DIOXYW	v
+bestechen/DI	v
+bestehen/DIX	v
+bestehlen/DI	v
+besteigen/BDIXW	v
+bestellen/BDIOXYW	v
+besteuern/BDIOXYW	v
+besticht/X
+besticken/IOXY	v
+bestiegen/AWX	v
+bestiehlt/X
+bestimmen/BDIOXY	v
+bestrafen/DIOXY	v
+bestrahlen/DIOXY	v
+bestreben/DIOXY	v
+bestreichen/DIX	v
+bestreiken/BIOXY	v
+bestreiten/BDIX	v
+bestreuen/DIOXY	v
+bestrichen/AWX	v
+bestricken/DIOXY	v
+besta"rken/DIOXY	v
+besta"tigen/DIOXY	v
+besta"uben/DIOXYW	v
+bestu"cken/BDIOXY	v
+bestu"nden/IX	v
+bestu"rmen/DIOXY	v
+bestu"rzen/DIOXY	v
+besuchen/DIOXY	v
+besudeln/DIOXY	v
+besa"nftigen/DIOXY	v
+besa"uft/X
+besa"sSe/Z
+betanken/IOXY	v
+betasten/DIOXY	v
+beteiligen/DIOXY	v
+beten/DIXY	v
+beteuern/DIOXY	v
+betiteln/DIOXY	v
+betonen/DIOXYW	v
+betonieren/DIOXY	v
+betrachten/DIOXY	v
+betraf/Z
+betragen/DI	v
+betrank/Z
+betrat/Z
+betrauen/IOXY	v
+betrauern/DIOXY	v
+betreffen/DI	v
+betreiben/BDIX	v
+betreten/BADI	v
+betreuen/DIOXY	v
+betrieben/AWX	v
+betrifft/X
+betrinken/DIX	v
+betrittst/X
+betrogen/AWX	v
+betrug/Z
+betra"fe/Z
+betra"gt/X
+betru"ben/DIOXY	v
+betru"gen/DIX	v
+betteln/DIXY	v
+betten/DIXY	v
+bettna"ssen/D
+betupfen/DIOXY	v
+beta"tigen/DIOXY	v
+beta"uben/DIOXY	v
+beto"ren/DIOXY	v
+beugen/DIVXY	v
+beunruhigen/DIOXY	v
+beurkunden/DIOXY	v
+beurlauben/DIOXY	v
+beurteilen/BDIOXY	v
+beuteln/DIXY	v
+beuten/DIXY	v
+bevollma"chtigen/DIOXY	v
+bevormunden/DIOXY	v
+bevorraten/DIXY	v
+bevorschussen/IOXY	v
+bevorstand/Z
+bevorstehen/DIX	v
+bevorzugen/DIOXY	v
+bevo"lkern/DIOXY	v
+bewachen/DIOXY	v
+bewaffnen/DIOXY	v
+bewahren/DIOXY	v
+bewahrheiten/IXY	v
+bewalden/BDIXY	v
+bewarb/Z
+bewarf/Z
+bewegen/BDIOXYW	v
+beweihra"uchern/DIXY	v
+beweinen/DIOXYW	v
+beweisen/BDIX	v
+bewerben/DI	v
+bewerfen/DI	v
+bewerkstelligen/DIXY	v
+bewerten/BDIOXY	v
+bewies/ZE
+bewilligen/DIOXY	v
+bewirbt/X
+bewirft/XW
+bewirken/DIOXY	v
+bewirten/DIOXY	v
+bewirtschaften/DIOXY	v
+bewog/Z
+bewohnen/BDIOXY	v
+bewundern/DIOXY	v
+bewa"hren/DIOXY	v
+bewa"ltigen/DIOXY	v
+bewa"ssern/DIOXY	v
+bewo"lken/DX	v
+bezahlen/BDIOXY	v
+bezaubern/DIOXY	v
+bezeichnen/DIOXY	v
+bezeugen/DIOXY	v
+bezichtigen/DIOXY	v
+beziehen/BDIX	v
+beziffern/BDIOXY	v
+bezogen/AWX	v
+bezuschussen/BIOXY	v
+bezwang/Z
+bezwecken/DIOXY	v
+bezweifeln/DIOXY	v
+bezwingen/DIX	v
+bezo"ge/Z
+bea"ngstigen/DIOXY	v
+bea"ugen/DIOXY	v
+bibbern/DIXY	v
+biegen/BDIVXW	v
+bieten/DIVXW	v
+bilanzieren/DIOXY	v
+bilden/DIXY	v
+billigen/DIVXY	v
+bimmeln/DIXY	v
+bin
+binden/DIVXW	v
+birgt/VXW
+biss/VZ
+bist
+bitten/DIVX	v
+blamieren/DIOXY	v
+blanchieren/DIOXY	v
+blasen/DIV	v
+blechen/DIXY	v
+bleiben/DIVXW	v
+bleichen/DIXY	v
+blenden/DIVXY	v
+blich/Z
+blicken/DIXYW	v
+blieb/EVZ
+blies/P
+blinken/DIXY	v
+blinzeln/DIXY	v
+blitzen/DIXY	v
+blocken/BDIXYW	v
+blockieren/DIOXY	v
+bloggen/DIXY	v
+blosSlegen/DIXY	v
+blosSstellen/DIXY	v
+blosSzulegen/D
+blosSzustellen/D
+bluffen/DIXY	v
+bluten/DIVXY	v
+bla"hen/DIXY	v
+bla"st
+bla"ttern/DIXYW	v
+blo"deln/DIXY	v
+blo"ken/DIXY	v
+blu"hen/DIVXY	v
+bocken/IXY	v
+bog/VZ
+bohnern/DIXY	v
+bohren/DIVXY	v
+bombardieren/DIOXY	v
+booten/DIXY	v
+borgen/DIXY	v
+bot/VZ
+boxen/DIXY	v
+boykottieren/DIOXY	v
+brach/Z
+brachliegen/DIX	v
+brachte/VZ
+branden/DIXY	v
+brandschatzen/DIXY	v
+brannte/VZ
+braten/VDIW	v
+brauchen/DIVXYW	v
+brauen/DIXY	v
+brausen/DIXY	v
+brechen/DIV	v
+breiten/BDIVXY	v
+breitschlagen/DI	v
+breittreten/DI	v
+breitzutreten/D
+bremsen/BDIXY	v
+brennen/BDIVX	v
+bricht/VXW
+briet/Z
+bringen/DIVXW	v
+brodeln/DIXY	v
+broschieren/DIOXY	v
+brummeln/DIXY	v
+brummen/DIXY	v
+bra"chten/IX	v
+bra"tst/VX
+bra"uchten/IX	v
+bra"unen/DIXW	v
+bro"ckeln/DIXY	v
+bro"seln/DIXYW	v
+bru"hen/DIVXY	v
+bru"llen/DIXY	v
+bru"skieren/DIOXY	v
+bru"sten/IXY	v
+bru"ten/DIXY	v
+buchen/BDIVXY	v
+buchstabieren/DIOXY	v
+buckeln/DIXY	v
+buddeln/DIXYW	v
+bugsieren/DIOXY	v
+buhen/DIXY	v
+buhlen/DIXY	v
+bummeln/DIVXY	v
+bumsen/DIXY	v
+buttern/DIXY	v
+ba"ckt/X
+ba"ndigen/DIXY	v
+ba"umt/X
+ba"umte/Z
+bo"llern/DIXY	v
+bo"te/Z
+bu"cken/DIXYW	v
+bu"ffeln/DIXY	v
+bu"geln/BDIXY	v
+bu"ken/XI	v
+bu"ndeln/DIXYW	v
+bu"rden/IXYW	v
+bu"rgen/DIVXY	v
+bu"rsten/DIXY	v
+bu"sSen/DIVXY	v
+charakterisieren/BDIOXY	v
+chargieren/DIOXY	v
+chartern/DIXY	v
+chaten/DIXY	v
+chauffieren/DIOXY	v
+chiffrieren/DIOXYW	v
+christianisieren/DIOXYW	v
+codieren/BDIOXY	v
+cremen/DIXYW	v
+dabeibleiben/DIX	v
+dabeistand/Z
+dabeistehen/DIX	v
+dabeizuhaben
+dableiben/DIX	v
+dachte/Z
+dafu"rhalten/DI	v
+daherkam/Z
+daherkommen/DIX	v
+daherschleichen/DIX	v
+dahertrieb/ZE
+dahingehen/DIX	v
+dahingeschlichen/A	aa
+dahinging/ZE
+dahingleiten/DIX	v
+dahinglitt/ZE
+dahinraffen/DIXY	v
+dahinschleppen/DIXY	v
+dahinstehen/D
+dahinstelzen/DIXY	v
+dahinsterben/DI	v
+dahinterstehen/DIX	v
+dahintreiben/DIX	v
+dahinvegetieren/DIXY	v
+dahinwelken/DIXY	v
+dahinziehen/DIX	v
+daliegen/DIX	v
+dampfen/DIVXY	v
+danebenbenehmen/DI	v
+danebenbenommen
+danebengehen/X	v
+danebenliegen/DIX	v
+danken/BDIVXY	v
+darangehen/DIX	v
+darangesetzt
+daranging/ZE
+daranmachen/DIXY	v
+daransetzen/IXY	v
+darben/DIXY	v
+darbieten/DIX	v
+darbot/Z
+darbringen/DIX	v
+darfst/W
+dargetan
+darlegen/DIXY	v
+darreichen/DIXY	v
+darstellen/BDIXY	v
+darunterlag/Z
+darunterliegen/DIX	v
+darzubringen/D
+darzulegen/D
+darzustellen/D
+dasasS/Z
+dasitzen/DIX	v
+dastand/Z
+dastehen/DIX	v
+datieren/BDIOXY	v
+dauern/DIXY	v
+davonfahren/DI	v
+davonfliegen/DIX	v
+davonflog/Z
+davonfuhr/Z
+davonging/ZE
+davonjagen/DIXY	v
+davonkommen/DIX	v
+davonlaufen/DI	v
+davonmachen/DIXY	v
+davonrannte/Z
+davonrasen/DIXY	v
+davonschleichen/DIX	v
+davontragen/DI	v
+davontrug/Z
+davonzukommen
+davonzustehlen
+davonzutragen
+dazufu"hren/DIX	v
+dazugeben/DI	v
+dazugeho"ren/DIXY	v
+dazugiesSen/DIX	v
+dazugoss/Z
+dazuhaben
+dazukaufen/DIXY	v
+dazukommen/DIX	v
+dazulegen/DIXY	v
+dazulernen/DIXY	v
+dazunimmt/X
+dazurechnen/DIXY	v
+dazuschla"gt/X
+dazustehen
+dazutun/IX	v
+dazuverdienen/DIOXY	v
+dazuzulernen/D
+dazuzuverdienen/D
+dazwischenfahren/DI	v
+dazwischenfunken/DIX	v
+dazwischenkommen/DIX	v
+dazwischenliegen/DIX	v
+dazwischentreten/DI	v
+dazwischenwarf/Z
+dazwischenwerfen/DI	v
+dazwischenwirft/X
+deaktivieren/BDIOXY	v
+dealen/DIXY	v
+debattieren/DIOXY	v
+debu"tieren/DIOXY	v
+dechiffrieren/DIOXY	v
+decken/DIVXYW	v
+deeskalieren/DIOXYW	v
+defilieren/DIXYW	v
+definieren/BDIOXY	v
+degenerieren/DIOXY	v
+degradieren/DIOXY	v
+dehnen/BDIXY	v
+deinstallieren/BDIOXY	v
+deklamieren/DIOXY	v
+deklarieren/DIOXY	v
+deklassieren/DIOXY	v
+deklinieren/BDIOXY	v
+dekomprimieren/BDIOXY	v
+dekontaminieren/DIOXY	v
+dekorieren/DIOXY	v
+dekretieren/DIOXY	v
+delegieren/DIOXY	v
+delektieren/DIXY	v
+demaskieren/DIOXY	v
+dementieren/DIOXY	v
+demilitarisieren/BDIOXYW	v
+demobilisieren/DIOXY	v
+demokratisieren/BDIOXY	v
+demolieren/DIOXY	v
+demonstrieren/BDIOXYW	v
+demontieren/BDIOXYW	v
+demoralisieren/BDIOXY	v
+demotivieren/BDIOXYW	v
+demu"tigen/DIXY	v
+denken/DIVXW	v
+denominieren/DIOXY	v
+denunzieren/DIOXY	v
+deplatzieren/DIOXY	v
+deponieren/DIOXY	v
+deportieren/BDIOXY	v
+deprimieren/DIOXY	v
+deputieren/DIOXY	v
+deregulieren/BDIOXYW	v
+deselektieren/BDIOXY	v
+desertieren/DIOXY	v
+desillusionieren/WIXYDO	v
+desinfizieren/DIOXY	v
+desorientieren/DIOXYW	v
+destabilisieren/DIOXY	v
+destillieren/BDIOXY	v
+detaillieren/DIOXY	v
+detektieren/BDIOXY	v
+determinieren/DIOXY	v
+detonieren/DIOXY	v
+deuten/BDIXY	v
+devalvieren/DIOXY	v
+dezentralisieren/DIOXY	v
+dezidieren/DIOXY	v
+dezimieren/DIOXY	v
+diagnostizieren/BDIOXY	v
+dichten/DIVXY	v
+dienen/DIVXY	v
+diffamieren/DIOXY	v
+differenzieren/DIOXYB	v
+differieren/DIOXY	v
+diffundieren/DIXYW	v
+diktieren/DIOXY	v
+dimensionieren/DIOXY	v
+dimmen/BDIXYW	v
+dinieren/DIXY	v
+dirigieren/DIOXY	v
+diskontieren/DIOXY	v
+diskreditieren/DIOXY	v
+diskriminieren/DIOXY	v
+diskutieren/BDIOXY	v
+dispensieren/DIOXY	v
+disponieren/BDIOXY	v
+disputieren/DIXY	v
+disqualifizieren/DIOXY	v
+distanzieren/DIXY	v
+disziplinieren/DIXY	v
+divergieren/DIXY	v
+diversifizieren/DIOXY	v
+dividieren/DIOXY	v
+dokumentieren/DIOXY	v
+dolmetschen/DIVXY	v
+dominieren/DIOXY	v
+donnern/DIVXY	v
+doppelklicken/DIXYW	v
+doppeln/DIVXY	v
+dorren/DIVXY	v
+dosieren/BDIOXY	v
+dotieren/DIOXY	v
+dozieren/DIOXY	v
+dramatisieren/DIOXY	v
+drang/Z
+drangsalieren/DIOXY	v
+dranha"ngen/DIX	v
+drankommen/DIX	v
+drapieren/DIOXY	v
+draufdru"cken/DIXY	v
+draufgehen/DIX	v
+draufhauen/DIXY	v
+drauflegen/DIXY	v
+drauflosgehen/DIX	v
+drauflosging/ZE
+draufschlagen/DI	v
+draufzahlen/DIXY	v
+drechseln/DIXYW	v
+drehen/BDIVXYW	v
+dreinschauen/DIXY	v
+dreinschlagen/DI	v
+dreinzuschauen
+dreschen/DIV	v
+dressieren/DIOXY	v
+dribbeln/DIXY	v
+driften/DIXY	v
+drillen/DIVXY	v
+dringen/IX	v
+drinstecken/DIXY	v
+drinstehen/DIX	v
+drohen/DIXY	v
+drosch/VZ
+drosseln/DIXY	v
+drucken/BDIVXYW	v
+dra"ngeln/DIXY	v
+dra"ngen/DIVXY	v
+dro"hnen/DIXY	v
+dru"berfahren/DI	v
+dru"cken/DIVXYW	v
+ducken/DIXY	v
+duellieren/DIXY	v
+duften/DIVXY	v
+dulden/DIXY	v
+duplizieren/BDIOXY	v
+durchackern/DIOXY	v
+durcharbeiten/DIXY	v
+durchatmen/DIXY	v
+durchbeisSen/DIX	v
+durchblicken/DIXY	v
+durchbluten/DIOXY	v
+durchbla"ttern/DIXYW	v
+durchbohren/DIOXY	v
+durchbrach/Z
+durchbraten/DI	v
+durchbrechen/DI	v
+durchbrennen/DIX	v
+durchbricht/X
+durchbringen/DI	v
+durchdenken/DIX	v
+durchdrang/Z
+durchdrehen/DIXY	v
+durchdringen/DIX	v
+durchdra"ngen/DIXY	v
+durchdru"cken/DIXY	v
+durcheilen/DIOXY	v
+durcheinanderbrachte/Z
+durcheinanderbringen/DIX	v
+durchexerzieren/DIOXY	v
+durchfahren/DI	v
+durchfallen/DI	v
+durchfechten/DIX	v
+durchfliegen/DIX	v
+durchfliesSen/DIX	v
+durchflog/Z
+durchfluten/DIOXY	v
+durchfocht/Z
+durchforsten/DIOXY	v
+durchfragen/DIX	v
+durchfu"hren/BDIXY	v
+durchfu"ttern/DIXY	v
+durchgeben/DI	v
+durchgeboxt
+durchgefegt
+durchgehen/DIX	v
+durchgeka"mpft
+durchgeleitet/A	aa
+durchgepeitscht/A	aa
+durchgestochen
+durchgestosSen
+durchgewatet
+durchgeweicht
+durchgewunken/A	aa
+durchgreifen/DIX	v
+durchgriff/Z
+durchhalten/BDI	v
+durchha"ltst/X
+durchkam/Z
+durchkneten/DIOXY	v
+durchkommen/DIX	v
+durchkreuzen/DIOXY	v
+durchka"mmen/DIOXY	v
+durchlassen/DI	v
+durchlaufen/DIA	v
+durchleben/IOXY	v
+durchleiten/BDIXY	v
+durchlesen/DI	v
+durchleuchten/DIOXY	v
+durchlief/ZE
+durchliest
+durchla"sst
+durchla"uft/X
+durchlo"chern/DIOXY	v
+durchlu"ften/DIOXY	v
+durchmachen/DIXY	v
+durchmarschieren/DIOXY	v
+durchmischen/DIOXY	v
+durchnehmen/DI	v
+durchna"ssen/DIOXY	v
+durchpeitschen/DIXY	v
+durchpflu"gen/DIXY	v
+durchprobieren/DIOXY	v
+durchqueren/DIOXY	v
+durchrechnen/DIXY	v
+durchreisen/DIOXY	v
+durchreiten/DIX	v
+durchreisSen/DIX	v
+durchringen/DIX	v
+durchrutschen/DIXY	v
+durchsacken/DIXY	v
+durchsagen/DIXY	v
+durchschauen/BDIOXY	v
+durchschauern/DIY	v
+durchscheinen/DIX	v
+durchschimmern/DIXY	v
+durchschlagen/DI	v
+durchschleusen/DIXY	v
+durchschlug/Z
+durchschneiden/DIX	v
+durchschreiben/DIX	v
+durchschritt/Z
+durchschwamm/Z
+durchsegeln/DIOXY	v
+durchsehen/DI	v
+durchsetzen/BDIOXY	v
+durchsickern/DIXY	v
+durchsieben/DIXY	v
+durchspielen/DIXY	v
+durchsprechen/DI	v
+durchspu"len/DIXY	v
+durchstarten/DIXY	v
+durchstechen/DI	v
+durchstehen/DIX	v
+durchstosSen/ADI	v
+durchstreichen/DIX	v
+durchstreifen/IXY	v
+durchstro"men/IXY	v
+durchsto"bern/DIOXY	v
+durchsto"sSt
+durchsuchen/BDIOXY	v
+durchsa"gen/DIXY	v
+durchtasten/DIOXY	v
+durchtra"nken/DIOXY	v
+durchwandern/DIOXY	v
+durchwaten/DIOXY	v
+durchwechseln/DIXY	v
+durchweichen/DIOXY	v
+durchwa"hlen/DIXY	v
+durchwu"hlen/DIOXY	v
+durchziehen/DIX	v
+durchzogen/AWX	v
+durchzuatmen
+durchzubla"ttern/D
+durchzuboxen/D
+durchzubrechen/D
+durchzubringen/D
+durchzucken/DIXYW	v
+durchzudrehen
+durchzudringen
+durchzudru"cken/D
+durchzufu"hren/D
+durchzugreifen
+durchzuhalten/D
+durchzukommen/D
+durchzuka"mmen/D
+durchzulassen
+durchzulesen/D
+durchzumachen/D
+durchzumogeln/D
+durchzurechnen/D
+durchzuschalten/D
+durchzusehen/D
+durchzusetzen/D
+durchzustehen/D
+durchzusa"gen/D
+durchzuwechseln/D
+durchzuziehen/D
+durchzwa"ngen/DIXY	v
+durfte/Z
+dursten/DIVXY	v
+duschen/DIXY	v
+duzen/IXY	v
+da"chte/Z
+da"mmen/DIXY	v
+da"mmern/DIXY	v
+da"mpfen/DIXY	v
+do"rren/DIXY	v
+do"sen/DIXY	v
+du"ngen/DIXY	v
+du"nkt
+du"nsten/DIXY	v
+du"pieren/BDIOXYW	v
+du"rfen/IY	v
+du"rsten/DIXY	v
+ebben/XY	v
+ebnen/DIXY	v
+echauffieren/DIXYW	v
+ecken/IXYW	v
+editieren/BDIOXY	v
+egalisieren/DIOXY	v
+ehebrechen/DI	v
+ehelichen/DIVXY	v
+ehren/BDIVXY	v
+eichen/DIXYW	v
+eifern/DIXY	v
+eignen/DIXY	v
+eilen/DIXY	v
+einarbeiten/DIXY	v
+einatmen/DIXY	v
+einbalsamieren/DIOXY	v
+einbauen/BDIXY	v
+einbehalten/AI	v
+einbehielt/EZ
+einbeha"ltst/X
+einberufen/ADIX	v
+einbestellen/BDIOXY	v
+einbetten/IXY	v
+einbeziehen/DIX	v
+einbezogen/AWX	v
+einbiegen/DIX	v
+einbilden/DIXY	v
+einbinden/DIX	v
+einblenden/DIXY	v
+einbla"uen/DIXY	v
+einbrach/Z
+einbrachte/Z
+einbrechen/DI	v
+einbrennen/BDIX	v
+einbricht/X
+einbringen/DIX	v
+einbu"rgern/DIXY	v
+einbu"sSen/DIXY	v
+eincremen/BDIXY	v
+eindampfen/DIXY	v
+eindecken/DIXY	v
+eindrang/Z
+eindringen/DIX	v
+eindru"cken/DIXY	v
+einda"mmen/DIXY	v
+einen/DIVXY	v
+einengen/BDIXY	v
+einfahren/BDI	v
+einfallen/DI	v
+einfand/Z
+einfangen/BDI	v
+einfassen/DIXY	v
+einfetten/DIXY	v
+einfiel/ZE
+einfinden/IX	v
+einfliesSen/DIX	v
+einflog/Z
+einfloss/Z
+einflo"sSen/DIXY	v
+einfordern/BDIXY	v
+einfrieren/DIX	v
+einfuhr/Z
+einfa"deln/DIXY	v
+einfa"hrt/X
+einfa"llt/X
+einfa"ngt/X
+einfa"rben/DIXY	v
+einfu"gen/DIXY	v
+einfu"hlen/DIXY	v
+einfu"hren/BDIXY	v
+einfu"llen/DIXY	v
+eingab/Z
+eingeben/BDI	v
+eingefunden
+eingefu"hlt
+eingegriffen
+eingehen/DIX	v
+eingelebt
+eingela"utet/A	aa
+eingependelt/A	aa
+eingestehen/DIX	v
+eingewo"hnen/DIOXY	v
+eingibt/X
+eingiesSen/DIX	v
+einging/ZE
+eingliedern/DIXY	v
+eingraben/DI	v
+eingravieren/DIOXY	v
+eingreifen/DIX	v
+eingrenzen/BDIXY	v
+eingriff/ZE
+eingra"bt/X
+einhaken/DIXY	v
+einhalten/BDI	v
+einhandeln/DIXY	v
+einhauen/DIXY	v
+einheften/DIXY	v
+einheimsen/DIXY	v
+einheizen/DIXY	v
+einhergegangen
+einhergehen/DIX	v
+einholen/BDIXY	v
+einha"ltst/X
+einha"ngen/DIXY	v
+einhu"llen/DIXY	v
+einigen/DIVXY	v
+einjagen/DIXY	v
+einjustieren/DIOXY	v
+einkalkulieren/BDIOXY	v
+einkassieren/DIOXY	v
+einkaufen/BDIXY	v
+einkehren/DIXY	v
+einkellern/DIXY	v
+einkesseln/DIXY	v
+einklagen/BDIXY	v
+einklammern/DIXY	v
+einklappen/BDIXY	v
+einkleben/DIXY	v
+einkleiden/DIXY	v
+einklemmen/DIXY	v
+einklinken/DIXY	v
+einknicken/DIXY	v
+einknoten/DIXY	v
+einkno"pfen/BDIXY	v
+einkochen/DIXY	v
+einkopieren/DIOXY	v
+einkoppeln/BDIXY	v
+einkreisen/DIXY	v
+einladen/DI	v
+einlagern/DIXY	v
+einlassen/DI	v
+einlaufen/DI	v
+einlegen/DIXY	v
+einleiten/DIXY	v
+einlenken/DIXY	v
+einlesen/BDI	v
+einleuchten/DIXY	v
+einlief/ZE
+einliefern/DIXY	v
+einliest
+einliesS/ZE
+einlud/Z
+einla"dt/X
+einla"sst
+einla"uten/DIXY	v
+einlo"sen/BDIXY	v
+einmachen/DIXY	v
+einmarschieren/DIOXY	v
+einmauern/DIXY	v
+einmischen/DIXY	v
+einmotten/DIXY	v
+einmu"nden/DIXY	v
+einnahm/Z
+einnehmen/DI	v
+einnimmt/X
+einnisten/DIXY	v
+einordnen/DIXY	v
+einpacken/DIXY	v
+einparken/DIXY	v
+einpassen/IXY	v
+einpegeln/DIXY	v
+einpflanzen/DIXY	v
+einpflegen/DIXY	v
+einplanen/DIXY	v
+einprallen/DIXY	v
+einpressen/DIXY	v
+einpra"gen/DIXY	v
+einpru"geln/DIXY	v
+einquartieren/DIOXY	v
+einrasten/DIXY	v
+einrechnen/DIXY	v
+einreden/DIXY	v
+einregulieren/DIOXY	v
+einreiben/DIX	v
+einreichen/DIXY	v
+einreihen/DIXY	v
+einreisen/DIXY	v
+einreiten/DIX	v
+einreisSen/DIX	v
+einrenken/DIXY	v
+einrennen/DIX	v
+einrichten/DIXY	v
+einritt/Z
+einritzen/DIXY	v
+einrollen/IXY	v
+einrosten/DIXY	v
+einra"umen/DIXY	v
+einru"cken/DIXY	v
+einsah/Z
+einsammeln/DIXY	v
+einschalten/BDIXY	v
+einschenken/DIXY	v
+einschicken/DIXY	v
+einschieben/DIX	v
+einschiesSen/DIX	v
+einschiffen/DIXY	v
+einschlafen/DI	v
+einschlagen/DI	v
+einschleichen/DIX	v
+einschleusen/DIXY	v
+einschlich/ZE
+einschlief/ZE
+einschliesSen/DIX	v
+einschloss/Z
+einschlug/Z
+einschla"fern/DIXY	v
+einschla"gt/X
+einschlu"gen/XI	v
+einschmeicheln/DIXY	v
+einschmelzen/DI	v
+einschmieren/DIXY	v
+einschnappen/DIXY	v
+einschneiden/DIX	v
+einschreiben/DIX	v
+einschreiten/DIX	v
+einschra"nken/BDIXY	v
+einschulen/DIXY	v
+einschwenken/DIXY	v
+einscha"tzen/DIXY	v
+einschu"chtern/DIXY	v
+einsehen/DIB	v
+einseifen/DIXY	v
+einsenden/DIXY	v
+einsetzen/BDIXY	v
+einsickern/DIXY	v
+einsieht/X
+einsinken/DIX	v
+einsortieren/BDIOXY	v
+einspannen/BDIXY	v
+einsparen/BDIXY	v
+einspeisen/BDIXY	v
+einsperren/BDIXY	v
+einspielen/BDIXY	v
+einspringen/DIX	v
+einspritzen/BDIXY	v
+einstampfen/DIXY	v
+einstand/Z
+einstecken/DIXY	v
+einstehen/DIX	v
+einsteigen/DIX	v
+einstellen/BDIXY	v
+einstieg/ZE
+einstimmen/DIXY	v
+einstreichen/DIX	v
+einstreuen/DIXY	v
+einstrich/ZE
+einstro"men/DIXY	v
+einstudieren/DIOXY	v
+einstufen/DIXY	v
+einstu"rmen/DIXY	v
+einstu"rzen/DIXY	v
+eintauchen/DIXY	v
+eintauschen/BDIXY	v
+einteilen/DIXY	v
+eintippen/DIXY	v
+eintraf/Z
+eintragen/BDI	v
+eintrat/Z
+eintreffen/DI	v
+eintreiben/DIX	v
+eintreten/DI	v
+eintrieb/ZE
+eintrifft/X
+eintrittst/X
+eintrocknen/DIXY	v
+eintra"gt/X
+eintra"te/Z
+eintru"ben/DIXY	v
+eintru"gen/XI	v
+eintu"ten/BDIXY	v
+einverleiben/DIOXY	v
+einwandern/DIXY	v
+einweichen/DIXY	v
+einweihen/DIXY	v
+einweisen/DIX	v
+einwenden/DIXY	v
+einwerfen/DI	v
+einwickeln/DIXY	v
+einwilligen/DIXY	v
+einwirken/DIXY	v
+einwa"hlen/DIXY	v
+einzahlen/BDIXY	v
+einzeichnen/DIXY	v
+einziehen/BDIX	v
+einzog/Z
+einzuarbeiten/D
+einzubalsamieren/D
+einzubauen/D
+einzubehalten/D
+einzuberufen/D
+einzubestellen/D
+einzubetten/D
+einzubeziehen/D
+einzubilden
+einzubinden/D
+einzublenden/D
+einzubrechen
+einzubringen/D
+einzubu"rgern/D
+einzubu"sSen/D
+einzudecken/D
+einzudringen
+einzudru"cken/D
+einzuda"mmen/D
+einzuebnen/D
+einzuengen/D
+einzufahren/D
+einzufallen
+einzufangen/D
+einzufinden
+einzufliegen/D
+einzufordern/D
+einzufrieren/D
+einzufu"gen/D
+einzufu"hren/D
+einzugeben/D
+einzugehen
+einzugestehen/D
+einzugliedern/D
+einzugreifen
+einzugrenzen/D
+einzuhalten/D
+einzuhandeln/D
+einzuheften/D
+einzuholen/D
+einzuha"ngen/D
+einzuhu"llen/D
+einzukaufen/D
+einzukommen
+einzukreisen/D
+einzuladen/D
+einzulagern/D
+einzulassen/D
+einzulaufen
+einzulegen/D
+einzuleiten/D
+einzulenken
+einzulesen/D
+einzulo"sen/D
+einzumischen/D
+einzunehmen/D
+einzuordnen/D
+einzupacken/D
+einzupflanzen/D
+einzuplanen/D
+einzupra"gen/D
+einzurechnen/D
+einzureden/D
+einzureiben/D
+einzureichen/D
+einzureihen/D
+einzurichten/D
+einzura"umen/D
+einzusammeln/D
+einzusaugen/D
+einzuschalten/D
+einzuschenken/D
+einzuschieben/D
+einzuschlagen/D
+einzuschleusen/D
+einzuschliesSen/D
+einzuschla"fern/D
+einzuschmelzen/D
+einzuschreiben/D
+einzuschreiten
+einzuschra"nken
+einzuscha"tzen/D
+einzuschu"chtern/D
+einzusehen/D
+einzusenden/D
+einzusetzen/D
+einzuspannen/D
+einzusparen/D
+einzuspeisen/D
+einzusperren/D
+einzuspielen/D
+einzustampfen/D
+einzustecken/D
+einzustehen
+einzusteigen
+einzustellen/D
+einzustimmen/D
+einzustreuen/D
+einzustufen/D
+einzutauchen/D
+einzutauschen/D
+einzuteilen/D
+einzutragen/D
+einzutreffen
+einzutreiben/D
+einzutreten/D
+einzutu"ten/D
+einzuverleiben/D
+einzuweisen/D
+einzuwenden/D
+einzuwerben/D
+einzuwerfen/D
+einzuwilligen
+einzuwirken
+einzuzahlen/D
+einzuziehen/D
+einzuu"ben/D
+einza"unen/DIXY	v
+eina"schern/DIXY	v
+einu"ben/DIXY	v
+eitern/DIVXY	v
+ejakulieren/DIXY	v
+ekeln/DIXYW	v
+elektrisieren/DIOXY	v
+eliminieren/BDIOXY	v
+emanzipieren/IOXY	v
+emeritieren/IOXY	v
+emigrieren/DIOXY	v
+emittieren/DIXY	v
+empfahl/Z
+empfand/Z
+empfangen/ADI	v
+empfehlen/DI	v
+empfiehlt/X
+empfinden/DIX	v
+empfing/Z
+empfa"ngt/X
+emporarbeiten/DIXY	v
+emporblicken/DIXY	v
+emporheben/DIX	v
+emporhob/Z
+emporkommen/DIX	v
+emporragen/DIXY	v
+emporschiesSen/DIX	v
+emporschoss/Z
+emporsteigen/DIX	v
+emporstemmen/DIXY	v
+emporstieg/ZE
+emporstreben/DIXY	v
+emporziehen/DIX	v
+emporzog/Z
+empo"ren/DIOXY	v
+emulgieren/DIOXY	v
+emulieren/DIOXY	v
+enden/DIVXY	v
+enervieren/DIOXY	v
+engagieren/DIOXY	v
+engen/IY	v
+entarten/DIOXY	v
+entband/Z
+entbehren/BDIOXY	v
+entbieten/DXI	v
+entbinden/DIX	v
+entbla"ttern/DIOXYW	v
+entblo"sSen/DIOXY	v
+entboten/XIW	v
+entbrannte/Z
+entbrennen/DIX	v
+entbo"ten/XI	v
+entdecken/DIOXY	v
+entehren/DIOXY	v
+enteignen/DIOXY	v
+enteilen/DIOXY	v
+enteisen/DIOXY	v
+enterben/DIOXY	v
+entern/DIXY	v
+entfachen/DIOXY	v
+entfahren/DI	v
+entfallen/ADI	v
+entfalten/DIOXY	v
+entfernen/BDIXY	v
+entfesseln/DIOXY	v
+entfetten/DIOXY	v
+entfiel/ZE
+entfilzen/DIOXY	v
+entflammen/DIOXY	v
+entflechten/BDIOXY	v
+entfliehen/DIX	v
+entflohen/AWX	v
+entfremden/DIOXY	v
+entfuhr/Z
+entfa"llt/X
+entfa"rben/DIOXY	v
+entfu"hren/DIOXY	v
+entgegenarbeiten/DIXY	v
+entgegenblickt/X
+entgegenbringen/DIX	v
+entgegeneilen/DIXY	v
+entgegengehen/DIX	v
+entgegenhalten/DI	v
+entgegenkam/Z
+entgegenkommen/DIX	v
+entgegenlaufen/DI	v
+entgegennehmen/DI	v
+entgegensah/Z
+entgegensehen/DI	v
+entgegensetzen/DIXY	v
+entgegensieht/X
+entgegenstand/Z
+entgegenstehen/DIX	v
+entgegenstellen/DIXY	v
+entgegenstemmen/DIXY	v
+entgegenstrecken/DIXY	v
+entgegentreten/DI	v
+entgegenwachsen/DI	v
+entgegenwirken/DIXY	v
+entgegenzubringen/D
+entgegenzunehmen/D
+entgegenzusetzen/D
+entgegenzustellen/D
+entgegenzusteuern/D
+entgegenzutreten
+entgegenzuwirken/D
+entgegnen/DIXY	v
+entgehen/BDIX	v
+entgiften/DIOXY	v
+entging/ZE
+entginge/Z
+entgleisen/DIOXY	v
+entgleiten/DIX	v
+entglitten/AWX	v
+entgraten/DIOXY	v
+enthaaren/DIOXY	v
+enthalten/ADI	v
+enthaupten/IOXY	v
+entheben/DIX	v
+enthielt/ZE
+enthoben/AWX	v
+entha"ltst/X
+entha"uten/DIOXY	v
+enthu"llen/DIOXY	v
+entkam/Z
+entkeimen/DIOXY	v
+entkernen/BDIOXYW	v
+entkleiden/DIOXY	v
+entkommen/ABDIX	v
+entkoppeln/DIBXYO	v
+entkorken/IXY	v
+entkriminalisieren/BDIOXYW	v
+entkra"ften/DIOXY	v
+entka"men/XI	v
+entladen/ADI	v
+entlangfa"hrt/X
+entlanggefahren/A	aa
+entlanggegangen/A	aa
+entlanggehen/DIX	v
+entlanggelaufen/A	aa
+entlangwandern/DIXY	v
+entlangziehen/DIX	v
+entlangzog/Z
+entlangzufahren
+entlangzugehen
+entlangzulaufen
+entlarven/DIOXY	v
+entlassen/ADI	v
+entlasten/DIOXY	v
+entlaufen/ADI	v
+entlausen/IOXY	v
+entledigen/DIOXY	v
+entleeren/DIOXY	v
+entlehnen/DIOXY	v
+entleihen/DIX	v
+entlief/ZE
+entliehen/AWX	v
+entliesS/ZE
+entlocken/DIOXY	v
+entlohnen/DIOXY	v
+entlud/Z
+entla"dt/X
+entla"sst
+entla"uft/X
+entlu"ften/DIOXY	v
+entmachten/DIOXY	v
+entmannen/DIOXY	v
+entmutigen/DIOXY	v
+entmu"ndigen/DIOXY	v
+entnahm/Z
+entnehmen/BDI	v
+entnimmt/X
+entna"hmen/XI	v
+entpacken/DIXY	v
+entpuppen/DIOXY	v
+entrann/Z
+entrauben/DIOXY	v
+entrechten/DIOXY	v
+entreisSen/DIX	v
+entrichten/DIOXY	v
+entriegeln/DIOXY	v
+entrinnen/BDIX	v
+entrissen/AWX	v
+entrollen/DIOXY	v
+entru"cken/DIOXY	v
+entru"mpeln/DIOXYW	v
+entru"sten/DIOXY	v
+entsagen/DIOXY	v
+entsandte/Z
+entsann/Z
+entscheiden/DIX	v
+entschied/ZE
+entschlacken/DIXY	v
+entschlafen/I	v
+entschlief/Z
+entschliesSen/IX	v
+entschloss/Z
+entschla"fst
+entschlo"ssen/XI	v
+entschlu"pfen/DIOXY	v
+entschlu"sseln/BDIOXY	v
+entschulden/BDIOXY	v
+entschuldigen/DIXY	v
+entschwand/Z
+entschweben/DIOXY	v
+entschwinden/DIX	v
+entscha"digen/DIOXY	v
+entscha"rfen/DIOXY	v
+entsenden/DIOXY	v
+entsetzen/DIOXY	v
+entsichern/DIOXY	v
+entsinnen/IX	v
+entsorgen/IXY	v
+entspannen/DIOXYW	v
+entsperren/BDIOXYW	v
+entsprach/Z
+entsprang/Z
+entsprechen/DI	v
+entspricht/X
+entspriesSen/DIX	v
+entspringen/DIX	v
+entsprossen/AWX	v
+entspra"chen/IX	v
+entspra"ngen/XI	v
+entstammen/DIOXY	v
+entstanden/AWX	v
+entstauben/BDIOXY	v
+entstehen/DIX	v
+entstellen/DIOXY	v
+entstieg/Z
+entstro"men/IXY	v
+entstu"nde/N
+enttarnen/DIOXY	v
+entthronen/IOXY	v
+entta"uschen/DIOXY	v
+entwachsen/AI	v
+entwaffnen/DIOXY	v
+entwarf/Z
+entweichen/DIXW	v
+entweihen/DIOXY	v
+entwenden/DIOXY	v
+entwerfen/DI	v
+entwerten/DIOXY	v
+entwich/ZE
+entwichen/AWX	v
+entwickeln/BDIOXY	v
+entwinden/DIX	v
+entwirft/XW
+entwirren/DIOXY	v
+entwischen/DIOXY	v
+entwurzeln/DIOXY	v
+entwa"ssern/DIOXY	v
+entwo"hnen/DIOXY	v
+entwu"rdigen/DIOXY	v
+entzaubern/DIOXY	v
+entzerren/DIOXY	v
+entziehen/DIX	v
+entziffern/BDIOXY	v
+entzogen/AWX	v
+entzweibrechen/DI	v
+entzweien/DIOXY	v
+entzweigehen/DIX	v
+entzo"ge/Z
+entzu"cken/DIOXY	v
+entzu"nden/BDIOXY	v
+erachten/DIOXY	v
+erahnen/DIOXY	v
+erarbeiten/DIOXY	v
+erbarmen/DIXY	v
+erbat/Z
+erbauen/DIOXY	v
+erbeben/DIXY	v
+erben/DIVXY	v
+erbeuten/DIOXY	v
+erbieten/DIX	v
+erbitten/DIX	v
+erblassen/DIOXY	v
+erbleichen/DIOXY	v
+erblicken/DIOXY	v
+erblinden/DIOXY	v
+erblu"hen/DIOXY	v
+erboten/AWX	v
+erbrach/Z
+erbrechen/DI	v
+erbricht/X
+erbringen/DIX	v
+erbra"chte/Z
+erdacht/AZ	aa
+erden/DIXY	v
+erdenken/IX	v
+erdichten/DIOXY	v
+erdolchen/DIOXY	v
+erdreisten/DIXY	v
+erdrosseln/DIOXY	v
+erdru"cken/DIOXY	v
+erdulden/DIOXY	v
+ereifern/DIOXY	v
+ereignen/DIXY	v
+ereilen/DIOXY	v
+ererbt/AZ	aa
+erfand/Z
+erfassen/BDIOXY	v
+erfinden/DIX	v
+erflehen/IXY	v
+erfocht/Z
+erfolgen/DIOXY	v
+erfordern/DIOXY	v
+erforschen/BDIOXY	v
+erfragen/BDIOXY	v
+erfreuen/DIOXY	v
+erfrieren/DIX	v
+erfrischen/DIOXY	v
+erfroren/AWX	v
+erfuhr/Z
+erfa"hrt/X
+erfu"hlen/DIOXY	v
+erfu"llen/BDIOXY	v
+ergab/Z
+ergattern/DIOXY	v
+ergeben/ADI	v
+ergehen/DIX	v
+ergibt/X
+ergiesSen/DIX	v
+erging/ZE
+erglu"hen/DIOXY	v
+ergoss/Z
+ergrauen/DIOXY	v
+ergreifen/DIX	v
+ergriffen/AWX	v
+ergrimmen/DIOXY	v
+ergru"nden/BDIOXY	v
+erga"be/N
+erga"nzen/DIOXY	v
+ergo"tzen/DIOXY	v
+erhalten/ADI	v
+erhandeln/DIOXY	v
+erhaschen/DIOXY	v
+erheben/DIX	v
+erheischen/DIOXY	v
+erheitern/DIOXY	v
+erhellen/DIOXY	v
+erhielt/EZ
+erhitzen/DIOXY	v
+erhoben/AWX	v
+erhoffen/DIOXY	v
+erholen/DIOXY	v
+erha"ltst/X
+erha"ngen/DIOXY	v
+erha"rten/DIOXY	v
+erho"be/Z
+erho"hen/DIOXY	v
+erho"ren/DIXY	v
+erinnern/DIOXY	v
+erkalten/DIOXY	v
+erkannte/Z
+erkaufen/DIOXY	v
+erkennen/BDIX	v
+erklang/Z
+erklettern/DIOXY	v
+erklimmen/DIXY	v
+erklingen/DIX	v
+erklomm/Z
+erkla"ren/BDIOXY	v
+erkoren/AWX	v
+erkranken/DIOXY	v
+erkunden/DIOXY	v
+erkundigen/DIXY	v
+erka"lten/DIOXY	v
+erka"mpfen/DIOXY	v
+erlag/Z
+erlahmen/DIOXY	v
+erlangen/DIOXY	v
+erlassen/ADI	v
+erlauben/DIOXY	v
+erleben/BDIOXY	v
+erledigen/DIOXY	v
+erlegen/DIOXY	v
+erleichtern/DIOXY	v
+erleiden/DIX	v
+erlernen/BDIOXY	v
+erleuchten/DIOXY	v
+erlief/EZ
+erliegen/DIX	v
+erliesS/Z
+erlischt/X
+erlitten/AWX	v
+erlosch/Z
+erla"sst
+erla"utern/DIOXY	v
+erlo"schen/DIOXY	v
+erlo"sen/DIOXY	v
+ermahnen/DIOXY	v
+ermatten/DIOXY	v
+ermessen/DI	v
+ermisst
+ermitteln/BDIOXY	v
+ermorden/DIOXY	v
+ermuntern/DIOXY	v
+ermutigen/DIOXY	v
+erma"chtigen/DIOXY	v
+erma"sSigen/DIOXY	v
+ermo"glichen/DIOXY	v
+ermu"den/DIOXY	v
+ernannte/Z
+ernennen/DIX	v
+erneuern/BDIOXY	v
+erniedrigen/DIOXY	v
+ernstzunehmen/D
+ernten/DIXY	v
+erna"hren/DIOXY	v
+ernu"chtern/IOXY	v
+erobern/DIOXY	v
+erodieren/DIOXY	v
+erotisieren/DIOXY	v
+erpressen/BDIOXY	v
+erproben/BDIXY	v
+erquicken/DIOXY	v
+errang/Z
+erraten/ADI	v
+errechnen/DIOXY	v
+erregen/BDIOXY	v
+erreichen/BDIOXY	v
+erretten/DIOXY	v
+errichten/DIOXY	v
+erriet/ZE
+erringen/DIX	v
+erra"tst/X
+erro"ten/DIOXY	v
+ersann/Z
+ersaufen/DI	v
+erschaffen/ADIXW	v
+erschallen/DIOXY	v
+erschauern/DIXY	v
+erscheinen/DIX	v
+erschienen/AWX	v
+erschiesSen/DIX	v
+erschlaffen/DIOXY	v
+erschlagen/ADI	v
+erschleichen/DIX	v
+erschlichen/AWX	v
+erschliesSen/DIX	v
+erschlug/Z
+erschla"gt/X
+erschlu"ge/Z
+erschnu"ffeln/DIOXYW	v
+erschossen/AWX	v
+erschrak/Z
+erschrecken/DIOXY	v
+erschrickt/X
+erschuf/Z
+erschweren/DIOXY	v
+erschwindeln/DIOXY	v
+erschwingen/BDIXO	v
+erscho"pfen/DIOXY	v
+erschu"ttern/DIOXY	v
+ersehen/BI	v
+ersehnen/DIOXY	v
+ersetzen/BDIOXY	v
+ersieht/X
+ersinnen/DIOXY	v
+ersparen/DIOXY	v
+erspielen/DIOXY	v
+erspa"hen/IOXY	v
+erstach/Z
+erstanden/AWX	v
+erstarken/DIOXY	v
+erstarren/DIOXY	v
+erstatten/DIOXY	v
+erstaunen/DIOXY	v
+erstechen/DI	v
+erstehen/DIX	v
+ersteigen/DIX	v
+ersteigern/DIOXY	v
+erstellen/BDIOXY	v
+ersterben/DI	v
+ersticht/X
+ersticken/DIOXY	v
+erstieg/Z
+erstrahlen/DIOXY	v
+erstreben/DIOXY	v
+erstrecken/DIXY	v
+erstreiten/BDIX	v
+erstritten/WX	v
+erstu"rmen/DIOXY	v
+ersuchen/DIOXY	v
+ersa"uft/X
+ertappen/DIOXY	v
+ertasten/BDIOXY	v
+erteilen/DIOXY	v
+ertragen/ABDIW	v
+ertrank/Z
+ertrinken/DIX	v
+ertrug/Z
+ertra"gt/X
+ertra"nken/DIOXY	v
+ertra"umen/DIOXY	v
+erturnen/DIOXY	v
+erto"nen/DIOXY	v
+eruieren/DIOXY	v
+erwachen/DIOXY	v
+erwachsen/ADI	v
+erwandern/DIOXY	v
+erwarb/Z
+erwarten/BDIOXY	v
+erwecken/DIOXY	v
+erwehren/DIOXY	v
+erweichen/DIOXY	v
+erweisen/DIX	v
+erweitern/BDIOXY	v
+erwerben/BDI	v
+erwidern/DIOXY	v
+erwies/ZE
+erwirbt/XW
+erwirken/DIOXY	v
+erwirtschaften/DIOXY	v
+erwischen/DIOXY	v
+erwogen/AWX	v
+erwa"chst
+erwa"gen/DIX	v
+erwa"hlen/IOXY	v
+erwa"hnen/DIOXY	v
+erwa"rmen/DIOXY	v
+erwu"nschen/IXY	v
+erwu"rgen/DIOXY	v
+erzeugen/BDIOXY	v
+erziehen/BDIX	v
+erzielen/BDIOXY	v
+erzittern/DIOXY	v
+erzog/Z
+erzwang/Z
+erzwingen/BDIX	v
+erza"hlen/DIOXYW	v
+erzu"rnen/DIOXY	v
+ero"ffnen/DIOXY	v
+ero"rtern/DIOXY	v
+eru"brigen/BDIOXY	v
+eskalieren/DIOXYW	v
+essen/BDI	v
+etablieren/DIOXY	v
+etikettieren/DIOXY	v
+evakuieren/DIOXY	v
+examinieren/DIOXY	v
+exekutieren/DIOXY	v
+exemplifizieren/DIOXYW	v
+exerzieren/DIXY	v
+exhumieren/DIOXY	v
+existieren/DIXY	v
+exkommunizieren/BDIOXYW	v
+expandieren/DIOXY	v
+experimentieren/DIXY	v
+explodieren/DIOXY	v
+explorieren/DIXY	v
+exponieren/DIOXY	v
+exportieren/BDIOXY	v
+extrahieren/BDIOXY	v
+extrapolieren/BDIOXY	v
+extrudieren/DIOXY	v
+fabrizieren/DIOXY	v
+fachen/IXY	v
+fachsimpeln/IXY	v
+fackeln/DIXY	v
+fahnden/DIXY	v
+fahren/BDIVW	v
+fakturieren/IOXY	v
+fallen/DIV	v
+falschspielen/DIXY	v
+falsifizieren/BDIOXYW	v
+falten/DIXY	v
+falzen/BDIXY	v
+fand/Z
+fangen/DIV	v
+faseln/DIXY	v
+fassen/BDIVXY	v
+fasten/DIXY	v
+faszinieren/DIOXY	v
+fauchen/DIXY	v
+faulen/DIVXY	v
+faulenzen/DIXY	v
+favorisieren/IOXY	v
+faxen/DIXY	v
+fechten/DIVX	v
+federn/DIXY	v
+fegen/DIXY	v
+fehlen/BDIVXYW	v
+fehlinterpretieren/DIOXY	v
+fehlschlagen/DI	v
+fehlschlug/Z
+fehlschla"gt/X
+feiern/DIXY	v
+feilbieten/DIX	v
+feilen/DIXY	v
+feilschen/DIXY	v
+feilzubieten/D
+feineinstellen/DIXY	v
+fernbleiben/DIX	v
+fernblieb/ZE
+fernhalten/DI	v
+fernha"ltst/X
+fernlenken/BDIXY	v
+fernsehen/DI	v
+fernsieht/X
+fernzubleiben
+fernzuhalten/D
+fertigbrachte/Z
+fertigbringen/DIX	v
+fertigen/DIVXY	v
+fertigmachen/DIXY	v
+fertigstellen/BDIXY	v
+fertigzustellen/D
+fesseln/DIXYW	v
+festbinden/DIX	v
+festfahren/DI	v
+festhalten/DI	v
+festhielt/ZE
+festha"ltst/X
+festigen/DIVXY	v
+festkleben/DIXY	v
+festlegen/BDIXY	v
+festliegen/DIX	v
+festmachen/DIXY	v
+festmontieren/DIOXY	v
+festnageln/DIXY	v
+festnehmen/DI	v
+festnimmt/X
+festschmoren/DIXY	v
+festschnallen/BDIXY	v
+festschrauben/IXY	v
+festschreiben/BIX	v
+festschrieb/Z
+festsetzen/DIXY	v
+festsitzen/DIX	v
+festspannen/DIXY	v
+feststand/Z
+feststecken/DIXY	v
+feststehen/DIX	v
+feststellen/BDIXY	v
+feststu"nde/N
+festziehen/DIX	v
+festzuhalten/D
+festzukrallen
+festzulegen/D
+festzumachen/D
+festzunehmen/D
+festzuschrauben/D
+festzuschreiben/D
+festzusetzen/D
+festzustehen
+festzustellen/D
+feuern/DIVXY	v
+fichtst/VX
+fiebern/DIXY	v
+fiel/VZE
+filetieren/DIOXYW	v
+filmen/BDIVXY	v
+filtern/BDIXYW	v
+filzen/DIXYW	v
+finalisieren/IOXYW	v
+finanzieren/BDIOXY	v
+finden/BDIX	v
+fing/VZ
+fingieren/DIOXY	v
+firmieren/DIXY	v
+fischen/DIXY	v
+fixen/DIXY	v
+fixieren/DIOXY	v
+flachdru"cken/DIXY	v
+flackern/DIXY	v
+flaggen/DIXY	v
+flambieren/BDIOXYW	v
+flammen/BDIXY	v
+flanieren/DIXYW	v
+flankieren/DIXY	v
+flanschen/IXY	v
+flattern/DIXY	v
+flechten/BDIX	v
+flehen/DIXY	v
+flektieren/BDIOXYW	v
+flennen/DIXY	v
+fletschen/DIXY	v
+flichtst/VW
+flicken/DIXY	v
+fliegen/DIVXW	v
+fliehen/DIXW	v
+fliesSen/DIVX	v
+flimmern/DIXY	v
+flippern/DIXYW	v
+flirten/DIXY	v
+flitzen/DIXY	v
+flocht/VZ
+flocken/DIXY	v
+flog/VZ
+floh/Z
+florieren/DIXY	v
+floss/VZ
+flottmachen/DIXY	v
+flottzumachen/D
+fluchen/DIVXY	v
+fluktuieren/DIXY	v
+flunkern/DIXY	v
+fluoreszieren/DIXY	v
+fluten/DIXY	v
+flutschen/DIXY	v
+flo"ge/Z
+flo"hen/XI	v
+flo"sse/Z
+flo"ten/DIXY	v
+flo"sSen/DIXY	v
+flu"chten/DIXY	v
+flu"stern/DIXY	v
+focht/VZ
+fokussieren/DIOXY	v
+folgen/DIVXY	v
+folgern/DIXY	v
+foltern/DIXY	v
+foppen/DIXY	v
+forcieren/DIOXY	v
+fordern/DIXY	v
+formalisieren/BDIOXY	v
+formatieren/DIXYB	v
+formen/BDIVXY	v
+formieren/DIOXY	v
+formulieren/BDIOXY	v
+forschen/DIXY	v
+fortbestehen/DIX	v
+fortbestu"nde/Z
+fortbewegen/DIOXY	v
+fortbilden/DIXY	v
+fortbleiben/DIX	v
+fortdauern/DIXY	v
+fortentwickeln/IXY	v
+fortfahren/DI	v
+fortfallen/DI	v
+fortfegen/DIXY	v
+fortfiel/ZE
+fortfliegen/DIX	v
+fortflog/Z
+fortfa"hrt/X
+fortfu"hren/DIXY	v
+fortgalt/Z
+fortgebracht/A	aa
+fortgehen/DIX	v
+fortgelebt
+fortgelten/DI	v
+fortgeweht
+fortgilt
+fortging/ZE
+fortholen/DIXY	v
+fortjagen/DIXY	v
+fortkommen/DIX	v
+fortlassen/DI	v
+fortlaufen/DI	v
+fortleben/DIXY	v
+fortla"sst
+fortnimmt/X
+fortpflanzen/DIXY	v
+fortrannte/Z
+fortreisSen/DIX	v
+fortra"umen/DIXY	v
+fortschaffen/DIXY	v
+fortschreiten/DIX	v
+fortsetzen/BDIXY	v
+fortspinnen/DIX	v
+fortspu"len/DIXY	v
+fortstehlen/DI	v
+fortstosSen/DI	v
+fortwa"hren/DIXY	v
+fortziehen/DIX	v
+fortzubilden/D
+fortzudenken/D
+fortzufahren
+fortzufu"hren/D
+fortzugehen
+fortzulaufen
+fortzunehmen/D
+fortzupflanzen/D
+fortzureisSen/D
+fortzuschaffen/D
+fortzuschicken/D
+fortzusetzen/D
+fortzuziehen/D
+fotografieren/DIOXY	v
+fotokopieren/BIOXY	v
+fragen/BDIXYW	v
+frankieren/DIOXYW	v
+frappieren/DIXY	v
+frasS/VZ
+freien/DIXY	v
+freigab/Z
+freigearbeitet
+freigeben/DI	v
+freigehabt
+freigeschwommen
+freigestanden
+freigibt/X
+freihaben/DI	v
+freihalten/DI	v
+freihielt/Z
+freikratzen/BDIXY	v
+freilassen/DI	v
+freilegen/DIXY	v
+freimachen/DIXY	v
+freira"umen/DIXY	v
+freischalten/DIXY	v
+freischneiden/DIX	v
+freischweben/DIXY	v
+freischwimmen/DIX	v
+freisetzen/DIXY	v
+freisprechen/DI	v
+freistellen/DIXY	v
+freiwerden/DI	v
+freizugeben/D
+freizuhalten/D
+freizuka"mpfen/D
+freizulassen/D
+freizulegen/D
+freizumachen/D
+freizuschalten/D
+freizusprechen/D
+frequentieren/IOXY	v
+fressen/DI	v
+freuen/DIXY	v
+freveln/DIXY	v
+frieren/DIVX	v
+frisieren/DIOXY	v
+frisst/W
+fristen/DIXY	v
+frittieren/DIXY	v
+frohlocken/DIXY	v
+fror/VZ
+fruchten/BDIXY	v
+frustrieren/DIOXY	v
+fra"sen/DIXYW	v
+fra"sSe/Z
+fro"nen/DIXY	v
+fro"steln/DIXY	v
+fru"hstu"cken/DIXY	v
+fuchsen/DIXY	v
+fuchteln/DIXY	v
+fuhr/VZ
+fummeln/DIXY	v
+fundieren/DIOXY	v
+fungieren/DIXY	v
+funkeln/DIXY	v
+funken/DIXY	v
+funktionieren/DIXY	v
+fusionieren/DIOXY	v
+futtern/DIXY	v
+fusSen/DIXY	v
+fa"cheln/DIXY	v
+fa"chern/DIXY	v
+fa"deln/DIXY	v
+fa"hrt/VX
+fa"llen/DIXY	v
+fa"lschen/BDIVXY	v
+fa"nden/IX	v
+fa"ngt/VX
+fa"rben/BDIVXY	v
+fo"hnen/DIXY	v
+fo"rdern/DIXY	v
+fu"gen/DIVXY	v
+fu"hlen/BDIXY	v
+fu"hren/DIVXY	v
+fu"llen/BDIXY	v
+fu"rchten/DIXY	v
+fu"ttern/DIVXY	v
+gab/VZ
+gabeln/DIXY	v
+gackern/DIXY	v
+gaffen/DIVXY	v
+galoppieren/DIXY	v
+galt/VZ
+garantieren/DIOXY	v
+garnieren/DIOXY	v
+gastieren/DIXY	v
+geantwortet
+geargwo"hnt
+geballert
+gebangt
+gebar/Z
+gebebt
+gebellt
+geben/DIV	v
+gebetet
+gebettelt
+gebieten/DIX	v
+geblickt
+gebla"ttert
+geblu"ht
+geboten/AWX	v
+geboxt
+gebrauchen/DIOXY	v
+gebreitet
+geba"rden/DIXY	v
+geba"ren/DIX	v
+gebu"ffelt
+gebu"hren/DIXY	v
+gedachte/AZ	aa
+gedampft
+gedeihen/DIX	v
+gedenken/DIX	v
+gediehen/AWX	v
+gedulden/DIOXY	v
+gedo"st
+gedu"nkt
+gefallen/IA	v
+gefangenhalten/DI	v
+gefangenha"ltst/X
+gefangennehmen/DI	v
+gefangennimmt/X
+gefangenzuhalten/D
+gefangenzunehmen/D
+gefaselt
+gefastet
+gefaulenzt
+gefeilscht
+gefesselt/A	aa
+gefiebert
+gefiel/ZE
+geflackert
+geflanscht
+geflattert
+gefleht
+geflitzt
+geflucht
+geflunkert
+geflo"tet
+gefolgt
+gefreut
+gefrieren/BDIX	v
+gefroren/AWX	v
+gefruchtet
+gefru"hstu"ckt
+gefunkelt
+gefa"hrden/DIXY	v
+gefa"llt/AX	aa
+gefu"gt
+gegackert
+gegafft
+gegeizt
+gegensteuern/DIXY	v
+gegenzeichnen/DIXY	v
+gegenzusteuern/D
+gegenu"berliegen/DIX	v
+gegenu"bersehen/DI	v
+gegenu"bersieht/X
+gegenu"berstand/Z
+gegenu"berstehen/DIX	v
+gegenu"berstellen/DIXY	v
+gegenu"bersa"he/Z
+gegenu"bertreten/DI	v
+gegenu"bertritt/X
+gegenu"berzustehen
+geglichen
+geglotzt
+gegla"nzt
+gegrenzt
+gegrinst
+gegru"belt
+geguckt
+gega"hnt
+gehaftet
+gehagelt
+gehastet
+gehaust
+gehebelt
+geheimzuhalten/D
+gehen/DIVXW	v
+geherrscht
+geheuert
+geheult
+gehinkt
+gehofft
+geholfen
+gehorchen/DIXY	v
+gehuldigt
+gehungert
+gehupt
+gehustet
+geho"hnt
+geho"ren/DIOXY	v
+geigen/DIXYW	v
+geirrt
+geistern/DIXY	v
+geizen/DIXY	v
+geisSeln/DIXY	v
+gejammert
+gejuckt
+gekeift
+gekeimt
+gekeucht
+gekichert
+geklafft
+geklagt
+geklappert
+geklappt
+geklatscht
+geklettert
+geklickt
+geklimpert
+geklingelt
+geklirrt
+geklopft
+geknallt
+gekniet
+geknirscht
+geknistert
+geknurrt
+gekokst
+gekontert
+gekostet
+gekracht
+gekrault
+gekreischt
+gekriegt
+gekra"ftigt
+geka"mpft
+geku"mmert
+gelacht
+gelahmt
+gelangen/DIOWXY	v
+gelauscht
+geleiten/DIOXY	v
+gelingen/DIX	v
+gellen/DIXY	v
+geloben/DIOXY	v
+gelohnt
+gelotst/A	aa
+gelten/DIV	v
+gela"nge/N
+gela"stert
+gelu"sten/DIXY	v
+gemangelt
+gemeckert
+gemeutert
+gemogelt
+gemordet
+gemosert
+gemundet
+gemunkelt
+gemusst
+genagt
+genehmigen/DIOXY	v
+generalisieren/BDIOXY	v
+generieren/BDIOXY	v
+genesen/DIXA	v
+genieren/DIOXY	v
+geniest
+geniesSen/BDIX	v
+genoss/Z
+geno"ssen/XI	v
+genu"gen/IXY	v
+gepaddelt
+gepasst
+gepeilt
+gepfuscht
+gepickt
+gepimpert/n
+gepinselt
+geplantscht
+geplappert
+geplaudert
+gepokert
+geprahlt
+geprasst
+geprotzt
+geputscht
+gequietscht
+geradebiegen/DIX	v
+geradebog/Z
+geradelt
+geradestand/Z
+geradestehen/DIX	v
+geragt
+gerammelt
+gerannt
+geraschelt
+gerasselt
+gerast
+gerastet
+gerben/DIXY	v
+gereckt
+geredet
+geregnet
+geregt
+gereichen/DIOXY	v
+gerempelt
+geriet/ZE
+gerinnen/DIX	v
+gerudert
+geruhen/DIXY	v
+gera"tselt
+gera"tst/X
+gera"uspert
+geschah/P
+geschehe
+geschieht
+geschlendert
+geschlenkert
+geschlichen
+geschlottert
+geschlummert
+geschlussfolgert
+geschmatzt
+geschmeckt
+geschmerzt
+geschmiegt
+geschmunzelt
+geschnappt
+geschnarcht
+geschnattert
+geschnauft
+geschneit
+geschnellt
+geschnurrt
+geschna"uzt
+geschnu"ffelt
+geschreckt
+geschubst
+geschwankt
+geschwappt
+geschwatzt
+geschwelgt
+geschwemmt
+geschwindelt
+geschwirrt
+geschwitzt
+geschwa"rmt
+geschwa"tzt
+gescha"he/N
+gesegelt
+gesehnt
+gesellen/DIOXYW	v
+geseufzt
+gesiecht
+gesiedelt
+gesiedet
+gesiegt
+gesorgt
+gespasSt
+gestalten/BDIOXY	v
+gestand/Z
+gestapft
+gestarrt
+gestatten/DIXY	v
+gestaunt
+gestehen/DIX	v
+gestelzt
+gestikulieren/DIXY	v
+gestrahlt
+gestrampelt
+gestreikt
+gestrotzt
+gesto"bert
+gesto"hnt
+gesunden/DIXY	v
+gesundschrumpfen/DIXY	v
+gesurft
+getapst
+getobt
+getrickst
+getrudelt
+geurteilt
+gewaltet
+gewankt
+gewann/Z
+gewedelt
+gewehrt
+geweigert
+geweilt
+geweint
+gewichten/DIOXY	v
+gewichtheben/DI	v
+gewinnen/DIX	v
+gewirbelt
+gewundert
+gewurmt
+gewa"hren/BDIOXY	v
+gewa"hrleisten/DIOXY	v
+gewa"nnen/XI	v
+gewo"hnen/DIOXY	v
+gewo"nnen/XI	v
+gewu"tet
+gezankt
+gezappelt
+gezaudert
+gezeltet
+geziemen/DIXY	v
+gezittert
+gezuckt
+gezu"ndelt
+gezu"ngelt
+gea"hnelt
+gibt/VXW
+gieren/DIXYW	v
+giesSen/DIVX	v
+giften/DIVXY	v
+giltst/VX
+ging/EVZ
+gipfeln/DIXY	v
+glasieren/DIOXY	v
+glattstellen/DIXY	v
+glauben/DIXYW	v
+gleichen/DIVX	v
+gleichgekommen
+gleichgetan
+gleichkam/Z
+gleichkommen/DIX	v
+gleichka"me/N
+gleichmachen/DIXY	v
+gleichsetzen/DIXY	v
+gleichstehen/DIX	v
+gleichstellen/BDIXY	v
+gleichtun/IX	v
+gleichziehen/DIX	v
+gleichzuschalten/D
+gleichzusetzen/D
+gleichzustellen/D
+gleichzutun
+gleichzuziehen/D
+gleiten/DIX	v
+glich/VZ
+gliedern/DIXY	v
+glimmen/DIVXY	v
+glitt/ZE
+glitzern/DIXY	v
+glotzen/DIXY	v
+gluckern/DIXY	v
+glucksen/DIXY	v
+gla"nzen/DIXY	v
+gla"tten/DIXY	v
+glu"cken/DIXY	v
+glu"hen/DIXYW	v
+goss/VZ
+goutieren/DIOXYW	v
+graben/DIV	v
+granulieren/DIXY	v
+grasen/DIXY	v
+grassieren/DXY	v
+gratulieren/DIXY	v
+grauen/IXY	v
+grausen/DIXY	v
+gravieren/IOXY	v
+greifen/BDIVXW	v
+grenzen/BDIXY	v
+grienen/DIXY	v
+griff/VZ
+grillen/BDIXYW	v
+grinsen/DIXY	v
+grollen/DIXY	v
+grosSziehen/DIX	v
+grub/VZ
+grummeln/DIXYW	v
+grundieren/DIOXY	v
+grunzen/DIXY	v
+gruppieren/DIOXY	v
+gruseln/DIXY	v
+gra"bt/VX
+gra"men/DIVXY	v
+gro"len/DIXY	v
+gru"beln/DIXY	v
+gru"nden/DIXY	v
+gru"nen/DIXY	v
+gru"sSen/DIXYW	v
+gucken/DIXYWV	v
+gurgeln/DIXY	v
+gutgegangen
+gutheisSen/DI	v
+gutmachen/BDIXY	v
+gutschreiben/DIX	v
+gutzumachen/D
+gutzuschreiben/D
+ga"b/ZE
+ga"hnen/DIXY	v
+ga"lte/Z
+ga"ngeln/DIXY	v
+ga"ren/DIXY	v
+go"nnen/DIVXY	v
+habe/Z
+haben/DIW	v
+habilitieren/DIOXYW	v
+hacken/DIXY	v
+hadern/DIXY	v
+haften/BDIVXY	v
+hageln/DIXY	v
+haken/DIVXY	v
+halbieren/BDIOXY	v
+half/VZ
+halftern/DIXY	v
+hallen/DIVXY	v
+halluzinieren/DIXY	v
+halten/BDIVW	v
+handeln/BDIVXY	v
+handhaben/BDI	v
+hangeln/DIXYW	v
+hanteln/DIXY	v
+hantieren/DIXY	v
+hapern/DIXY	v
+harken/IXY	v
+harmonieren/DIXY	v
+harmonisieren/DIOXY	v
+harren/DIVXY	v
+haschen/DIXY	v
+hassen/DIXY	v
+hasten/DIXY	v
+hat/X
+hatte/Z
+hauchen/DIXYW	v
+hauen/DIVXYW	v
+hausen/DIXY	v
+haushalten/DI	v
+hausieren/DIXY	v
+havarieren/DOY	v
+hebeln/DIXY	v
+heben/DIX	v
+hecheln/DIXY	v
+hechten/DIXY	v
+hecken/IXY	v
+heften/DIXY	v
+hegen/DIXY	v
+hehlen/DIVXY	v
+heilen/DIVXY	v
+heiligen/DIXY	v
+heiligsprechen/DI	v
+heiligspricht/X
+heiligzusprechen/D
+heimbegleiten/DIOXY	v
+heimbrachte/Z
+heimbringen/DIX	v
+heimfahren/DI	v
+heimgehen/DIX	v
+heimholen/DIXY	v
+heimkam/Z
+heimkehren/DIXY	v
+heimkommen/DIX	v
+heimleuchten/DIXY	v
+heimsen/IXY	v
+heimsuchen/DIXY	v
+heimzahlen/DIXY	v
+heimzufu"hren/D
+heimzukehren
+heimzukommen
+heimzureisen
+heimzusuchen/D
+heimzutragen/D
+heimzuzahlen/D
+heiraten/DIVXY	v
+heitern/IXY	v
+heizen/BDIVXY	v
+heisSen/DIVX	v
+heisSlaufen/DI	v
+helfen/DIV	v
+hellen/DIXY	v
+hemmen/DIXY	v
+herabgefallen/A	aa
+herabha"ngen/DIXY	v
+herablassen/DI	v
+herabla"sst
+herabrinnt/X
+herabsetzen/DIXY	v
+herabstufen/BDIXY	v
+heranbrachte/Z
+herandonnern/D
+heranfuhr/Z
+herangehen/DIX	v
+herangemacht
+heranging/ZE
+herankam/Z
+herankommen/DIX	v
+heranmachen/DIXY	v
+heranschaffen/BDIXY	v
+herantragen/ID	v
+herantrat/Z
+herantreten/DI	v
+herantrittst/X
+heranwagen/DIXY	v
+heranwa"chst
+heranziehen/DIX	v
+heranzog/Z
+heranzufu"hren/D
+heranzukommen
+heranzuru"cken
+heraufbeschwor/Z
+heraufbeschwo"ren/DIXY	v
+heraufkam/Z
+heraufschauen/DIXY	v
+heraufzufu"hren/D
+heraufzuholen/D
+herausarbeiten/IXYD	v
+herausbekommen/AIX	v
+herausbrachte/Z
+herausdestillieren/IOXY	v
+herausfiltern/DIXY	v
+herausfinden/DIX	v
+herausfordern/DIXY	v
+herausfuhr/Z
+herausfa"llt/X
+herausfu"hren/IXY	v
+herausgab/Z
+herausgeben/DI	v
+herausgehen/DIX	v
+herausheben/DIX	v
+herausholen/DIXY	v
+herausha"ltst/X
+herauskam/Z
+herauskaufen/DIXY	v
+herauskitzeln/BDIXY	v
+herauskommen/DIX	v
+herauskriegen/DIXY	v
+herauskristallisieren/IOXY	v
+herausliesS/ZE
+herauslo"schen/BDIXY	v
+herausnehmen/DI	v
+herauspumpen/DIXY	v
+herausragen/DIXY	v
+herausrechnen/DIXY	v
+herausrieseln/IXY	v
+herausschmuggeln/BDIXY	v
+herausstellen/BDIXY	v
+heraussuchen/DIXY	v
+heraustrat/Z
+herauswarf/Z
+herauswerfen/DI	v
+herauswirft/X
+herausziehen/BDIX	v
+herauszuangeln/D
+herauszuarbeiten/D
+herauszubekommen/D
+herauszufiltern/D
+herauszufinden/D
+herauszufordern/D
+herauszugeben/D
+herauszuhalten/D
+herauszukriegen/D
+herauszulo"sen/D
+herauszupumpen/D
+herauszureisSen/D
+herauszuwagen
+herauszuwerfen/D
+herauszuziehen/D
+herbeifu"hren/DIXY	v
+herbeischaffen/DIXY	v
+herbeisehnen/IXY	v
+herbeizubringen/D
+herbestellen/DIOXY	v
+herbla"ttern/IXY	v
+herbringen/DIX	v
+hereinbitten/DIX	v
+hereinbricht/X
+hereinfallen/DI	v
+hereingeschaut
+hereinkam/Z
+hereinkommen/DIX	v
+hereinlassen/DI	v
+hereinlegen/DIXY	v
+hereinla"sst
+hereinplatzen/DIXY	v
+hereinragen/DIXY	v
+hereinschauen/DIXY	v
+hereinzubitten/D
+hereinzufallen
+hereinzuholen/D
+hereinzukommen
+herfallen/DI	v
+herfiel/Z
+herfuhr/Z
+hergeben/DI	v
+hergehen/DIX	v
+hergesehen
+hergestammt
+hergibt/X
+herging/ZE
+herhalten/DI	v
+herholen/DIXY	v
+herkam/Z
+herkommen/DIX	v
+herlaufen/DI	v
+herleiten/BDIXY	v
+herlief/Z
+herlocken/DIXY	v
+hermachen/DIXY	v
+hernehmen/DI	v
+herrichten/DIXY	v
+herrschen/DIXY	v
+herrufen/DIX	v
+herru"hren/DIXY	v
+herschieben/DIX	v
+hersehen/DI	v
+herstellen/BDIXY	v
+hertreiben/DIVX	v
+hertrieb/ZE
+herumfahren/DI	v
+herumfuchteln/DIXY	v
+herumfuhr/Z
+herumfa"hrt/X
+herumgelaufen
+herumgesprochen
+herumgewedelt
+herumkommandieren/DIOXY	v
+herumkriegen/DIXY	v
+herumlag/Z
+herumlaufen/DI	v
+herumlief/ZE
+herumliegen/DIX	v
+herumla"uft/X
+herumno"rgeln/DIXY	v
+herumreichen/DIXY	v
+herumreisSen/IX	v
+herumschlagen/DI	v
+herumspielen/DIXY	v
+herumsprechen/DI	v
+herumstehen/DIX	v
+herumtragen/I	v
+herumtreiben/DIX	v
+herumwedeln/DIXY	v
+herumwirbeln/IXY	v
+herumwuchern/DIXY	v
+herumzeigen/DIXY	v
+herumzulaufen
+herumzureden
+herumzuschlagen
+herumzuschrauben
+herumzustehen
+herumzustochern
+herunterfahren/DI	v
+herunterfallen/DI	v
+herunterfuhr/Z
+herunterfa"llt/X
+heruntergedru"ckt
+herunterhandeln/DIXY	v
+herunterkam/Z
+herunterkommen/DIX	v
+herunterlief/Z
+herunternehmen/DI	v
+herunternimmt/X
+herunterspielen/DIXY	v
+herunterzukommen
+herunterzunehmen/D
+herunterzuspielen
+hervorbrachte/Z
+hervorbringen/DIX	v
+hervorgehen/IXD	v
+hervorgetan
+hervorging/ZE
+hervorheben/DIX	v
+hervorhob/Z
+hervorragen/DIXY	v
+hervorrief/ZE
+hervorrufen/DIX	v
+hervortrittst/X
+hervortun/IX	v
+hervorzubringen/D
+hervorzuheben/D
+hervorzurufen/D
+herwagen/DIXY	v
+herziehen/DIX	v
+herzog/Z
+herzubitten/D
+herzubringen/D
+herzufallen
+herzugeben/D
+herzulaufen
+herzuleiten/D
+herzurichten/D
+herzustellen/D
+herzutreiben/D
+heru"berkommen/DIX	v
+hetzen/DIXY	v
+heucheln/DIXY	v
+heuern/IXY	v
+heulen/DIXY	v
+hexen/DIVXY	v
+hielt/EVZ
+hiesS/VZE
+hilft/VXW
+hinabstosSen/DI	v
+hinabzugehen
+hinabzustu"rzen/D
+hinabzuziehen/D
+hinauffuhr/Z
+hinauffu"hren/DIXY	v
+hinaufgeklettert
+hinaufzufu"hren/D
+hinaufzuklettern
+hinaufzuziehen/D
+hinausbegleiten/DIXY	v
+hinausfuhr/Z
+hinausfu"hrt/X
+hinausgehen/DIX	v
+hinausging/ZE
+hinausheben/DIX	v
+hinauslaufen/DI	v
+hinauslief/ZE
+hinausla"uft/X
+hinausschieben/DIX	v
+hinaustrat/Z
+hinauswerfen/DI	v
+hinauszubringen/D
+hinauszufahren/D
+hinauszufu"hren/D
+hinauszugehen
+hinauszuschaffen/D
+hinauszuschieben/D
+hinauszustosSen/D
+hinauszutragen/D
+hinauszutreiben/D
+hinauszuzo"gern/D
+hinauszo"gern/DIXY	v
+hinblicken/IXY	v
+hinbla"ttern/DIXY	v
+hinbringen/DIX	v
+hindern/DIVXY	v
+hindeuten/DIXY	v
+hindurchfu"hren/DIXY	v
+hindurchgegangen
+hindurchging/ZE
+hindurchschla"ngeln/DIXY	v
+hindurchsehen/DI	v
+hindurchzuschauen
+hinda"mmern/DIXY	v
+hineilen/DIXY	v
+hineindra"ngen/DIXY	v
+hineinfallen/DI	v
+hineingehen/DIX	v
+hineingeho"ren/DIXY	v
+hineingepumpt/A	aa
+hineingeraten/ADI	v
+hineinlassen/DI	v
+hineinlegen/DIXY	v
+hineinmischen/DIXY	v
+hineinmu"nden/DIXY	v
+hineinpassen/IXY	v
+hineinplatzen/DIXY	v
+hineinragen/DIXY	v
+hineinrufen/DIX	v
+hineinsah/Z
+hineinschieben/IX	v
+hineinsehen/DI	v
+hineinsieht/X
+hineinspielen/DIXY	v
+hineinstecken/DIXY	v
+hineinwechseln/DIXY	v
+hineinwirken/DIXY	v
+hineinzugehen
+hineinzukommen
+hineinzulegen/D
+hineinzuschauen
+hineinzusehen
+hineinzustecken/D
+hineinzutragen/D
+hineinzuwachsen
+hineinzuziehen/D
+hineinzwingen/DIX	v
+hinfahren/DI	v
+hinfallen/DI	v
+hinfiel/ZE
+hinfuhr/Z
+hing/ZE
+hingab/Z
+hingeben/DI	v
+hingeduckt
+hingehen/DIX	v
+hingeho"ren/IXY	v
+hingesehen
+hingewirkt
+hingibt/X
+hinhalten/DI	v
+hinhauen/DIXY	v
+hinhielt/ZE
+hinho"ren/DIXY	v
+hinken/DIXY	v
+hinkommen/DIX	v
+hinkriegen/DIXY	v
+hinlegen/DIXY	v
+hinleiten/DIXY	v
+hinnehmen/BDI	v
+hinnimmt/X
+hinreichen/DIXY	v
+hinreisSen/DIX	v
+hinrichten/DIXY	v
+hinsah/Z
+hinschauen/DIXY	v
+hinschlagen/DI	v
+hinschmeisSen/IX	v
+hinschreiben/IXD	v
+hinschwinden/DIX	v
+hinsehen/DI	v
+hinsetzen/DIXY	v
+hinsieht/X
+hinstellen/BDIXY	v
+hinsa"hen/XI	v
+hinterfragen/BDIOXYW	v
+hintergehen/DIXW	v
+hinterherla"uft/X
+hinterlassen/DIA	v
+hinterlegen/DIOXY	v
+hinterliesS/ZE
+hinterla"sst
+hintertreiben/DIX	v
+hintertrieb/ZE
+hintreten/DI	v
+hinunterfallen/DI	v
+hinunterfuhr/Z
+hinunterrutschen/IXY	v
+hinunterschlendern/DIXY	v
+hinunterschlich/ZE
+hinunterschlucken/DIXY	v
+hinuntersteigen/DIX	v
+hinwegbringen/DIX	v
+hinwegfegen/DIXY	v
+hinweggebraust/A	aa
+hinweggeholfen
+hinweghelfen/DI	v
+hinwegkommen/DIX	v
+hinwegraffen/IXY	v
+hinwegschwemmen/DIXY	v
+hinwegsehen/DI	v
+hinwegsetzen/DIXY	v
+hinwegtro"sten/DIXY	v
+hinwegta"uschen/DIXY	v
+hinwegzureden/D
+hinwegzusehen
+hinwegzusetzen
+hinweisen/DIX	v
+hinwenden/DIXY	v
+hinwerfen/DI	v
+hinwies/ZE
+hinwirft/X
+hinwirken/DIXY	v
+hinziehen/DIX	v
+hinzielen/DIXY	v
+hinzog/Z
+hinzuarbeiten
+hinzudeuten
+hinzufahren
+hinzufallen
+hinzufu"gen/DIXY	v
+hinzugeben/DI	v
+hinzugehen
+hinzugenommen
+hinzugetan
+hinzugibt/X
+hinzukam/Z
+hinzukaufen/DIXY	v
+hinzukommen/DIX	v
+hinzukriegen
+hinzuladen/DI	v
+hinzulernen/DIXY	v
+hinzula"dt/X
+hinzunehmen/DI	v
+hinzunimmt/X
+hinzurechnen/DIXY	v
+hinzureisSen
+hinzurichten/D
+hinzuschmeisSen/D
+hinzusehen
+hinzustellen/D
+hinzutreten/DI	v
+hinzuweisen
+hinzuwerfen/D
+hinzuwirken
+hinzuziehen/DIX	v
+hinzuzufu"gen/D
+hinzuzunehmen
+hinzuzurechnen/D
+hinzuzuziehen/D
+hinzuza"hlen/IXY	v
+hinzo"gen/XI	v
+hinu"berlenken/DIXY	v
+hissen/DIXY	v
+historisieren/DIXY	v
+hob/Z
+hobeln/DIXYW	v
+hochachten/DI	v
+hochfahren/DI	v
+hochfa"hrt/X
+hochgegangen/A	aa
+hochgehen/DIX	v
+hochgelobt/A	aa
+hochgeredet
+hochhalten/ID	v
+hochha"ltst/X
+hochlegen/DIXY	v
+hochrechnen/DIXY	v
+hochru"sten/DIXY	v
+hochscha"tzen/DIXY	v
+hochstehen/DIX	v
+hochstellen/BDIXY	v
+hochstilisieren/BDIOXY	v
+hochziehen/IXD	v
+hochzog/Z
+hochzujubeln/D
+hochzuklettern/D
+hochzurechnen/D
+hocken/DIXY	v
+hoffen/DIXY	v
+holen/DIXYW	v
+holpern/DIXY	v
+honorieren/DIOXY	v
+hoppeln/DIXY	v
+hopsen/DIXY	v
+horchen/DIXYW	v
+horten/DIXY	v
+hospitalisieren/DIOXY	v
+hospitieren/DIXYW	v
+huldigen/DIXY	v
+humanisieren/DIOXY	v
+humpeln/DIXY	v
+hungern/DIVXY	v
+hupen/DIXY	v
+huschen/IXY	v
+husten/DIXY	v
+hypnotisieren/BDIOXY	v
+ha"keln/DIXY	v
+ha"ltst/VX
+ha"mmern/DIXY	v
+ha"ndigen/IXY	v
+ha"ngen/DIVXY	v
+ha"nseln/DIXY	v
+ha"rten/DIVXY	v
+ha"tscheln/DIVXY	v
+ha"tte/Z
+ha"ufen/DIXY	v
+ho"hlt/X
+ho"hnen/DIVXY	v
+ho"ren/BDIVXYW	v
+hu"llen/DIVXY	v
+hu"pfen/DIXY	v
+hu"steln/DIXY	v
+hu"ten/DIVXY	v
+idealisieren/DIOXY	v
+identifizieren/BDIXY	v
+igeln/IXYW	v
+ignorieren/DIOXY	v
+illuminieren/DIOXY	v
+illustrieren/DIOXY	v
+imitieren/DIOXY	v
+imkern/DIXY	v
+immatrikulieren/DIOXY	v
+immunisieren/DIOXY	v
+impfen/BDIXY	v
+implantieren/BDIOXYW	v
+implementieren/BDIOXY	v
+implizieren/DIOXY	v
+implodieren/DIOXY	v
+imponieren/DIXY	v
+importieren/DIOXY	v
+improvisieren/BDIOXY	v
+impra"gnieren/DIOXY	v
+indexieren/DIOXY	v
+indignieren/DIOXY	v
+individualisieren/DIOXY	v
+indizieren/DIOXY	v
+indoktrinieren/DIOXY	v
+indossieren/DIOXY	v
+industrialisieren/DIOXY	v
+induzieren/BIOXY	v
+infiltrieren/DIOXY	v
+infizieren/DIOXY	v
+informieren/DIOXY	v
+inhaftieren/DIOXY	v
+inhalieren/BDIOXY	v
+initiieren/DIOXY	v
+injizieren/BDIOXY	v
+inkriminieren/BDIOXYW	v
+innegehabt
+innehaben/DIW	v
+innehalten/DI	v
+innehat/X
+innehatte/Z
+inneha"ltst/X
+innewohnen/DIXY	v
+innovieren/DIOXY	v
+inserieren/DIOXY	v
+insistieren/IXY	v
+inspirieren/DIOXY	v
+inspizieren/DIOXY	v
+installieren/BDIOXY	v
+instandsetzen/DIXY	v
+institutionalisieren/IOXY	v
+instruieren/DIOXY	v
+instrumentalisieren/DIOXYW	v
+instrumentieren/BDIOXYW	v
+inszenieren/DIOXY	v
+integrieren/BDIOXY	v
+intendieren/DIOXY	v
+intensivieren/DIOXY	v
+interagieren/DIOXY	v
+interessieren/DIOXY	v
+interferieren/DIOXY	v
+internieren/IOXY	v
+interpolieren/DIOXY	v
+interpretieren/BDIOXY	v
+intervenieren/DIOXY	v
+interviewen/DIW	v
+interviewte/AZ	aa
+inthronisieren/DIOXY	v
+intonieren/DIOXY	v
+intrigieren/DIXY	v
+inventarisieren/BIOXY	v
+invertieren/BDIOXY	v
+investieren/DIOXY	v
+involvieren/DIOXY	v
+ironisieren/DIXY	v
+irrefu"hren/DIXY	v
+irren/DIVXY	v
+irrezufu"hren/D
+irritieren/BDIOXY	v
+isolieren/BDIOXY	v
+isst/W
+jagen/DIVXY	v
+jammern/DIXY	v
+jauchzen/DIXY	v
+jaulen/DIXY	v
+jetten/DIXY	v
+jobben/DIXY	v
+jonglieren/DIXY	v
+jubeln/DIVXY	v
+jubilieren/DIXYW	v
+juchzen/DIXY	v
+jucken/DIXY	v
+judizieren/DIOXY	v
+justieren/BDIOXY	v
+ja"hren/IVXY	v
+ja"ten/DIXY	v
+kabbeln/DIXY	v
+kabeln/DIXY	v
+kalbern/DIXY	v
+kalibrieren/DIOXY	v
+kalkulieren/DIOVXY	v
+kaltha"rten/DIXY	v
+kaltmachen/DIXY	v
+kaltstellen/DIXY	v
+kaltziehen/DIX	v
+kam/VZ
+kampieren/DIXY	v
+kanalisieren/BDIOXY	v
+kandidieren/DIXY	v
+kandieren/DIOXY	v
+kannst/W
+kannte/VZ
+kanten/DIXY	v
+kapitalisieren/BDIOXY	v
+kapitulieren/DIOXY	v
+kappen/DIXYW	v
+kapseln/BDIVXY	v
+kaputtgehen/DIX	v
+kaputtmachen/DIXY	v
+kaputtschlagen/DI	v
+karieren/DIOXY	v
+karikieren/DIOXY	v
+karren/DIXY	v
+kartieren/BDIOXYW	v
+kartografieren/BDIOXYW	v
+kartographieren/BDIOXYW	v
+kartonieren/DIOXY	v
+kaschieren/BDIOXY	v
+kasernieren/DIOXY	v
+kaskadieren/BDIOXY	v
+kaspern/DIXY	v
+kassieren/DIOXY	v
+kasteien/DIOXY	v
+kastrieren/DIOXY	v
+katalogisieren/DIOXY	v
+katalysieren/DIOXY	v
+katapultieren/DIOXY	v
+kategorisieren/DIOXY	v
+kauen/DIXYW	v
+kauern/DIXYW	v
+kaufen/DIVXYW	v
+kegeln/DIXYW	v
+kehren/DIVXYW	v
+kehrtmachen/DIXY	v
+keifen/DIXY	v
+keilen/DIVXY	v
+keimen/DIXY	v
+kellern/IXY	v
+keltern/DIXY	v
+kennen/DIVX	v
+kennenlernen/DIXY	v
+kennenzulernen/D
+kennzeichnen/DIXY	v
+kentern/DIXY	v
+kesseln/IXYW	v
+ketten/DIVXY	v
+keuchen/DIXYW	v
+kichern/DIXYW	v
+kicken/DIXYW	v
+kidnappen/DIXY	v
+killen/DIXYW	v
+kippen/DIXYW	v
+kitten/DIVXY	v
+kitzeln/DIXYW	v
+klaffen/DIXY	v
+klagen/BDIVXYW	v
+klammern/DIXYW	v
+klang/VZ
+klappen/BDIXYW	v
+klappern/DIXYW	v
+klargekommen
+klarkommen/DIX	v
+klarlegen/DIXY	v
+klarmachen/DIXY	v
+klarstellen/BDIXY	v
+klarzustellen/D
+klassifizieren/BDIOXY	v
+klatschen/DIXYW	v
+klauen/DIXYW	v
+kleben/DIVXYW	v
+kleckern/DIXYW	v
+klecksen/DIXYW	v
+kleiden/DIVXY	v
+kleinschneiden/DIX	v
+kleinschnitt/Z
+klemmen/DIVXYW	v
+klettern/DIXYW	v
+klicken/DIXYW	v
+klimatisieren/BDIOXY	v
+klimpern/DIXYW	v
+klingeln/DIXYW	v
+klingen/DIVXW	v
+klinken/DIXY	v
+klirren/DIXYW	v
+klischieren/DIXY	v
+klopfen/DIXYW	v
+kla"ffen/DIXYW	v
+kla"ren/DIVXYW	v
+klo"nen/DIXYW	v
+knabbern/DIXYW	v
+knacken/DIXYW	v
+knallen/DIVXYW	v
+knarren/DIXYW	v
+knattern/DIXYW	v
+knausern/DIXYW	v
+knebeln/DIXYW	v
+knechten/DIXY	v
+kneifen/DIVXW	v
+kneten/BDIXY	v
+knicken/BDIXYWV	v
+knien/DIXY	v
+kniff/VZ
+knipsen/DIXYW	v
+knirschen/DIXYW	v
+knistern/DIXYW	v
+knittern/DIXYW	v
+knobeln/DIXYW	v
+knoten/DIVXY	v
+knurren/DIXYW	v
+knutschen/DIXY	v
+kno"pfen/DIXYW	v
+knu"pfen/DIVXYW	v
+knu"ppeln/DIXYW	v
+koalieren/DIXY	v
+kochen/BDIXYW	v
+kokettieren/DIXYW	v
+koksen/DIXY	v
+kollabieren/DIXYW	v
+kollaborieren/DIXY	v
+kollektivieren/DIOXY	v
+kollern/DIXY	v
+kollidieren/DIOXY	v
+kolonisieren/DIOXY	v
+kolorieren/IOXY	v
+kolportieren/DIOXYW	v
+kombinieren/BDIOXY	v
+kommandieren/DIOXY	v
+kommen/DIVXW	v
+kommentieren/DIOXY	v
+kommerzialisieren/DIOXY	v
+kommunizieren/DIXY	v
+kommutieren/DIOXY	v
+kompensieren/BDIOXY	v
+komplettieren/DIOXY	v
+komplizieren/DIOVXY	v
+komponieren/DIOXY	v
+kompostieren/BDIOXYW	v
+komprimieren/BDIXY	v
+kompromittieren/DIOXY	v
+kondensieren/DIOXY	v
+konditionieren/DIOXY	v
+kondolieren/DIXY	v
+konferieren/DIXY	v
+konfigurieren/BDIOXY	v
+konfiszieren/DIOXY	v
+konfrontieren/DIOXY	v
+kongruieren/DIXY	v
+konjugieren/DIOXY	v
+konkretisieren/BDIOXY	v
+konkurrieren/DIXY	v
+konnte/Z
+konservieren/BDIOXY	v
+konsolidieren/DIOXY	v
+konstatieren/DIOXY	v
+konsternieren/DIOXY	v
+konstituieren/DIOXY	v
+konstruieren/DIOXY	v
+konsultieren/DIOXY	v
+konsumieren/BDIOXY	v
+kontaktieren/DIOXY	v
+kontaminieren/DIOXY	v
+konterkarieren/DIOXY	v
+kontern/DIXY	v
+kontingentieren/DIOXY	v
+kontrollieren/BDIOXY	v
+konturieren/DIOXYW	v
+konvergieren/DIOXY	v
+konvertieren/BDIOXY	v
+konzentrieren/DIOXY	v
+konzeptionieren/DIOXY	v
+konzertieren/DIXYn	v
+konzipieren/DIOXY	v
+kooperieren/DIXY	v
+koordinieren/DIOXY	v
+kopieren/BDIOXY	v
+koppeln/BDIVXYW	v
+kopulieren/DIXY	v
+korrelieren/DIOXY	v
+korrespondieren/DIXY	v
+korrigieren/BDIOXY	v
+korrodieren/DIOXY	v
+korrumpieren/BDIOXY	v
+kosten/BDIXY	v
+kostu"mieren/DIOXY	v
+kotzen/DIXY	v
+krabbeln/DIXY	v
+krachen/DIVXY	v
+krakeelen/DIXY	v
+krallen/IXY	v
+kramen/IXY	v
+krampfen/DIVXY	v
+kranken/DIXY	v
+krankenversichern/IOXY	v
+krankschreiben/I	v
+kratzen/DIXYW	v
+kraulen/DIXY	v
+kredenzen/DIOXY	v
+kreditieren/DIOXY	v
+kreiden/DIXY	v
+kreieren/DIOXY	v
+kreischen/DIXY	v
+kreiseln/DIXY	v
+kreisen/DIXY	v
+krepieren/DIOXY	v
+kreuzen/DIXY	v
+kreuzigen/DIXY	v
+kribbeln/DIXY	v
+kriechen/DIVX	v
+kriegen/DIXYW	v
+kriminalisieren/BDIOXYW	v
+kristallisieren/DIOXY	v
+kritisieren/BDIOXY	v
+kroch/VZ
+kra"chzen/DIXY	v
+kra"ftigen/DIXY	v
+kra"hen/DIXY	v
+kra"nken/BDIXY	v
+kra"useln/DIXYW	v
+kro"nen/DIXY	v
+kru"meln/DIVXY	v
+kru"mmen/DIVXY	v
+kugeln/DIXY	v
+kultivieren/BDIOXY	v
+kumulieren/DIOXYW	v
+kundgetan
+kundtat/Z
+kundtun/IX	v
+kundzutun
+kuppeln/DIVXY	v
+kurbeln/DIXY	v
+kuren/DIXY	v
+kurieren/BDIOXY	v
+kursieren/DIXY	v
+kurven/DIXY	v
+kurzschliesSen/DIX	v
+kuscheln/DIXYW	v
+kuschen/DIXY	v
+ka"men/IX	v
+ka"mmen/DIXY	v
+ka"mpfen/DIXY	v
+ko"cheln/DIXYW	v
+ko"nnen/DIY	v
+ko"pfen/DIXYW	v
+ku"hlen/BDIXY	v
+ku"mmern/DIVXY	v
+ku"nden/BDIVXY	v
+ku"ndigen/DIVXY	v
+ku"ren/DIXY	v
+ku"rzen/DIVXY	v
+ku"ssen/DIXYW	v
+laben/DIXY	v
+laborieren/DIXYX	v
+lachen/DIXYW	v
+lackieren/DIOXY	v
+laden/BDIV	v
+lag/Z
+lagern/BDIVXY	v
+lahmen/DIXY	v
+lahmlegen/DIXY	v
+lahmzulegen/D
+laichen/DIXY	v
+lallen/DIXY	v
+lamentieren/DIXY	v
+lancieren/DIOXY	v
+landen/DIXY	v
+langen/DIVXY	v
+langgehen/I	v
+langlaufen/DI	v
+langweilen/DIXY	v
+las/VZ
+lassen/DIVW	v
+lasten/DIXY	v
+latschen/DIXY	v
+lauern/DIXY	v
+laufen/DIVW	v
+laugen/IXY	v
+lauschen/DIXY	v
+lausen/DIXY	v
+lauten/DIVXY	v
+leasen/DIXY	v
+leben/DIVXY	v
+lechzen/DIXY	v
+lecken/DIXY	v
+leeren/DIXY	v
+leerstehen/DIX	v
+legalisieren/DIOXY	v
+legen/DIVXYW	v
+legitimieren/DIOXYW	v
+lehnen/DIXY	v
+lehren/DIXY	v
+leiden/DIVX	v
+leihen/DIVXW	v
+leimen/DIVXY	v
+leisten/DIXY	v
+leiten/DIVXY	v
+lenken/BDIXY	v
+lernen/DIVXY	v
+lesen/BDIV	v
+leuchten/DIXY	v
+leugnen/DIVXY	v
+liberalisieren/DIOXY	v
+lichten/DIXY	v
+lieben/DIVXY	v
+liebkosen/DIXY	v
+lieba"ugeln/DIXY	v
+lief/EVZ
+liefern/BDIXY	v
+liegen/DIX	v
+liegenbleiben/DIX	v
+liegenblieb/ZE
+lieh/VZ
+lies
+liest/V
+liesS/EVZ
+limitieren/DIOXY	v
+lindern/DIXY	v
+liquidieren/BDIOXY	v
+lispeln/DIXY	v
+listen/DIXY	v
+litt/ZE
+lizenzieren/BDIOXY	v
+loben/DIXY	v
+lochen/DIXY	v
+locken/DIVXY	v
+lockern/DIXY	v
+lodern/DIXY	v
+log/Z
+logieren/DIXY	v
+lohnen/DIXY	v
+lokalisieren/BDIOXY	v
+losband/Z
+losbinden/IXD	v
+losbrach/Z
+losbrechen/DI	v
+losbricht/X
+losen/DIVXY	v
+losfahren/DI	v
+losfa"hrt/X
+losgehen/DIX	v
+losgelegt/A	aa
+losgerast
+losgesaust
+losgeschickt/A	aa
+losgeschlagen
+loskommen/DIX	v
+loslassen/DI	v
+loslegen/DIXY	v
+losliesS/ZE
+losla"sst
+losrannte/Z
+losreisSen/DIX	v
+losrennen/DIX	v
+losschicken/DIXY	v
+losschlagen/DI	v
+lostrat/Z
+lostreten/DI	v
+lostrittst/X
+loswerden/DI	v
+loswiehern/DIXY	v
+loszureisSen/D
+loszuwerden/D
+loten/IXY	v
+lotsen/IXY	v
+lud/VZ
+lungern/DIXY	v
+lutschen/DIXY	v
+lynchen/DIXYW	v
+la"cheln/DIXY	v
+la"dieren/DIOXY	v
+la"dt/XV
+la"gen/IX	v
+la"hmen/DIXY	v
+la"rmen/DIXY	v
+la"sst/V
+la"stern/DIXY	v
+la"uft/VX
+la"uten/DIXY	v
+la"utern/DIXYW	v
+lo"chern/DIXYW	v
+lo"ffeln/DIXYW	v
+lo"hnen/DIXY	v
+lo"schen/BDIVXY	v
+lo"sen/BDIXY	v
+lo"ten/DIVXY	v
+lu"ften/DIXY	v
+lu"gen/DIX	v
+lu"mmeln/IXY	v
+machen/BDIVXYW	v
+magst/VW
+mahlen/DIXY	v
+mahnen/DIXY	v
+majorisieren/DIOXY	v
+malen/DIXY	v
+maltra"tieren/DIOXY	v
+managen/DIXY	v
+mangeln/DIXY	v
+manifestieren/DIOXY	v
+manipulieren/BDIOXY	v
+mano"vrieren/DIXY	v
+marginalisieren/BDIOXYW	v
+marinieren/DIOXY	v
+markieren/DIOXY	v
+marschieren/DIXY	v
+martern/DIXY	v
+maskieren/DIOXY	v
+massakrieren/DIOXY	v
+massieren/DIOXY	v
+masturbieren/DIXYW	v
+mauern/DIVXY	v
+maulen/DIXY	v
+mausern/DIXY	v
+maximieren/DIOXY	v
+masS/VZ
+meckern/DIXY	v
+meditieren/DIXY	v
+mehren/DIVXY	v
+meiden/DIX	v
+meinen/DIVXY	v
+meistern/DIXY	v
+meisSeln/DIXY	v
+melden/DIVXY	v
+melken/DIXY	v
+memorieren/DIOXY	v
+mengen/IVXY	v
+merken/BDIVXYW	v
+messen/BDIV	v
+meucheln/DIXY	v
+meutern/DIXY	v
+miauen/DIXY	v
+mied/VZ
+mieten/BDIVXY	v
+migrieren/DIOXYW	v
+mildern/DIXY	v
+militarisieren/DIOXYW	v
+mindern/DIVXY	v
+miniaturisieren/DIOXYBW	v
+minimieren/DIOXY	v
+mischen/BDIXYW	v
+missachten/DIOXY	v
+missbehagen/DIXY	v
+missbilligen/DIOXY	v
+missbrauchen/DIOXY	v
+missdeuten/DIOXY	v
+missen/DIVXYW	v
+missfallen/DI	v
+missfiel/ZE
+missfa"llt/X
+missglu"cken/DIOXY	v
+missgo"nnen/DIOXY	v
+misshandeln/DIOXY	v
+missionieren/DIOXY	v
+misslang/Z
+misslingen/DIX	v
+misstrauen/DIXY	v
+missverstanden/AWX	v
+missverstehen/DIX	v
+misszudeuten/D
+misszuverstehen/D
+misten/DIXY	v
+mitanho"ren/DIXY	v
+mitarbeiten/DIXY	v
+mitbekam/Z
+mitbekommen/DIX	v
+mitbestimmen/DIOXY	v
+mitbetrifft
+mitbewirken/IXY	v
+mitbrachte/Z
+mitbringen/DIX	v
+mitdenken/DIX	v
+miteinzubeziehen/D
+mitempfinden/DIX	v
+miterleben/BDIOXY	v
+mitessen/DI	v
+mitfahren/DI	v
+mitfliegen/DIX	v
+mitflog/Z
+mitfuhr/Z
+mitfu"hlen/DIXY	v
+mitgab/Z
+mitgearbeitet
+mitgeben/DI	v
+mitgefiebert
+mitgefu"hlt
+mitgehen/DIX	v
+mitgekriegt
+mitgepra"gt
+mitgeredet
+mitgespielt
+mitgestalten/DIOXY	v
+mitgewirkt
+mitgeza"hlt
+mitgibt/X
+mithalten/ID	v
+mithandeln/DIXY	v
+mithelfen/DI	v
+mitha"ltst/X
+mitisst
+mitjubeln/DIXY	v
+mitkam/Z
+mitkommen/DIX	v
+mitkriegen/DIXY	v
+mitka"men/IX	v
+mitleiden/DIX	v
+mitlesen/DI	v
+mitlief/ZE
+mitliefern/IXY	v
+mitla"uft/X
+mitmachen/DIXY	v
+mitmischen/DIXY	v
+mitnahm/Z
+mitnehmen/DI	v
+mitreden/DIXY	v
+mitreisSen/DIX	v
+mitschicken/DIXY	v
+mitschreiben/DIX	v
+mitschrieb/Z
+mitteilen/DIXY	v
+mitteln/BDIXY	v
+mittragen/ID	v
+mittra"gt/X
+mitverarbeiten/DIOXY	v
+mitversorgen/DIOXY	v
+mitverwenden/DIOXY	v
+mitwachsen/DI	v
+mitwirken/DIXY	v
+mitwissen/DI	v
+mitwuchs/Z
+mitwa"chst
+mitziehen/DIX	v
+mitzuarbeiten
+mitzubenutzen/D
+mitzubestimmen
+mitzubetreuen/D
+mitzubringen/D
+mitzuerleben/D
+mitzuessen
+mitzufahren
+mitzugeben/D
+mitzugestalten/D
+mitzuhelfen
+mitzukommen
+mitzulesen/D
+mitzuliefern/D
+mitzumachen/D
+mitzunehmen/D
+mitzureden
+mitzureisSen/D
+mitzuschicken/D
+mitzutragen/D
+mitzuwirken/D
+mitzuziehen/D
+mixen/DIXY	v
+mobilisieren/BDIOXY	v
+mochte/VZ
+modellieren/BDIOXY	v
+moderieren/DIOXY	v
+modernisieren/BDIOXY	v
+modifizieren/BDIOXY	v
+modularisieren/BDIOXY	v
+modulieren/DIOXY	v
+mogeln/DIXY	v
+mokieren/DIXY	v
+monetarisieren/BDIOXYW	v
+monieren/IOXY	v
+monopolisieren/BDIOXYW	v
+montieren/BDIOXY	v
+mopsen/DIXY	v
+moralisieren/DIXY	v
+morden/DIXY	v
+mosern/DIXYW	v
+motivieren/BDIOXY	v
+motorisieren/DIOXY	v
+motzen/DIXY	v
+multiplizieren/DIOXY	v
+munden/DIY	v
+munkeln/DIXY	v
+murmeln/DIXY	v
+murren/DIXY	v
+musizieren/DIXY	v
+musst/W
+musste/Z
+mustern/DIXY	v
+muten/DIVXY	v
+mutieren/DIOXYW	v
+mutmasSen/IXY	v
+ma"andern/DIXY	v
+ma"hen/DIXYW	v
+ma"sten/DIXY	v
+ma"sSigen/DIXY	v
+mo"blieren/BDIOXY	v
+mo"chten/IX	v
+mo"ge/ZV
+mo"gen/DIV	v
+mu"hen/DIXY	v
+mu"nden/DIXY	v
+mu"nzen/DIXY	v
+mu"ssen/DIXY	v
+nachahmen/DIXY	v
+nacharbeiten/DIXY	v
+nachbauen/BDIXY	v
+nachbessern/DIXY	v
+nachbilden/IXY	v
+nachdachte/Z
+nachdenken/DIX	v
+nacheifern/DIXY	v
+nachfolgen/DIXY	v
+nachfordern/DIXY	v
+nachforschen/DIXY	v
+nachfragen/DIXY	v
+nachfu"hlen/BDIXY	v
+nachfu"llen/BDIXY	v
+nachgab/Z
+nachgeben/DI	v
+nachgedacht
+nachgedra"ngt
+nachgeeifert
+nachgeforscht
+nachgefu"hrt
+nachgegangen
+nachgegeben
+nachgehen/DIX	v
+nachgeholfen
+nachgelesen
+nachgerannt
+nachgeschaut
+nachgesetzt
+nachgespu"rt
+nachgeweint
+nachgewirkt
+nachgeza"hlt
+nachgibt/X
+nachging/ZE
+nachhelfen/DI	v
+nachholen/DIXY	v
+nachjagen/IXY	v
+nachkaufen/DIXY	v
+nachkommen/DIX	v
+nachka"me/Z
+nachlassen/DI	v
+nachlaufen/DI	v
+nachlegen/DIXY	v
+nachlesen/BDI	v
+nachlief/ZE
+nachliefern/DIXY	v
+nachliest
+nachliesS/ZE
+nachla"sst
+nachla"uft/X
+nachmachen/DIXY	v
+nachmessen/BDI	v
+nachplappern/DIXY	v
+nachpru"fen/BDIXY	v
+nachrechnen/DIXY	v
+nachreichen/BDIXY	v
+nachru"hmen/DIXY	v
+nachru"sten/BDIXY	v
+nachsagen/DIXY	v
+nachschauen/DIXY	v
+nachschlagen/DI	v
+nachsehen/BDI	v
+nachsenden/DIXY	v
+nachsinnen/DIX	v
+nachspielen/BDIXY	v
+nachsprechen/DI	v
+nachstehen/DIX	v
+nachsteigen/DIX	v
+nachstellen/BDIXY	v
+nachsuchen/DIXY	v
+nachtragen/DI	v
+nachtrauern/DIXY	v
+nachtwandeln/DIXY	v
+nachverfolgen/IXY	v
+nachverhandeln/BDIOXY	v
+nachvollziehen/BDIX	v
+nachvollzog/Z
+nachwachsen/DI	v
+nachweinen/DIXY	v
+nachweisen/BDIX	v
+nachwirken/DIXY	v
+nachzeichnen/DIXY	v
+nachziehen/IXD	v
+nachzog/Z
+nachzuahmen/D
+nachzuarbeiten/D
+nachzubessern/D
+nachzubilden/D
+nachzudenken
+nachzufolgen
+nachzufragen
+nachzugeben
+nachzugehen
+nachzuholen/D
+nachzukommen
+nachzuladen/D
+nachzulassen/D
+nachzulaufen
+nachzulesen/D
+nachzumachen/D
+nachzumessen/D
+nachzupru"fen/D
+nachzurechnen/D
+nachzuregeln/D
+nachzureichen/D
+nachzusagen/D
+nachzuschlagen/D
+nachzusehen/D
+nachzusuchen
+nachzuvollziehen/D
+nachzuweisen/D
+nachzuziehen/D
+nachza"hlen/BDIXY	v
+nageln/DIVXY	v
+nagen/DIXY	v
+nahelegen/IXY	v
+nahen/DIXY	v
+nahezubringen/D
+nahezulegen/D
+nahm/VZ
+nannte/Z
+narkotisieren/DIOXY	v
+narren/DIVXY	v
+naschen/DIVXY	v
+nationalisieren/DIOXY	v
+naturalisieren/DIOXY	v
+navigieren/BDIXYW	v
+necken/DIXY	v
+negieren/BDIOXY	v
+nehmen/DIV	v
+neiden/DIXY	v
+neigen/BDIVXY	v
+nennen/BDIX	v
+nerven/DIXY	v
+neutralisieren/DIOXY	v
+nicken/DIXY	v
+niedergehen/DIX	v
+niederging/ZE
+niederknien/DIXY	v
+niederlassen/DI	v
+niederlegen/IXY	v
+niederliesS/ZE
+niedermachen/DIXY	v
+niederreisSen/DIX	v
+niedersausen/DIXY	v
+niederschlagen/DI	v
+niederschlug/Z
+niederschla"gt/X
+niederschmettern/DIXY	v
+niederschreiben/DIX	v
+niederschrieb/ZE
+niederzuknien
+niederzulassen/D
+niederzuschlagen/D
+nieseln/DIXY	v
+niesen/DIXY	v
+nieten/DIXY	v
+nimmt/VXW
+nippen/DIXY	v
+nisten/DIXY	v
+nivellieren/DIOXY	v
+nominieren/DIOXY	v
+normalisieren/DIOXY	v
+normieren/BDIOXY	v
+notieren/DIOXY	v
+notlanden/DIXY	v
+nuancieren/DIOXY	v
+nummerieren/DIOXY	v
+nutzen/BDIXY	v
+na"chtigen/DIXY	v
+na"hen/DIVXY	v
+na"hern/DIXY	v
+na"herzukommen
+na"hmen/IX	v
+na"hren/DIXY	v
+na"seln/DIXY	v
+no"rgeln/DIXY	v
+no"tigen/DIXY	v
+nu"tzen/DIXY	v
+objektivieren/BDIOXY	v
+oblag/Z
+obliegen/DIX	v
+obwalten/DIXY	v
+offenbaren/DIOXY	v
+offenlassen/DI	v
+offenlegen/IXY	v
+offenla"sst
+offenstehen/DIX	v
+offenzulegen/D
+offerieren/DIOXY	v
+ohrfeigen/DIXY	v
+okkupieren/DIOXY	v
+oktroyieren/DIOXY	v
+onanieren/DIXYW	v
+operieren/BDIOXY	v
+opfern/IXYW	v
+opponieren/DIXY	v
+optimieren/BDIOXY	v
+orchestrieren/DIOXYW	v
+ordern/DIXY	v
+ordnen/DIXY	v
+organisieren/BDIXYW	v
+orientieren/DIOXYW	v
+orten/DIXY	v
+oszillieren/DIOXY	v
+oxidieren/DIOXY	v
+paaren/DIXY	v
+pachten/DIVXY	v
+packen/DIXY	v
+paddeln/IXYW	v
+paffen/DIXY	v
+palavern/DIXY	v
+panieren/DIOXY	v
+panschen/DIXY	v
+pappen/DIXYW	v
+paradieren/DIXY	v
+paralysieren/DIOXY	v
+parametrisieren/IOXY	v
+paraphieren/IOXY	v
+parfu"mieren/DIOXY	v
+parieren/BDIOXY	v
+parken/DIXY	v
+parodieren/DIOXY	v
+partitionieren/BDIOXY	v
+partizipieren/DIXY	v
+parzellieren/IOXY	v
+passen/IVXY	v
+passieren/BDIXY	v
+passivieren/DIOXY	v
+pasteurisieren/DIOXY	v
+patentieren/BDIOXY	v
+patrouillieren/DIXY	v
+patzen/DIVXY	v
+pauschalieren/BDIOXYW	v
+pauschalisieren/BDIOXYW	v
+pausen/DIXY	v
+pausieren/DIXY	v
+peilen/DIXY	v
+peinigen/DIXY	v
+peitschen/DIXY	v
+pellen/BDIXYW	v
+pendeln/DIXY	v
+pensionieren/DIOXY	v
+perfektionieren/DIOXY	v
+perforieren/DIOXY	v
+perlen/DIXY	v
+permutieren/BDIOXY	v
+persiflieren/DIOXY	v
+personalisieren/BDIOXYW	v
+personifizieren/DIOXY	v
+pervertieren/DIOXY	v
+petzen/DIVXY	v
+pfeffern/DIXY	v
+pfeifen/DIXV	v
+pferchen/IXY	v
+pfiff/ZEV
+pflanzen/DIVXY	v
+pflastern/DIXY	v
+pflegen/DIXY	v
+pflichten/IXY	v
+pflu"cken/BDIXY	v
+pflu"gen/DIXY	v
+pfuschen/DIVXY	v
+pfa"hlen/DIXY	v
+pfa"nden/BDIVXY	v
+phantasieren/DIXY	v
+philosophieren/DIXY	v
+phosphoreszieren/DIXY	v
+photographieren/DIOXY	v
+photokopieren/BIOXY	v
+picken/DIXY	v
+piepen/DIXY	v
+pikieren/DIOXYW	v
+pilgern/DIXY	v
+pilotieren/DIXY	v
+pimpern/DIXYn	v
+pinseln/DIXY	v
+pirschen/IXY	v
+pissen/DIXY	v
+plagen/DIXY	v
+plakatieren/BDIOXYW	v
+planen/BDIXYV	v
+planschen/DIXY	v
+plantschen/DIXY	v
+plappern/DIVXYW	v
+platzen/DIXYW	v
+platzieren/BDIOXY	v
+plaudern/DIVXY	v
+pleitegehen/DIX	v
+pleiteging/ZE
+plombieren/DIOXY	v
+plustern/IXYW	v
+pla"dieren/DIXY	v
+pla"rren/DIXY	v
+pla"tschern/IXY	v
+plu"ndern/DIXY	v
+pochen/DIXY	v
+pokern/DIXY	v
+polarisieren/DIOXY	v
+polemisieren/DIOXY	v
+polieren/DIOXY	v
+politisieren/DIOXY	v
+polstern/DIXY	v
+poltern/DIXY	v
+pomadisieren/DIOXY	v
+popularisieren/DIOXY	v
+portra"tieren/DIOXY	v
+posaunen/DIXYW	v
+posieren/DIXY	v
+positionieren/DIOXY	v
+postieren/IOXY	v
+postulieren/DIOXY	v
+potenzieren/DIOXY	v
+poussieren/DIXY	v
+prahlen/DIXY	v
+praktizieren/BDIOXY	v
+prallen/IXY	v
+prangen/DIXY	v
+prangern/IXYW	v
+prasseln/DIXY	v
+prassen/DIXY	v
+predigen/DIXY	v
+preisen/DIXW	v
+preisgab/Z
+preisgeben/DI	v
+preisgibt/X
+preiszugeben/D
+prellen/DIXYVW	v
+preschen/DIXYW	v
+pressen/DIXY	v
+pressieren/DIOXY	v
+prickeln/DIXY	v
+pries/ZE
+priorisieren/IOXYW	v
+privatisieren/BDIOXY	v
+privilegieren/DIOXY	v
+proben/DIXY	v
+probieren/DIXY	v
+problematisieren/DIOXY	v
+produzieren/BDIOXY	v
+profilieren/DIOXY	v
+profitieren/DIXY	v
+prognostizieren/BDIOXY	v
+programmieren/BDIOXY	v
+projektieren/DIOXY	v
+projizieren/BDIOXY	v
+proklamieren/DIOXY	v
+promenieren/DIXY	v
+promovieren/DIOXYW	v
+propagieren/DIOXY	v
+prophezeien/DIOXY	v
+prosperieren/DIXY	v
+prostituieren/DIOXY	v
+protegieren/DIOXY	v
+protestieren/DIXY	v
+protokollieren/DIOXY	v
+protzen/DIXY	v
+provozieren/DIOXY	v
+prozessieren/DIXY	v
+pra"disponieren/DIOXY	v
+pra"ferieren/DIOXY	v
+pra"gen/DIXY	v
+pra"judizieren/DIOXY	v
+pra"mieren/DIOXY	v
+pra"miieren/DIOXY	v
+pra"parieren/DIOXY	v
+pra"sentieren/BDIOXY	v
+pra"sidieren/DIXY	v
+pra"zisieren/DIOXY	v
+pru"fen/BDIXY	v
+pru"geln/DIVXY	v
+pubertieren/DIXY	v
+publizieren/DIOXY	v
+pudern/IXY	v
+puffern/IXY	v
+pulsieren/DIXY	v
+pulverisieren/DIOXY	v
+pulvern/DIVXY	v
+pumpen/DIVXYW	v
+punkten/DIXY	v
+punktieren/IOXY	v
+pusten/DIVXY	v
+putschen/IXY	v
+putzen/DIVXY	v
+qualifizieren/BDIOXY	v
+qualmen/DIVXY	v
+quantifizieren/BDIOXY	v
+quatschen/DIXYW	v
+quellen/DIW	v
+quengeln/DIXYW	v
+querzustellen/D
+quetschen/DIXY	v
+quieken/DIXY	v
+quietschen/DIXY	v
+quillt/XW
+quittieren/DIOXY	v
+quollen/X	v
+quotieren/DIOXY	v
+qua"len/DIXY	v
+radebrechen/DI	v
+radeln/DIXY	v
+radieren/DIOXY	v
+radikalisieren/DIOXY	v
+raffen/DIXYW	v
+raffinieren/DIOXY	v
+ragen/DIXY	v
+rammeln/DIXY	v
+rammen/DIXY	v
+ramponieren/DIOXY	v
+randalieren/DIXY	v
+rang/Z
+rangieren/DIXY	v
+ranken/DIXY	v
+rannte/VZ
+rappeln/DIXYW	v
+rascheln/DIXY	v
+rasen/DIXY	v
+rasieren/DIOXY	v
+rasseln/DIXY	v
+rasten/DIXY	v
+raten/DIV	v
+ratifizieren/DIOXY	v
+rationalisieren/DIOXY	v
+rationieren/DIOXY	v
+rattern/DIXY	v
+rauben/DIXY	v
+rauchen/DIVXY	v
+rauen/DIXY	v
+raufen/DIXY	v
+raunen/DIXY	v
+rauschen/DIXY	v
+rauslassen/DI	v
+rausla"sst
+reagieren/DIXY	v
+reaktivieren/DIOXYW	v
+realisieren/BDIOXY	v
+reanimieren/BDIOXYW	v
+rebellieren/DIXY	v
+recherchieren/BDIOXY	v
+rechnen/DIVXY	v
+rechtfertigen/BDIXY	v
+recken/DIVXY	v
+reden/DIXY	v
+redigieren/IOXY	v
+reduzieren/DIOXY	v
+referieren/DIOXY	v
+reflektieren/DIXY	v
+reformieren/DIOXY	v
+regeln/BDIXY	v
+regen/DIXY	v
+regenerieren/DIOXY	v
+regieren/BDIXY	v
+registrieren/DIOXY	v
+reglementieren/DIOXY	v
+regnen/DIVXY	v
+regulieren/BDIOXY	v
+rehabilitieren/DIOXY	v
+reiben/DIX	v
+reichen/DIXY	v
+reichern/IXYW	v
+reifen/DIXY	v
+reihen/DIXY	v
+reimen/DIXY	v
+reinfallen/DI	v
+reinfa"llt/X
+reingehen/DIX	v
+reingeschaut
+reinigen/DIXY	v
+reinkommen/DIX	v
+reinkriechen/DIX	v
+reinlassen/DI	v
+reinla"sst
+reinreden/DIXY	v
+reinschnuppern/DIXY	v
+reinschreiben/DIX	v
+reinvestieren/DIOXY	v
+reinwaschen/DI	v
+reisen/DIVXY	v
+reiten/DIXW	v
+reizen/BIXYW	v
+reisSen/DIVXW	v
+rekapitulieren/DIXY	v
+reklamieren/DIOXY	v
+rekognoszieren/DIOXY	v
+rekonstruieren/BDIOXY	v
+rekrutieren/DIOXY	v
+relativieren/DIOXY	v
+relegieren/DIOXY	v
+rempeln/IXY	v
+renaturieren/BDIOXYW	v
+rennen/DIVX	v
+renovieren/DIOXY	v
+rentieren/DIXY	v
+reorganisieren/DIOXY	v
+reparieren/BDIOXY	v
+repetieren/DIOXY	v
+replizieren/DIOXYW	v
+reproduzieren/BDIOXY	v
+repra"sentieren/DIOXY	v
+reservieren/DIOXY	v
+residieren/DIXY	v
+resignieren/DIOXY	v
+resorbieren/BDIOXY	v
+resozialisieren/BDIOXYW	v
+respektieren/DIOXY	v
+restaurieren/DIOXY	v
+restrukturieren/DIOXYW	v
+resultieren/DIXY	v
+resu"mieren/DIOXY	v
+retournieren/BDIOXY	v
+retten/DIXY	v
+returnieren/DIOXY	v
+retuschieren/DIOXY	v
+revanchieren/DIXY	v
+revidieren/DIOXY	v
+revoltieren/DIXY	v
+revolutionieren/DIOXYW	v
+rezensieren/DIOXY	v
+rezipieren/BDIOXYWn	v
+rezitieren/BDIOXY	v
+richten/DIVXY	v
+rieb/ZE
+riechen/DIX	v
+rief/ZE
+rieseln/DIXY	v
+riet/VZ
+riete/VZ
+ringen/DIX	v
+rinnen/DIVX	v
+riskieren/DIOXY	v
+riss/VZ
+ritt/ZE
+ritzen/DIXY	v
+rivalisieren/DIXY	v
+robben/IXY	v
+roch/Z
+rodeln/DIXY	v
+roden/DIXY	v
+rollen/DIXYW	v
+rosten/DIVXY	v
+rotieren/DIOXY	v
+rotten/DIVXY	v
+rotzen/DIXY	v
+rubbeln/DIXYW	v
+rudern/DIXY	v
+rufen/DIXW	v
+ruhen/DIXY	v
+ruinieren/DIOXY	v
+rumlaufen/DI	v
+rumlief/ZE
+rumla"uft/X
+rumoren/DIXYW	v
+rumpeln/DIXYW	v
+runden/DIXY	v
+runterzufahren/D
+runzeln/DIXY	v
+rupfen/DIXY	v
+rutschen/DIVXYW	v
+ra"chen/DIXY	v
+ra"keln/DIXY	v
+ra"ndern/DIXY	v
+ra"tseln/DIXY	v
+ra"tst/VX
+ra"uchern/DIVXY	v
+ra"umen/DIXY	v
+ra"uspern/DIXY	v
+ro"cheln/DIXY	v
+ro"chen/XI	v
+ro"hren/DIXY	v
+ro"ntgen/DIXY	v
+ro"sten/DIXY	v
+ru"cken/DIVXY	v
+ru"ffeln/DIXYW	v
+ru"gen/DIXY	v
+ru"hmen/DIXY	v
+ru"hren/DIXY	v
+ru"lpsen/DIXYW	v
+ru"mpfen/DIXYW	v
+ru"sten/DIXY	v
+ru"tteln/DIXY	v
+sabbern/DIXY	v
+sabotieren/DIOXY	v
+sacken/IXY	v
+sagen/DIVXYW	v
+sah/VZ
+sahnen/IXYW	v
+salben/DIXY	v
+saldieren/DIOXY	v
+salutieren/DIXY	v
+salzen/DIVXY	v
+sammeln/DIVXY	v
+sandte/VZ
+sang/Z
+sanieren/DIOXY	v
+sank/VZ
+sanktionieren/DIOXY	v
+sann/Z
+satinieren/DIOXY	v
+satteln/DIXY	v
+saturieren/DIOXY	v
+sauen/DIVXY	v
+saufen/DIV	v
+saugen/DIXY	v
+sausen/DIXY	v
+sasS/Z
+schaben/DIXY	v
+schablonieren/DIOXY	v
+schaden/DIXY	v
+schaffen/BDIVXYW	v
+schallen/DIXY	v
+schalten/BDIXYW	v
+scharen/DIXY	v
+scharfmachen/DIXY	v
+scharren/DIVXY	v
+schassen/DIXY	v
+schattieren/DIOXY	v
+schaudern/DIXY	v
+schauen/DIXYW	v
+schauern/DIXY	v
+schaufeln/DIXY	v
+schaukeln/DIXY	v
+scheffeln/DIXY	v
+scheiden/DIVX	v
+scheinen/DIX	v
+scheiteln/DIXY	v
+scheitern/DIXY	v
+scheisSen/DIXW	v
+schellen/DIXY	v
+schelten/DI	v
+schematisieren/DIOXY	v
+schenken/DIVXY	v
+scheppern/DIXY	v
+scheren/DIXYW	v
+scherzen/DIVXY	v
+scheuchen/DIVXY	v
+scheuen/DIXY	v
+scheuern/DIVXY	v
+schichten/DIXY	v
+schicken/DIVXY	v
+schieben/DIVX	v
+schied/VZ
+schieflachen/DIXY	v
+schielen/DIXY	v
+schienen/DIXYW	v
+schiesSen/DIVX	v
+schiffen/BDIVXY	v
+schikanieren/DIOXY	v
+schildern/DIXY	v
+schillern/IXY	v
+schiltst/X
+schimmeln/DIVXY	v
+schimmern/DIXY	v
+schimpfen/DIXY	v
+schinden/DIXY	v
+schirmen/DIXY	v
+schiss/VZ
+schlachten/DIXY	v
+schlacken/DIXY	v
+schlackern/DIXY	v
+schlafen/DIV	v
+schlafwandeln/DIXY	v
+schlagen/DIVW	v
+schlang/VZ
+schlappmachen/DIXY	v
+schlecken/DIXY	v
+schleichen/DIX	v
+schleifen/DIVXY	v
+schleisSen/DIXYW	v
+schlemmen/DIXY	v
+schlendern/DIXY	v
+schlenkern/DIXY	v
+schleppen/DIVXY	v
+schleudern/IVXY	v
+schleusen/IXY	v
+schlich/ZE
+schlichten/DIXY	v
+schlief/VZE
+schliesSen/BDIVX	v
+schliff/Z
+schlingen/DIVX	v
+schlingern/DIXYW	v
+schliss/ZE
+schlittern/DIXY	v
+schloss/VZ
+schlottern/DIXY	v
+schluchzen/DIXY	v
+schlucken/DIVXY	v
+schlug/VZ
+schlummern/DIXY	v
+schlurfen/DIXY	v
+schlussfolgern/DIXY	v
+schla"ft/VX
+schla"gt/VX
+schla"ngeln/DIXY	v
+schlu"ge/Z
+schlu"pfen/DIXY	v
+schlu"rfen/DIXY	v
+schlu"sseln/IXY	v
+schmachten/DIVXY	v
+schmarotzen/DIXY	v
+schmatzen/DIXY	v
+schmausen/DIXY	v
+schmecken/BDIXY	v
+schmeicheln/DIXY	v
+schmeisSen/DIXW	v
+schmelzen/BDIVXYW	v
+schmerzen/DIVXY	v
+schmettern/DIXYW	v
+schmieden/BDIXY	v
+schmiegen/DIXYW	v
+schmieren/DIVXYW	v
+schmilzt/VW
+schminken/DIXY	v
+schmirgeln/DIXY	v
+schmiss/ZE
+schmollen/DIXY	v
+schmolz/VZ
+schmoren/DIXY	v
+schmuggeln/BDIXYW	v
+schmunzeln/DIXY	v
+schmusen/DIXY	v
+schmutzen/DIVXY	v
+schma"hen/DIVXY	v
+schma"lern/DIXY	v
+schmo"kern/DIXY	v
+schmu"cken/DIXY	v
+schnallen/DIXY	v
+schnalzen/DIXY	v
+schnappen/DIXY	v
+schnarchen/DIXYW	v
+schnarren/IXY	v
+schnattern/DIXY	v
+schnauben/DIXY	v
+schnaufen/DIVXY	v
+schnauzen/DIXY	v
+schneiden/DIVX	v
+schneidern/DIXY	v
+schneien/DIXY	v
+schnellen/DIXY	v
+schniefen/DIXY	v
+schniegeln/DIXY	v
+schnippeln/DIXY	v
+schnippen/DIXY	v
+schnitt/VZE
+schnitzen/DIXY	v
+schnorcheln/DIXYW	v
+schnorren/DIXY	v
+schnupfen/DIVXY	v
+schnuppern/DIXY	v
+schnurren/DIXY	v
+schna"uzen/DIXY	v
+schno"rkeln/DIXY	v
+schnu"ffeln/DIXY	v
+schnu"ren/DIVXY	v
+schob/VZ
+schocken/BDIXYW	v
+schockieren/DIOXY	v
+schonen/DIVXY	v
+schor/Z
+schoss/VZ
+schraffieren/DIOXY	v
+schrammen/DIXY	v
+schrauben/DIVXY	v
+schrecken/DIVXY	v
+schreiben/DIVXW	v
+schreien/DIX	v
+schreiten/DIX	v
+schrieb/VZ
+schrien/VXI	v
+schritt/ZE
+schritthalten/I	v
+schrubben/DIXY	v
+schrumpfen/DIXY	v
+schra"nken/DIVXY	v
+schro"pfen/DIXY	v
+schubsen/DIXYW	v
+schuf/Z
+schuften/DIXY	v
+schulden/DIVXY	v
+schulen/DIXY	v
+schultern/BDIXYW	v
+schummeln/DIXY	v
+schuppen/DIXY	v
+schustern/DIXY	v
+schwabbeln/DIXY	v
+schwadronieren/DIXY	v
+schwafeln/DIXY	v
+schwamm/VZ
+schwand/VZ
+schwang/Z
+schwanken/DIXY	v
+schwappen/DIXY	v
+schwarza"rgern/DIXY	v
+schwatzen/DIXY	v
+schweben/DIXY	v
+schwefeln/DIXY	v
+schweifen/DIXY	v
+schweigen/DIVXW	v
+schweisSen/DIXY	v
+schwelen/DIXY	v
+schwelgen/DIXY	v
+schwellen/DI	v
+schwemmen/DIXY	v
+schwenken/BDIXY	v
+schwerfallen/DI	v
+schwerfa"llt
+schwergefallen
+schwieg/VZ
+schwillt/X
+schwimmen/DIVX	v
+schwindeln/DIXY	v
+schwinden/DIVX	v
+schwingen/DIX	v
+schwirren/DIXY	v
+schwitzen/DIVXY	v
+schwoll/Z
+schwor/VZ
+schwa"cheln/DIXYW	v
+schwa"chen/DIXY	v
+schwa"ngern/DIXY	v
+schwa"nzeln/DIXY	v
+schwa"nzen/DIXY	v
+schwa"rmen/DIXY	v
+schwa"rzen/DIXY	v
+schwa"tzen/DIXYW	v
+schwo"ren/DIVX	v
+scha"digen/DIXY	v
+scha"kern/DIXY	v
+scha"len/DIXY	v
+scha"men/DIXY	v
+scha"nden/DIXY	v
+scha"rfen/DIVXY	v
+scha"tzen/BDIXY	v
+scha"umen/DIXY	v
+scho"nfa"rben/DIXY	v
+scho"pfen/DIXY	v
+schu"ren/DIXY	v
+schu"rfen/DIXY	v
+schu"tteln/DIXY	v
+schu"tten/DIVXY	v
+schu"tzen/DIXY	v
+sedimentieren/DIOXY	v
+segeln/DIXY	v
+segnen/DIXY	v
+sehen/DIV	v
+sehnen/DIXY	v
+sei/Z
+seid
+seifen/IXYW	v
+seilen/IXYW	v
+sekundieren/DIOXY	v
+selektieren/BDIOXY	v
+senden/DIVXY	v
+sengen/DIVXY	v
+senken/DIVXY	v
+sensibilisieren/DIOXYW	v
+separieren/BIOXY	v
+serialisieren/DIOXY	v
+servieren/DIOXY	v
+setzen/BDIVXYW	v
+seufzen/DIXY	v
+sezieren/DIOXY	v
+sichergehen/DIX	v
+sichern/DIVXY	v
+sicherstellen/BDIXY	v
+sicherzugehen
+sicherzustellen/D
+sichten/BDIXY	v
+sickern/DIXY	v
+sieben/DIXY	v
+siechen/DIXY	v
+siedeln/DIXY	v
+sieden/DIXY	v
+siegeln/DIVXY	v
+siegen/DIVXY	v
+sieh/E
+sieht/VX
+signalisieren/DIOXY	v
+signieren/DIOXY	v
+simulieren/BDIOXY	v
+sind
+singen/DIXW	v
+sinken/DIVX	v
+sinnen/DIX	v
+sinnieren/DIXY	v
+sintern/DIXY	v
+sistieren/DIOXY	v
+sitzen/DIX	v
+sitzenbleiben/DIX	v
+sitzenblieb/ZE
+sitzenzubleiben
+skalieren/BDIXY	v
+skalpieren/DIOXY	v
+skandieren/DIXY	v
+skelettieren/DIOXY	v
+skizzieren/DIOXY	v
+soff/VZ
+sog/Z
+solidarisieren/DIOXY	v
+solle
+sollen/DWXY	v
+sondieren/BDIOXYW	v
+sonnen/IXY	v
+sorgen/DIVXY	v
+sortieren/BDIOXY	v
+sozialisieren/BDIOXYW	v
+spachteln/DIXY	v
+spalten/BDIXY	v
+spannen/DIVXYW	v
+sparen/DIXY	v
+spazieren/DIXY	v
+spasSen/DIVXY	v
+spedieren/DIOXY	v
+speichern/DIXY	v
+speien/DIX	v
+speisen/DIVXY	v
+spekulieren/DIVXY	v
+spenden/DIXY	v
+spendieren/DIOXYW	v
+sperren/BDIVXYW	v
+spezialisieren/DIOXYW	v
+spezifizieren/DIOXYW	v
+spiegeln/DIXY	v
+spielen/BDIVXY	v
+spien/XI	v
+spiesSen/DIXY	v
+spinnen/DIVX	v
+spionieren/DIXY	v
+spitzeln/DIXY	v
+spitzen/DIXY	v
+splittern/DIXY	v
+spornen/DIXY	v
+spotten/DIVXY	v
+sprach/VZ
+sprang/Z
+sprechen/DIV	v
+spreizen/BDIXY	v
+sprengen/DIVXY	v
+sprenkeln/DIXY	v
+spricht/VXW
+spriesSen/DIXY	v
+springen/DIXW	v
+sprinten/DIXY	v
+spritzen/DIVXY	v
+spross/Z
+sprudeln/DIXY	v
+spra"che/Z
+spra"nge/Z
+spru"hen/DIVXY	v
+spucken/DIXY	v
+spuken/DIXY	v
+spulen/DIXY	v
+spurten/DIXY	v
+sputen/DIXY	v
+spa"hen/DIXYW	v
+spo"tteln/DIXY	v
+spu"len/DIXY	v
+spu"ren/BDIVXY	v
+stabilisieren/DIOXY	v
+stach/Z
+stacheln/DIXY	v
+staffeln/DIXY	v
+staffieren/DIOXY	v
+stagnieren/DIXY	v
+stahl/Z
+stak/Z
+stammeln/DIXY	v
+stammen/DIXY	v
+stampfen/DIXY	v
+stand/VZ
+standardisieren/BDIOXY	v
+standgehalten
+standhalten/DI	v
+standhielt/ZE
+standha"ltst/X
+standzuhalten/D
+stank/Z
+stanzen/DIXY	v
+stapeln/BDIXY	v
+stapfen/DIXY	v
+starb/VZ
+starren/DIXY	v
+starten/DIXY	v
+stationieren/DIOXY	v
+statten/IXY	v
+stattfand/Z
+stattfinden/DI	v
+stattfa"nden/IX	v
+stattgeben/DI	v
+stattzufinden/D
+stattzugeben/D
+statuieren/DIOXY	v
+stauben/DIVXY	v
+staubsaugen/DIXY	v
+stauchen/BDIVXY	v
+stauen/DIVXY	v
+staunen/DIXY	v
+stechen/DI	v
+stecken/BDIVXY	v
+stehen/DIVXW	v
+stehenbleiben/DIX	v
+stehenblieb/ZE
+stehenlassen/DI	v
+stehenliesS/Z
+stehenla"sst
+stehlen/DI	v
+steifen/DIVXY	v
+steigen/DIXW	v
+steigern/BDIVXY	v
+steinigen/DIXY	v
+stellen/DIVXYW	v
+stelzen/DIXY	v
+stemmen/BDIXY	v
+stempeln/DIXY	v
+stenografieren/DIOXY	v
+stenographieren/DIOXY	v
+steppen/DIXY	v
+sterben/DI	v
+stereotypieren/DIOXY	v
+sterilisieren/DIOXY	v
+steuern/BDIVXY	v
+stibitzen/DIOXY	v
+sticheln/DIXY	v
+sticht/X
+sticken/DIXY	v
+stieben/DIXY	v
+stiefeln/DIXY	v
+stieg/VZ
+stiehlt/X
+stieren/DIXY	v
+stiesS/VZ
+stiesSe/VZ
+stiften/DIXY	v
+stigmatisieren/DIOXYW	v
+stilisieren/DIOXY	v
+stillen/DIXY	v
+stillhalten/DI	v
+stillha"ltst/X
+stilllegen/DIXY	v
+stillliegen/DIX	v
+stillschweigen/DIX	v
+stillstehen/DIX	v
+stillzulegen/D
+stimmen/DIVXY	v
+stimulieren/BDIOXY	v
+stinken/DIX	v
+stirbt/VXW
+stochern/DIXY	v
+stocken/DIXY	v
+stolpern/DIXY	v
+stopfen/DIVXY	v
+stoppen/DIXYW	v
+stornieren/DIOXY	v
+stottern/DIXY	v
+stosSen/DIVW	v
+strafen/BDIXYW	v
+straffen/DIXY	v
+strahlen/DIXY	v
+strampeln/DIXY	v
+stranden/DIXY	v
+strangulieren/DIOXY	v
+strapazieren/DIOXY	v
+straucheln/DIXY	v
+streben/DIVXY	v
+strecken/BDIXY	v
+streicheln/DIXY	v
+streichen/BDIVX	v
+streifen/DIXY	v
+streiken/DIXY	v
+streiten/DIXW	v
+strengen/IXY	v
+stressen/DIXY	v
+streuen/DIVXY	v
+strich/Z
+stricken/DIVXY	v
+stritt/ZE
+strotzen/DIXY	v
+strukturieren/DIXY	v
+stra"uben/DIXY	v
+stro"men/DIXY	v
+studieren/DIOXY	v
+stufen/DIXYW	v
+stumpfen/DIXY	v
+stupsen/DIXY	v
+stutzen/DIXY	v
+sta"che/Z
+sta"nkern/DIXY	v
+sta"rken/DIVXY	v
+sta"uben/DIXY	v
+sto"bern/DIXY	v
+sto"hnen/DIXY	v
+sto"pseln/DIXY	v
+sto"ren/BDIVXY	v
+sto"sSt/V
+stu"ckeln/DIXY	v
+stu"lpen/DIXYW	v
+stu"nde/VZ
+stu"rbe/Z
+stu"rmen/DIXY	v
+stu"rzen/DIXY	v
+stu"tzen/DIXY	v
+sublimieren/DIOXY	v
+substituieren/BDIOXYW	v
+subsumieren/DIOXY	v
+subtrahieren/DIOXY	v
+subventionieren/DIOXY	v
+suchen/DIVXYW	v
+sudeln/DIXY	v
+suggerieren/DIOXY	v
+sulzen/DIXY	v
+summen/DIXYW	v
+summieren/DIOXY	v
+surfen/DIXY	v
+surren/DIXY	v
+suspendieren/BDIOXY	v
+symbolisieren/DIOXY	v
+sympathisieren/DIXY	v
+synchronisieren/BDIOXY	v
+synthetisieren/BDIOXY	v
+systematisieren/DIOXYW	v
+sa"en/DIXY	v
+sa"gen/DIXY	v
+sa"he/Z
+sa"kularisieren/DIOXY	v
+sa"ttigen/DIXY	v
+sa"ubern/DIXY	v
+sa"uern/DIXY	v
+sa"uft/VX
+sa"ugen/DIXY	v
+sa"umen/DIVXY	v
+sa"useln/DIXY	v
+sa"sSe/Z
+so"hnen/IVXY	v
+su"hnen/IXY	v
+su"ndigen/DIVXY	v
+su"sSen/DIVXY	v
+tabellarisieren/DIOXY	v
+tabuisieren/DIOXY	v
+tadeln/DIXY	v
+tafeln/DIXYW	v
+tagen/DIVXY	v
+taillieren/DIOXY	v
+takeln/DIXY	v
+taktieren/DIXY	v
+tangieren/DIOXY	v
+tanken/DIXY	v
+tanzen/DIXY	v
+tapezieren/DIOXYW	v
+tappen/DIXY	v
+tapsen/DIXY	v
+tarieren/DIOXY	v
+tarifieren/DIOXYW	v
+tarnen/DIXY	v
+tasten/BDIXY	v
+tat/Z
+tauchen/DIXY	v
+tauen/DIXY	v
+taufen/DIXY	v
+taugen/DIXY	v
+taumeln/DIXY	v
+tauschen/BDIVXY	v
+taxieren/DIOXY	v
+teeren/DIXY	v
+teilen/DIVXY	v
+teilhaben/DI	v
+teilnahm/Z
+teilnehmen/DI	v
+teilnimmt/X
+teilzuhaben
+teilzunehmen
+telefonieren/DIXYVW	v
+telegrafieren/DIXY	v
+telegraphieren/DIXY	v
+temperieren/BDIOXY	v
+tendieren/DIXY	v
+terminieren/DIOXY	v
+terrorisieren/DIOXY	v
+testen/BDIXY	v
+testieren/DIOXY	v
+thematisieren/DIOXY	v
+theoretisieren/DIXY	v
+therapieren/BDIOXYW	v
+thronen/DIXY	v
+ticken/DIXY	v
+tiefstellen/IXY	v
+tilgen/DIVXY	v
+tippeln/DIXY	v
+tippen/DIVXY	v
+tischlern/DIXY	v
+titeln/DIXY	v
+titulieren/DIOXY	v
+toasten/DIXY	v
+toben/DIXY	v
+tolerieren/BDIOXY	v
+tollen/DIXY	v
+torkeln/DIXY	v
+torpedieren/DIOXY	v
+tosen/DXY	v
+totlachen/DIXY	v
+totschweigen/DIX	v
+toupieren/DIOXY	v
+traben/DIXY	v
+trachten/DIXY	v
+tradieren/O	v
+traf/Z
+tragen/BDIVW	v
+trainieren/DIOXY	v
+traktieren/DIOXY	v
+trampeln/DIXY	v
+tranchieren/DIOXY	v
+trank/Z
+transferieren/DIOXY	v
+transformieren/DIOXY	v
+transmittieren/DIOXY	v
+transpirieren/DIXY	v
+transplantieren/DIOXY	v
+transponieren/BDIOXY	v
+transportieren/BDIOXY	v
+trappeln/DIXY	v
+trassieren/DIOXY	v
+trat/VZ
+tratschen
+trauen/DIOVXYW	v
+trauern/DIXY	v
+traumatisieren/DIOXYW	v
+travestieren/DIOXY	v
+treffen/I	v
+treiben/DIVXW	v
+treideln/DIXY	v
+tremolieren/DIOXY	v
+trennen/BDIXY	v
+treten/DIV	v
+tricksen/IXY	v
+trieb/VZE
+triefen/DIXY	v
+trifft/XW
+trillern/DIXY	v
+trimmen/DIXY	v
+trinken/BDIVXW	v
+trippeln/DIXY	v
+trittst/VX
+triumphieren/DIXY	v
+trockenlegen/DIXY	v
+trocknen/DIVXY	v
+trog/Z
+trollen/DIXY	v
+trommeln/DIXY	v
+trompeten/DIXY	v
+tropfen/DIXY	v
+trotten/DIXY	v
+trotzen/DIXY	v
+trudeln/DIXY	v
+trug/VZ
+trumpfen/DIXY	v
+tra"fe/Z
+tra"gt/VX
+tra"llern/DIXY	v
+tra"nen/DIXY	v
+tra"nken/DIXY	v
+tra"ufeln/DIXY	v
+tra"umen/DIVXY	v
+tro"deln/DIVXY	v
+tro"pfeln/DIXY	v
+tro"sten/DIVXY	v
+tro"ten/DIXY	v
+tru"ben/DIXY	v
+tru"gen/DIX	v
+tummeln/DIXY	v
+tun/IXW	v
+tunken/DIXYW	v
+tupfen/DIXY	v
+turnen/DIXYW	v
+turteln/DIXY	v
+tuscheln/DIXY	v
+tuschen/DIVXY	v
+tuten/DIXY	v
+typisieren/BDIOXY	v
+tyrannisieren/DIOXY	v
+ta"feln/DIXY	v
+ta"ndeln/DIXY	v
+ta"nzeln/DIXY	v
+ta"te/Z
+ta"tigen/DIXY	v
+ta"towieren/DIOXY	v
+ta"tscheln/DIXY	v
+ta"uschen/DIXY	v
+to"nen/DIXY	v
+to"pfern/DIXY	v
+to"ten/DIXY	v
+tu"fteln/DIXY	v
+tu"nchen/DIXY	v
+tu"rmen/DIXY	v
+ulken/DIXY	v
+umadressieren/DIOXY	v
+umarbeiten/DIXY	v
+umarmen/DIOXY	v
+umbauen/DIOXY	v
+umbenennen/DIX	v
+umbetten/DIXY	v
+umbiegen/DIX	v
+umbilden/DIXY	v
+umbla"ttern/DIXY	v
+umbricht/X
+umbringen/DIX	v
+umbuchen/DIXY	v
+umdachte/Z
+umdeklarieren/DIOXY	v
+umdenken/DIX	v
+umdirigieren/DIOXY	v
+umdisponieren/DIOXY	v
+umdrehen/DIXY	v
+umfahren/ADI	v
+umfallen/DI	v
+umfangen/IDA	v
+umfassen/DIOXY	v
+umfing/Z
+umfliegen/DIX	v
+umflog/Z
+umflogen/AWX	v
+umfluten/DIOXY	v
+umformen/DIXY	v
+umformulieren/DIOXY	v
+umfunktionieren/DIOXY	v
+umfa"llt/X
+umfa"ngt/X
+umfu"llen/DIXY	v
+umgab/Z
+umgarnen/DIOXY	v
+umgeben/ADI	v
+umgegangen
+umgehabt
+umgehen/BDIX	v
+umgeho"rt
+umgeschaut
+umgestalten/DIOXY	v
+umgewo"hnen/DIXY	v
+umgibt/X
+umgiesSen/DIX	v
+umging/ZE
+umgoss/Z
+umgraben/DI	v
+umgruppieren/DIOXY	v
+umgra"bt/X
+umgu"rten/DIOXY	v
+umhaben/DI	v
+umhacken/DIXY	v
+umhalsen/DIOXY	v
+umhauen/DIXY	v
+umhingekommen
+umhingekonnt
+umhinkam/Z
+umhinkannst/W
+umhinkommen/IX	v
+umhinkonnte/Z
+umhinko"nnen/IY	v
+umha"ngen/DIOXY	v
+umho"ren/DIXY	v
+umhu"llen/DIOXY	v
+umkam/Z
+umkehren/BDIXY	v
+umkippen/DIXY	v
+umklammern/DIOXY	v
+umklappen/BDIXY	v
+umkleiden/DIXY	v
+umknicken/DIXY	v
+umkommen/DIX	v
+umkonstruieren/DIOXY	v
+umkreisen/DIOXY	v
+umkrempeln/DIXY	v
+umka"mpfen/DIOXY	v
+umladen/DI	v
+umlagern/DIOXY	v
+umlaufen/ADI	v
+umlauten/DIXY	v
+umlegen/BDIXY	v
+umleiten/DIXY	v
+umlenken/DIXY	v
+umlernen/DIXY	v
+umlief/ZE
+umla"dt/X
+umla"uft/X
+ummanteln/BDIOXY	v
+ummelden/DIXY	v
+ummodeln/DIXY	v
+umnebeln/DIOXY	v
+umordnen/DIXY	v
+umorganisieren/DIOXY	v
+umpflanzen/DIXY	v
+umpflu"gen/DIXY	v
+umpolen/DIXY	v
+umprogrammieren/BDIOXY	v
+umquartieren/DIOXY	v
+umrahmen/DIOXY	v
+umranden/DIOXY	v
+umrang/Z
+umranken/DIOXY	v
+umrannte/Z
+umrechnen/DIXY	v
+umreisSen/DIX	v
+umrennen/DIX	v
+umringen/DIOX	v
+umrissen/AWX	v
+umrunden/DIOXY	v
+umru"hren/DIXY	v
+umru"sten/IXY	v
+umsah/Z
+umsatteln/DIXY	v
+umschalten/BDIXY	v
+umschauen/DIXY	v
+umschichten/DIXY	v
+umschiffen/DIOXY	v
+umschlagen/DI	v
+umschlang/Z
+umschliesSen/DIX	v
+umschlingen/DIX	v
+umschlossen/AWX	v
+umschmeicheln/DIXY	v
+umschmelzen/DI	v
+umschnallen/DIXY	v
+umschreiben/DIX	v
+umschrieben/AWX	v
+umschulden/DIXY	v
+umschulen/DIXY	v
+umschwenken/DIXY	v
+umschwa"rmen/DIOXY	v
+umschu"tteln/DIXY	v
+umschu"tten/DIXY	v
+umsegeln/DIOXY	v
+umsehen/DI	v
+umsetzen/BDIXY	v
+umsiedeln/DIXY	v
+umsieht/X
+umsinken/DIX	v
+umsorgen/DIOXY	v
+umsortieren/BDIOXY	v
+umspannen/DIOXY	v
+umspinnen/DIX	v
+umsprang/Z
+umspringen/DIX	v
+umspulen/DIXY	v
+umspu"len/DIOXY	v
+umsteigen/DIX	v
+umstellen/BDIOXY	v
+umsteuern/DIXY	v
+umstimmen/DIXY	v
+umstosSen/DI	v
+umstricken/DIOXY	v
+umstrukturieren/BDIOXY	v
+umstu"rzen/DIXY	v
+umsa"umen/DIOXY	v
+umtaufen/DIXY	v
+umtauschen/BDIXY	v
+umtun/IX	v
+umwandeln/BDIXY	v
+umwarb/Z
+umwarf/Z
+umwechseln/DIXY	v
+umwenden/DIXY	v
+umwerben/DI	v
+umwerfen/DI	v
+umwerten/DIXY	v
+umwickeln/DIOXY	v
+umwirbt/X
+umwirft/X
+umwa"lzen/DIXY	v
+umwo"lken/DIOXY	v
+umziehen/DIX	v
+umzingeln/DIOXY	v
+umzog/Z
+umzubauen/D
+umzubenennen/D
+umzubringen/D
+umzudeklarieren/D
+umzugehen
+umzukehren/D
+umzukippen/D
+umzukonstruieren/D
+umzukrempeln/D
+umzulegen/D
+umzuleiten/D
+umzulernen/D
+umzuordnen/D
+umzuprogrammieren/D
+umzurechnen/D
+umzura"umen/D
+umzuschalten/D
+umzuschichten/D
+umzuschreiben/D
+umzuschulden/D
+umzusehen
+umzusetzen/D
+umzusteigen
+umzustellen/D
+umzustimmen/D
+umzustrukturieren/D
+umzutauschen/D
+umzuwandeln/D
+umzuwerfen/D
+umzuziehen
+umza"unen/DIOXY	v
+umzo"ge/Z
+uma"ndern/DIXY	v
+unbeschnitten/A	aa
+unken/DIXY	v
+unterband/Z
+unterbelichten/DIOXY	v
+unterbewerten/DIOXY	v
+unterbieten/DIX	v
+unterbinden/DIX	v
+unterbleiben/DIX	v
+unterblieb/ZE
+unterboten/AWX	v
+unterbrach/Z
+unterbrechen/DI	v
+unterbreiten/DIOXY	v
+unterbricht/X
+unterbringen/DIX	v
+unterdru"cken/DIOXY	v
+unterfangen/ADI	v
+unterfertigen/DIXY	v
+unterfing/Z
+unterfordern/DIOXYW	v
+unterfa"ngt/X
+unterfu"ttern/DIOXYW	v
+untergehen/DIX	v
+unterging/ZE
+untergliedern/DIOXY	v
+untergraben/ADI	v
+untergrub/Z
+untergra"bt/X
+unterhalten/ADI	v
+unterhandeln/DIOXY	v
+unterhebeln/DIXY	v
+unterhielt/ZE
+unterha"ltst/X
+unterho"hlen/DIOXY	v
+unterjochen/DIOXY	v
+unterkellern/DIOXY	v
+unterkriegen/DIXY	v
+unterku"hlen/DIOXYW	v
+unterlag/Z
+unterlassen/ADI	v
+unterlaufen/ADI	v
+unterlegen/ADIOXY	v
+unterlief/ZE
+unterliegen/DIX	v
+unterliesS/ZE
+unterla"gen/IX	v
+unterla"sst
+unterla"uft/X
+untermalen/DIXY	v
+untermauern/DIOXY	v
+unterminieren/DIOXY	v
+unternahm/Z
+unternehmen/DI	v
+unternimmt/X
+unterna"hme/Z
+unterordnen/DIXY	v
+unterreden/DIXY	v
+unterrichten/DIOXY	v
+unterru"hren/DIXY	v
+untersagen/DIOXY	v
+unterscheiden/BDIX	v
+unterschieben/BDIX	v
+unterschieden/AWX	v
+unterschlagen/ADI	v
+unterschlug/Z
+unterschla"gt/X
+unterschla"ngeln/DIOXY	v
+unterschlu"ge/Z
+unterschreiben/DIX	v
+unterschreiten/DIX	v
+unterschrieben/AWX	v
+unterschritten/AWX	v
+unterscha"tzen/DIOXY	v
+untersetzen/DIOXY	v
+unterstand/Z
+unterstehen/DIX	v
+unterstellen/DIOXY	v
+unterstreichen/DIX	v
+unterstrichen/AWX	v
+unterstu"tzen/DIOXY	v
+untersuchen/BDIOXY	v
+untertauchen/DIXY	v
+unterteilen/BDIOXY	v
+untertreiben/DIXW	v
+untertrieben/A	aa
+untervermieten/DIOXY	v
+unterwandern/DIOXY	v
+unterwarf/Z
+unterweisen/DIX	v
+unterwerfen/DI	v
+unterwies/Z
+unterwirft/X
+unterzeichnen/DIOXY	v
+unterziehen/DIX	v
+unterzog/Z
+unterzubringen/D
+unterzugehen
+unterzukriegen/D
+unterzumogeln/D
+unterzuordnen/D
+unterzuschieben/D
+unterzustellen/D
+unterzutauchen
+unterzo"ge/Z
+urauffu"hren/DIXY	v
+urinieren/DIXY	v
+urteilen/DIVXY	v
+vagabundieren/DIXYW	v
+variieren/BDIOXY	v
+vegetieren/DIXY	v
+ventilieren/DIOXY	v
+verabfolgen/DIOXY	v
+verabreden/DIOXY	v
+verabreichen/DIOXY	v
+verabscheuen/DIOXY	v
+verabschieden/DIOXY	v
+verachten/DIOXY	v
+veralbern/DIOXYW	v
+verallgemeinern/BDIOXY	v
+veralten/DIOXY	v
+verankern/DIOXY	v
+veranlagen/DIOXY	v
+veranlassen/DIOXYW	v
+veranschaulichen/DIOXY	v
+veranschlagen/BDIOXY	v
+veranstalten/DIOXY	v
+verantworten/BDIOXY	v
+verarbeiten/DIOXY	v
+verargen/DIOXY	v
+verarmen/DIOXY	v
+verarschen/DIOXY	v
+verarzten/DIOXY	v
+verausgaben/DIOXY	v
+verbalisieren/BDIOXYW	v
+verballhornen/DIXYW	v
+verbannen/DIOXY	v
+verbarrikadieren/DIOXY	v
+verbauen/DIOXY	v
+verbessern/BDIOXY	v
+verbeulen/DIOXY	v
+verbildlichen/DIOXY	v
+verbilligen/DIOXY	v
+verbinden/BDIX	v
+verbittern/DIXY	v
+verblassen/DIOXY	v
+verblenden/DIOXY	v
+verblieben/AWX	v
+verbluten/DIOXY	v
+verblo"den/DIOXY	v
+verblu"ffen/DIOXY	v
+verblu"hen/DIOXY	v
+verbogen/ACWX	v
+verbohren/DIOXY	v
+verbrauchen/DIOXY	v
+verbreiten/DIOXY	v
+verbreitern/DIXY	v
+verbriefen/DIOXY	v
+verbru"dern/DIOXY	v
+verbru"hen/DIOXY	v
+verbuchen/DIOXY	v
+verbummeln/DIOXY	v
+verbo"te/Z
+verbu"nden/DIXY	v
+verbu"rgen/DIOXY	v
+verbu"sSen/DIOXY	v
+verdammen/DIOXY	v
+verdampfen/DIOXY	v
+verdarb/Z
+verdauen/DIOXY	v
+verdecken/DIOXY	v
+verderben/DIO	v
+verdeutlichen/DIOXY	v
+verdeutschen/DIOXY	v
+verdichten/DIOXY	v
+verdicken/DIOXY	v
+verdienen/DIOXY	v
+verdingen/DIOXY	v
+verdirbt/X
+verdonnern/DIOXY	v
+verdoppeln/DIOXY	v
+verdorren/DIOXY	v
+verdrahten/DIOXY	v
+verdrehen/BDIOXY	v
+verdreifachen/DIOXY	v
+verdriesSen/DIX	v
+verdrillen/DIOXY	v
+verdross/Z
+verdrucken/DIOXY	v
+verdra"ngen/DIOXY	v
+verdru"cken/DIOXY	v
+verduften/DIOXY	v
+verdummen/DIOXY	v
+verdunkeln/DIOXY	v
+verdunsten/DIOXY	v
+verdursten/DIOXY	v
+verdutzen/DIOXY	v
+verda"chtigen/DIOXY	v
+verdu"nnen/DIXY	v
+verdu"nnisieren/DIOXY	v
+verdu"stern/DIOXY	v
+verebben/DIOXY	v
+veredeln/DIOXY	v
+verehelichen/DIOXY	v
+verehren/DIOXY	v
+vereidigen/DIOXY	v
+vereinbaren/DIOXY	v
+vereinen/BDIOXY	v
+vereinfachen/DIOXY	v
+vereinheitlichen/DIOXY	v
+vereinigen/DIOXY	v
+vereinnahmen/DIOXY	v
+vereinsamen/DIOXY	v
+vereinzeln/DIXY	v
+vereisen/DIOXY	v
+vereiteln/DIOXY	v
+vereitern/DIOXY	v
+verekeln/DIOXY	v
+verelenden/DIXY	v
+verenden/DIOXY	v
+verengen/DIOXY	v
+verengern/DIOXY	v
+vererben/BDIOXYL	v
+verewigen/DIOXY	v
+verfallen/ADI	v
+verfangen/ADI	v
+verfassen/DIOXY	v
+verfaulen/DIOXY	v
+verfehlen/DIOXY	v
+verfeinden/DIOXY	v
+verfeinern/DIOXY	v
+verfemen/DIOXY	v
+verfertigen/DIOXY	v
+verfestigen/IOXY	v
+verfeuern/DIOXY	v
+verfilmen/BDIOXY	v
+verfilzen/DIOXY	v
+verfinstern/DIOXY	v
+verflachen/DIOXY	v
+verflechten/DI	v
+verfluchen/DIOXY	v
+verflu"chtigen/DIOXY	v
+verflu"ssigen/BDIXY	v
+verfolgen/BDIOXY	v
+verformen/BDIOXY	v
+verfrachten/DIOXY	v
+verfremden/DIOXY	v
+verfroren/AWX	v
+verfa"llt/X
+verfa"lschen/DIOXY	v
+verfu"gen/BDIOXY	v
+verfu"hren/BDIOXY	v
+verfu"llen/BDIOXYW	v
+verfu"nffachen/DIOXY	v
+verfu"ttern/DIOXY	v
+vergaffen/DIOXY	v
+vergammeln/DIOXY	v
+vergasen/DIOXY	v
+vergattern/DIOXYW	v
+vergasS/Z
+vergeben/ABDI	v
+vergegenwa"rtigen/DIOXY	v
+vergeigen/DIOXYW	v
+vergeistigen/DIXY	v
+vergessen/ADI	v
+vergeuden/DIOXY	v
+vergewaltigen/DIOXY	v
+vergewissern/DIXY	v
+vergiften/DIOXY	v
+vergisst/W
+vergittern/DIOXY	v
+verglasen/DIOXY	v
+vergleichen/BDIX	v
+verglichen/AWX	v
+verglu"hen/DIOXYW	v
+vergnu"gen/DIOXY	v
+vergolden/DIOXY	v
+vergraben/ADI	v
+vergreisen/DIXY	v
+vergra"men/DIOXY	v
+vergra"tzen/DIOXYW	v
+vergro"sSern/DIOXY	v
+verga"llen/DIOXY	v
+vergo"nnen/DIOXY	v
+vergo"ttern/DIOXY	v
+vergu"ten/BDIOXY	v
+verhaften/DIOXY	v
+verhageln/DIOXY	v
+verhaken/DIOXY	v
+verhallen/DIOXY	v
+verhalten/ACDI	v
+verhandeln/BDIOXY	v
+verharmlosen/DIOXY	v
+verhaspeln/DIXY	v
+verhauen/ADIXY	v
+verheddern/DIOXY	v
+verheeren/IOXY	v
+verhehlen/DIOXY	v
+verheilen/DIOXY	v
+verheimlichen/DIOXY	v
+verheiraten/DIOXY	v
+verheizen/DIOXY	v
+verheisSen/AIX	v
+verherrlichen/DIOXY	v
+verhexen/DIOXY	v
+verhimmeln/DIOXY	v
+verhindern/DIOXY	v
+verhob/Z
+verhundertfachen/DIOXY	v
+verhungern/DIOXY	v
+verhunzen/DIOXY	v
+verha"ngen/DIOXY	v
+verha"rten/DIOXY	v
+verho"hnen/DIOXY	v
+verho"kern/DIOXY	v
+verho"ren/DIOXY	v
+verhu"llen/DIOXY	v
+verhu"ten/BDIOXY	v
+verifizieren/BDIOXY	v
+verinnerlichen/DIOXY	v
+verirren/DIOXY	v
+verjagen/DIOXY	v
+verjubeln/DIOXYW	v
+verja"hren/DIOXY	v
+verju"ngen/DIOXY	v
+verkabeln/DIOXYW	v
+verkalken/DIOXY	v
+verkannt/AZ	aa
+verkappen/DIOXY	v
+verkaufen/DIOXY	v
+verkehren/DIOXY	v
+verkeilen/DIOXY	v
+verketten/BDIOXY	v
+verketzern/DIOXY	v
+verkitten/DIOXY	v
+verklagen/DIOXY	v
+verklappen/DIOXYW	v
+verklausulieren/DIOXY	v
+verkleben/DIOXY	v
+verkleiden/DIOXY	v
+verkleinern/BDIOXY	v
+verklemmen/DIOXY	v
+verkla"ren/DIOXY	v
+verknacksen/DIXYW	v
+verknappen/DIOXY	v
+verkniffen/AWX	v
+verknoten/DIOXY	v
+verkno"chern/DIOXY	v
+verknu"pfen/BDIOXY	v
+verkohlen/DIOXY	v
+verkommen/ADIX	v
+verkoppeln/DIOXY	v
+verkrachen/DIOXY	v
+verkraften/DIOXY	v
+verkrampfen/DIOXY	v
+verkratzen/BDIOXYW	v
+verkrochen/AWX	v
+verkrusten/DIOXY	v
+verkru"meln/DIOXYW	v
+verkru"mmen/DIOXYW	v
+verkru"ppeln/DIOXY	v
+verkupfern/DIOXYW	v
+verkuppeln/DIOXY	v
+verko"rpern/DIOXY	v
+verko"stigen/DIOXY	v
+verku"hlen/DIOXYW	v
+verku"mmern/DIOXY	v
+verku"nden/DIOXY	v
+verku"ndigen/DIOXY	v
+verku"rzen/BDIOXY	v
+verladen/ADI	v
+verlagern/DIOXY	v
+verlangen/DIOXY	v
+verlangsamen/DIOXY	v
+verlassen/ADI	v
+verlaufen/ADI	v
+verlautbaren/DIOXY	v
+verleben/DIOXY	v
+verlegen/ABDIOXY	v
+verleiben/IXYW	v
+verleiden/DIXY	v
+verleimen/DIOXY	v
+verleiten/DIOXY	v
+verlernen/DIOXY	v
+verletzen/BDIOXY	v
+verleugnen/DIOXY	v
+verleumden/DIOXY	v
+verlieben/DIOXY	v
+verliehen/AWX	v
+verlieren/DIX	v
+verlischt
+verloben/DIOXY	v
+verlocken/DIOXY	v
+verloren/AWX	v
+verlorengehen/DIX	v
+verlorenging/ZE
+verlosen/DIOXY	v
+verlottern/DIOXY	v
+verlustieren/DIXYW	v
+verla"ngern/BDIOXYW	v
+verlo"schen/DIOXY	v
+verlo"ten/DIOXY	v
+vermachen/DIOXY	v
+vermarkten/BDIOXY	v
+vermasseln/DIOXY	v
+vermauern/DIOXY	v
+vermehren/DIOXY	v
+vermeiden/BDIX	v
+vermeinen/DIOXY	v
+vermelden/DIOXY	v
+vermengen/DIOXY	v
+vermenschlichen/DIOXY	v
+vermerken/DIOXY	v
+vermessen/ADI	v
+vermieden/AWX	v
+vermieten/BDIOXY	v
+vermindern/DIOXY	v
+vermischen/DIOXY	v
+vermissen/DIOXY	v
+vermitteln/BDIOXY	v
+vermocht
+vermodern/DIOXY	v
+vermummen/DIOXYW	v
+vermuten/DIOXY	v
+verma"hlen/DIOXY	v
+vermo"beln/DIOXYW	v
+vernachla"ssigen/BDIOXY	v
+vernageln/DIOXY	v
+vernarben/DIOXY	v
+vernarren/DIOXY	v
+vernaschen/DIOXY	v
+vernebeln/DIOXY	v
+vernehmen/BDI	v
+verneigen/DIOXY	v
+verneinen/DIOXY	v
+vernetzen/BDIOXY	v
+vernichten/BDIOXY	v
+vernickeln/DIOXY	v
+verniedlichen/DIOXY	v
+verna"hen/DIOXY	v
+verordnen/DIOXY	v
+verpachten/DIOXY	v
+verpacken/DIOXY	v
+verpassen/DIOXY	v
+verpatzen/DIOXY	v
+verpesten/DIOXY	v
+verpetzen/DIOXY	v
+verpflanzen/DIOXY	v
+verpflegen/DIOXY	v
+verpflichten/DIOXY	v
+verpfuschen/DIOXY	v
+verpfa"nden/DIOXY	v
+verplappern/DIOXY	v
+verplaudern/DIOXY	v
+verplempern/DIOXY	v
+verprassen/DIOXY	v
+verprellen/DIOXYW	v
+verpru"geln/DIOXY	v
+verpuffen/DIOXY	v
+verpulvern/DIOXY	v
+verpumpen/DIOXY	v
+verpuppen/DIOXY	v
+verputzen/DIOXY	v
+verqualmen/DIOXY	v
+verquicken/DIOXY	v
+verrammeln/DIOXY	v
+verramschen/DIOXY	v
+verrann
+verrannt/AZ	aa
+verraten/ADI	v
+verrauchen/DIOXY	v
+verrechnen/DIOXY	v
+verrecken/DIOXY	v
+verregnen/DIOXY	v
+verreisen/DIOXY	v
+verrenken/DIOXY	v
+verrichten/DIOXY	v
+verriegeln/DIOXY	v
+verringern/DIOXY	v
+verrohen/DIOXY	v
+verrosten/DIOXY	v
+verrotten/DIOXY	v
+verrutschen/DIOXY	v
+verra"uchern/DIOXY	v
+verru"cken/DIOXY	v
+verru"hren/BDIOXYW	v
+versalzen/ADIXY	v
+versammeln/DIOXY	v
+versanden/DIOXY	v
+versauen/DIOXY	v
+versauern/DIOXY	v
+verschachern/DIOXY	v
+verschaffen/DIOXY	v
+verschalen/DIOXY	v
+verschandeln/DIOXY	v
+verschanzen/DIOXY	v
+verscharren/DIOXY	v
+verschaukeln/IXY	v
+verschenken/DIOXY	v
+verscherbeln/DIOXY	v
+verscherzen/DIOXY	v
+verscheuchen/DIOXY	v
+verscheuern/DIOXY	v
+verschicken/DIOXY	v
+verschieben/BDIX	v
+verschiffen/DIOXY	v
+verschimmeln/DIOXY	v
+verschlafen/ADI	v
+verschlagen/ADI	v
+verschlammen/DIOXY	v
+verschlampen/DIOXY	v
+verschlechtern/DIOXY	v
+verschleiern/DIOXY	v
+verschleifen/DIOXY	v
+verschleisSen/DIXY	v
+verschleppen/DIOXY	v
+verschleudern/DIOXY	v
+verschliesSen/BDIX	v
+verschlimmern/DIOXY	v
+verschlucken/DIOXY	v
+verschlu"sseln/DIOXY	v
+verschmachten/DIOXY	v
+verschmerzen/BDIOXY	v
+verschmieren/DIOXY	v
+verschmutzen/DIOXY	v
+verschma"hen/DIOXY	v
+verschnupfen/DIOXY	v
+verschnu"ren/DIOXY	v
+verschoben/AWX	v
+verschonen/DIOXY	v
+verschrauben/BDIOXY	v
+verschrecken/DIOXY	v
+verschrieben/AWX	v
+verschrotten/DIOXY	v
+verschra"nken/DIOXY	v
+verschulden/DIOXY	v
+verschweisSen/IOYW	v
+verschwenden/DIOXY	v
+verschwiegen/AWX	v
+verschwitzen/DIOXY	v
+verschworen/AWX	v
+verscha"tzen/IXY	v
+verscho"nern/DIOXY	v
+verschu"chtern/DIOXY	v
+verschu"tten/DIOXY	v
+versehen/ADI	v
+versehren/DIOXY	v
+verselbststa"ndigen/IOXY	v
+verselbsta"ndigen/IOXY	v
+versenden/DIOXY	v
+versengen/DIOXY	v
+versenken/BDIOXY	v
+versetzen/DIOXY	v
+verseuchen/DIOXY	v
+versichern/BDIOXYW	v
+versickern/DIOXY	v
+versiegeln/DIOXY	v
+versiegen/DIOXY	v
+versilbern/DIOXY	v
+versinnbildlichen/DIOXY	v
+versklaven/DIOXY	v
+versohlen/DIOXY	v
+versorgen/DIOXY	v
+verspannen/DIOXY	v
+verspekulieren/DIOXY	v
+versperren/DIOXY	v
+verspielen/DIOXY	v
+verspinnen/BDIX	v
+verspotten/DIOXY	v
+versprengen/DIOXY	v
+verspritzen/DIOXY	v
+verspru"hen/DIOXY	v
+verspa"ten/DIOXY	v
+verspu"ren/DIOXY	v
+verstaatlichen/DIOXY	v
+verstauben/DIOXY	v
+verstauchen/DIOXY	v
+verstauen/DIOXY	v
+verstecken/DIOXY	v
+versteifen/DIOXY	v
+versteigern/DIOXY	v
+versteinern/DIOXY	v
+verstellen/BDIOXY	v
+versteuern/BDIOXY	v
+verstimmen/DIOXY	v
+verstopfen/DIOXY	v
+verstreben/DIOXY	v
+verstreuen/DIOXY	v
+verstrichen/AWX	v
+verstricken/DIOXY	v
+verstummen/DIOXY	v
+versta"ndigen/DIOXY	v
+versta"rken/DIOXY	v
+versto"ren/DIOXY	v
+verstu"mmeln/DIOXY	v
+versuchen/DIOXYW	v
+versumpfen/DIOXY	v
+versa"umen/DIOXY	v
+verso"hnen/BDIOXY	v
+versu"sSen/DIOXY	v
+vertagen/DIOXY	v
+vertauschen/BDIOXY	v
+verteidigen/DIOXY	v
+verteilen/BDIOXYW	v
+verteuern/DIOXY	v
+verteufeln/DIOXY	v
+vertiefen/DIOXY	v
+vertilgen/DIOXY	v
+vertonen/DIOXY	v
+vertragen/I	v
+vertrank/Z
+vertreten/ABDI	v
+vertrieben/AWX	v
+vertrocknen/DIOXY	v
+vertrotteln/DIXY	v
+vertra"umen/DIOXY	v
+vertro"deln/DIOXY	v
+vertro"sten/DIOXY	v
+vertuschen/DIOXY	v
+verta"uen/DIOXYW	v
+verunglimpfen/DIOXY	v
+verunglu"cken/DIOXY	v
+verunreinigen/DIOXY	v
+verunsichern/BDOIXYW	v
+verunstalten/DIOXY	v
+veruntreuen/DIOXY	v
+verursachen/DIOXY	v
+verurteilen/DIOXY	v
+vervielfachen/IOXY	v
+vervielfa"ltigen/DIOXY	v
+vervierfachen/DIOXY	v
+vervollkommnen/DIOXY	v
+vervollsta"ndigen/BDIOXY	v
+verwachsen/ADI	v
+verwackeln/DIOXYW	v
+verwahren/BDIOXY	v
+verwahrlosen/DIOXY	v
+verwaisen/DIOXY	v
+verwalten/BDIOXY	v
+verwandeln/BDIOXY	v
+verwarnen/BDIOXY	v
+verwechseln/BDIOXY	v
+verwehen/DIOXY	v
+verwehren/BDIOXY	v
+verweichlichen/DIOXY	v
+verweigern/BDIOXY	v
+verweilen/DIOXY	v
+verwelken/DIOXY	v
+verweltlichen/DIOXY	v
+verwenden/BDIOXY	v
+verwerten/BDIOXY	v
+verwesen/DIOXY	v
+verwetten/BDIOXY	v
+verwickeln/DIOXY	v
+verwildern/DIOXY	v
+verwirken/DIOXY	v
+verwirklichen/BDIOXY	v
+verwirren/DIOXY	v
+verwirtschaften/DIOXY	v
+verwischen/BDIOXY	v
+verwittern/DIOXY	v
+verwitwen/DIOXY	v
+verwunden/BDIXY	v
+verwundern/DIOXY	v
+verwa"ssern/DIOXY	v
+verwo"hnen/DIOXY	v
+verwu"nschen/DIOXY	v
+verwu"sten/BDIOXY	v
+verzagen/DIOXY	v
+verzahnen/DIOXYW	v
+verzanken/DIOXY	v
+verzapfen/DIOXY	v
+verzaubern/DIOXY	v
+verzehnfachen/DIOXY	v
+verzehren/BDIOXY	v
+verzeichnen/DIOXY	v
+verzeihen/BDIXW	v
+verzerren/DIOXYW	v
+verzetteln/DIOXY	v
+verzichten/BDIOXY	v
+verziehen/ADIWX	v
+verzieren/BDIOXY	v
+verzigfachen/DIOXY	v
+verzinken/IOXY	v
+verzinnen/IOXY	v
+verzinsen/BDIOXY	v
+verzogen/AWX	v
+verzollen/BDIOXY	v
+verzuckern/DIOXY	v
+verzweifeln/DIOXY	v
+verzweigen/DIOXY	v
+verza"hlen/DIOXY	v
+verzo"gern/BDIOXYW	v
+verzu"cken/DIOXY	v
+vera"ndern/BDIOXY	v
+vera"ngstigen/DIOXY	v
+vera"ppeln/DIOXY	v
+vera"rgern/DIOXY	v
+vera"steln/DIOXY	v
+vera"usSerlichen/DIOXY	v
+vera"usSern/DIOXY	v
+vero"den/DIXY	v
+vero"ffentlichen/DIOXY	v
+veru"beln/DIOXY	v
+veru"ben/DIOXY	v
+vespern/DIXY	v
+vibrieren/DIXY	v
+vierteilen/BDIXY	v
+virtualisieren/BDIOXYW	v
+visieren/DIOXY	v
+vitaminisieren/DIOXY	v
+vollbrachte/Z
+vollbringen/DIX	v
+vollenden/DIOXY	v
+vollfu"hren/DIOXY	v
+vollpissen/DIXY	v
+vollspritzen/DIXY	v
+vollstrecken/BDIOXY	v
+vollziehen/BDIX	v
+vollzogen/AWX	v
+vorahnen/DIXY	v
+voranbringen/DIX	v
+vorangebracht
+vorangehen/DIX	v
+vorankommen/DIX	v
+voranschreiten/DIX	v
+voranstehen/DIX	v
+voranstellen/BDIXY	v
+vorantreiben/DIX	v
+vorantrieb/ZE
+voranzubringen
+voranzugehen
+voranzukommen
+voranzutreiben/D
+vorarbeiten/DIXY	v
+vorausgehen/DIX	v
+vorausging/Z
+vorauslaufen/DI	v
+vorauslief/ZE
+vorausla"uft/X
+vorausplanen/BDIXY	v
+voraussagen/BDIXY	v
+voraussah/Z
+vorausschauen/DIXY	v
+vorausschicken/DIXY	v
+voraussehen/DIB	v
+voraussetzen/DIXY	v
+vorauszuberechnen
+vorauszusagen/D
+vorauszusehen/D
+vorbeha"ltst/X
+vorbeifa"hrt/X
+vorbeigehen/DIX	v
+vorbeigekommen
+vorbeigeredet
+vorbeiging/ZE
+vorbeihuschen/DIXY	v
+vorbeikommen/DIX	v
+vorbeika"men/IX	v
+vorbeischmuggeln/DIXY	v
+vorbeiziehen/DIX	v
+vorbeizog/Z
+vorbeizukommen
+vorbelegen/BDIOXY	v
+vorbereiten/DIXY	v
+vorbespielen/DIOXY	v
+vorbestellen/BDIOXY	v
+vorbeugen/DIXY	v
+vorbrachte/Z
+vorbringen/DIX	v
+vordatieren/DIOXY	v
+vordefinieren/DIOXY	v
+vordrang/Z
+vordringen/DIX	v
+vordra"ngen/DIXY	v
+vordru"cken/DIXY	v
+voreilen/DIXY	v
+voreinstellen/DIXY	v
+vorenthalten/ADI	v
+vorentha"ltst/X
+vorentscheiden/DIX	v
+vorexerzieren/DIOXY	v
+vorfahren/DI	v
+vorfand/Z
+vorfinden/DIX	v
+vorfu"hren/DIXY	v
+vorgab/Z
+vorgearbeitet
+vorgeben/BDI	v
+vorgegangen
+vorgehen/DIX	v
+vorgeherrscht
+vorgeschwa"rmt
+vorgestanden
+vorgestu"rmt
+vorgibt/X
+vorging/ZE
+vorgreifen/DIX	v
+vorgriff/Z
+vorhaben/I	v
+vorhalten/DI	v
+vorhat/X
+vorhatte/Z
+vorheizen/DIXY	v
+vorhergehen/DIX	v
+vorherrschen/DIXY	v
+vorherzusagen/D
+vorherzusehen/D
+vorholen/DIXY	v
+vorha"ltst/X
+vorkam/Z
+vorkauen/DIXY	v
+vorkno"pfen/DIXY	v
+vorkommen/DIX	v
+vorkonfigurieren/DIOXY	v
+vorka"men/IX	v
+vorladen/DI	v
+vorlag/Z
+vorlas/Z
+vorlassen/DI	v
+vorlaufen/DI	v
+vorleben/DIXY	v
+vorlegen/DIXY	v
+vorlesen/DI	v
+vorlief/ZE
+vorliegen/DIX	v
+vorliest
+vorla"dt/X
+vorla"uft/X
+vorlu"gen/DIX	v
+vormachen/DIXY	v
+vormerken/DIXY	v
+vormontieren/DIOXY	v
+vornahm/Z
+vornimmt/X
+vorprellen/DIXY	v
+vorpreschen/DIXY	v
+vorproduzieren/BDIOXY	v
+vorrechnen/DIXY	v
+vorrichten/DIXY	v
+vorru"cken/DIXY	v
+vorsah/Z
+vorschalten/DIXY	v
+vorschieben/DIX	v
+vorschiesSen/DIX	v
+vorschlagen/DI	v
+vorschlug/Z
+vorschla"gt/X
+vorschreiben/DIX	v
+vorschweben/DIXY	v
+vorschwindeln/DIXY	v
+vorschwa"rmen/DIXY	v
+vorschu"tzen/DIXY	v
+vorsehen/DI	v
+vorsetzen/DIXY	v
+vorsieht/X
+vorsingen/DIX	v
+vorsitzen/DIX	v
+vorsorgen/DIXY	v
+vorspalten/DIXY	v
+vorspannen/DIXY	v
+vorspiegeln/DIXY	v
+vorspielen/DIX	v
+vorsprach/Z
+vorsprechen/DI	v
+vorspricht/X
+vorspringen/DIX	v
+vorstehen/DIX	v
+vorstellen/DIXY	v
+vorstosSen/DI	v
+vorstu"rmen/DIXY	v
+vortragen/DI	v
+vortreten/DI	v
+vortrug/Z
+vortra"gt/X
+vorta"uschen/DIXY	v
+vorverlegen/DIOXY	v
+vorwarf/Z
+vorweisen/DIX	v
+vorwerfen/DI	v
+vorwirft/X
+vorwa"hlen/DIXY	v
+vorwa"rmen/DIXY	v
+vorzeigen/BDIXY	v
+vorziehen/DIX	v
+vorzog/Z
+vorzubereiten/D
+vorzubeten/D
+vorzubeugen/D
+vorzubringen/D
+vorzudringen
+vorzuenthalten/D
+vorzufinden/D
+vorzufu"hren/D
+vorzugaukeln/D
+vorzugeben/D
+vorzugehen
+vorzulegen/D
+vorzulesen/D
+vorzuliegen/D
+vorzumerken/D
+vorzunehmen/D
+vorzurechnen/D
+vorzuschieben/D
+vorzuschlagen/D
+vorzuschreiben/D
+vorzusehen/D
+vorzusorgen
+vorzuspielen/D
+vorzusprechen/D
+vorzustellen/D
+vorzustosSen
+vorzutragen/D
+vorzuta"uschen/D
+vorzuweisen/D
+vorzuwerfen/D
+vorzuzeigen/D
+vorzuziehen/D
+voru"bergehen/DIX	v
+voru"berziehen/DIX	v
+votieren/DIXYW	v
+wachen/DIXY	v
+wachrufen/DIX	v
+wachru"tteln/DIXY	v
+wachsen/DIV	v
+wackeln/DIXY	v
+waffnen/DIXY	v
+wagen/DIXY	v
+wahren/DIXYn	v
+wahrnahm/Z
+wahrnehmen/DI	v
+wahrnimmt/X
+wahrsagen/DIXY	v
+wahrzunehmen/D
+wallen/DIXY	v
+wallfahren/DI	v
+walten/DIVXY	v
+walzen/DIXY	v
+wand/Z
+wandeln/DIVXY	v
+wandern/DIXY	v
+wandte/Z
+wanken/DIXY	v
+wappnen/DIXY	v
+warb/Z
+waren/WX	v
+warf/VZ
+warmhalten/D
+warnen/DIVXY	v
+warten/BDIXY	v
+waschen/BDIW	v
+wassern/DIXY	v
+waten/DIXY	v
+watscheln/DIXY	v
+wattieren/DIOXY	v
+weben/DIXYW	v
+wechseln/BDIVXY	v
+wechselwirken/DIXY	v
+wecken/DIXY	v
+wedeln/DIXYW	v
+wegbereiten/D
+wegbewegen/DIXY	v
+wegblasen/DIX	v
+wegbleiben/DIX	v
+wegblicken/DIXY	v
+wegbrach/Z
+wegbrechen/DI	v
+wegbricht/X
+wegbringen/DIX	v
+wegdiskutieren/DIOXY	v
+wegfahren/DI	v
+wegfallen/DI	v
+wegfegen/DIXY	v
+wegfiel/ZE
+wegfa"hrt/X
+wegfu"hren/DIXY	v
+weggeben/DI	v
+weggeblickt
+weggehen/DIX	v
+weggemusst
+weggeschaut
+weggeschert
+weggesehen
+wegging/ZE
+weghalten/ID	v
+wegha"ltst/X
+weglassen/BDI	v
+weglaufen/DI	v
+weglegen/DIXY	v
+wegmachen/DIXY	v
+wegmu"ssen/D
+wegnehmen/DI	v
+wegnimmt/X
+wegretuschieren/DIOXY	v
+wegschieben/BDIX	v
+wegschmeisSen/DIX	v
+wegschob/Z
+wegsehen/DI	v
+wegstellen/DIXY	v
+wegtragen/I	v
+wegtun/IX	v
+wegweisen/DIX	v
+wegwerfen/DI	v
+wegzubrennen/D
+wegzudenken/D
+wegzudiskutieren/D
+wegzufahren/D
+wegzufegen/D
+wegzugeben/D
+wegzugehen
+wegzulassen/D
+wegzulaufen
+wegzunehmen/D
+wegzuschauen
+wegzutragen/D
+wegzuziehen/D
+wehen/DIVXYW	v
+wehklagen/DIXY	v
+wehren/DIVXY	v
+wehtun/IX	v
+weichen/DIXY	v
+weichzeichnen/DIXY	v
+weiden/DIXY	v
+weigern/DIVXY	v
+weihen/DIXYW	v
+weilen/DIVXY	v
+weinen/DIXYW	v
+weisen/DIVX	v
+weisgemacht
+weismachen/DIXY	v
+weissagen/DIXY	v
+weiszumachen
+weiten/IXY	v
+weiterbilden/DIXY	v
+weiterentwickeln/DIOXY	v
+weitergab/Z
+weitergeben/ID	v
+weitergegangen
+weitergehen/DIX	v
+weitergereicht/A	aa
+weitergibt/X
+weiterging/ZE
+weiterreichen/DIXY	v
+weitersehen
+weiterspinnen/IX	v
+weiterverwenden/BDIOXY	v
+weiterziehen/DIX	v
+weiterzog/Z
+weiterzubilden/D
+weiterzulaufen
+weiterzureisen
+weiterzuspielen/D
+weisSt
+welken/DIVXY	v
+wellen/DIXY	v
+wenden/DIVXY	v
+werben/DI	v
+werden/DI	v
+werfen/DIV	v
+werkeln/DIXY	v
+werken/DIXY	v
+werten/DIVXY	v
+wertscha"tzen/DIXY	v
+wetteifern/DIXY	v
+wetten/DIVXY	v
+wettern/DIXY	v
+wettmachen/BDIXY	v
+wettru"sten/DIXY	v
+wetzen/DIXY	v
+wich/ZE
+wichsen/DIXYW	v
+wickeln/DIVXY	v
+widerfahren/ADI	v
+widerfuhr
+widerfa"hrt
+widerlegen/BDIOXY	v
+widern/DIXY	v
+widerrief/ZE
+widerriet/Z
+widerrufen/ADIX	v
+widerra"tst/X
+widersetzen/DIXY	v
+widerspiegeln/DIXY	v
+widersprach/Z
+widersprechen/DI	v
+widerspricht/X
+widerspra"che/Z
+widerstand/Z
+widerstehen/DIX	v
+widerstreben/DIXY	v
+widerzuspiegeln/D
+widmen/DIXY	v
+wiederaufbereiten/BDIOXY	v
+wiederbeschaffen/BIOXY	v
+wiedereingliedern/DIXY	v
+wiederfand/Z
+wiederfinden/DIX	v
+wiedergab/Z
+wiedergeben/DI	v
+wiedergibt/X
+wiedergutmachen/DIXY	v
+wiedergutzumachen/D
+wiederherzustellen/D
+wiederholen/BDIOXY	v
+wiederkehren/DIXY	v
+wiederkommen/DIX	v
+wiedersehen/DI	v
+wiederverwenden/BIOXY	v
+wiederzubeleben/D
+wiederzuerkennen/D
+wiederzufinden/D
+wiederzugeben/D
+wiederzuholen/D
+wiederzukommen
+wiederzulassen/D
+wiederzusehen
+wiederzuverwenden/D
+wiegeln/DIXYW	v
+wiegen/DIXY	v
+wiehern/DIXY	v
+wienern/DIXYW	v
+wies/VZ
+wildern/DIVXY	v
+willigen/IXY	v
+willst/W
+wimmeln/DIXY	v
+wimmern/DIXY	v
+winden/DIVX	v
+winken/DIXY	v
+winseln/DIXY	v
+wippen/DIXY	v
+wirbeln/DIXY	v
+wirbt/X
+wird
+wirft/VXW
+wirken/DIVXY	v
+wirren/DIVXY	v
+wirst
+wirtschaften/DIVXY	v
+wischen/DIVXYW	v
+wispern/DIXY	v
+wissen/I	v
+wittern/DIVXY	v
+witzeln/DIXY	v
+wog/Z
+wohlfu"hlen/DIXY	v
+wohlgefu"hlt
+wohltun/IX	v
+wohnen/DIXY	v
+wollen/IADY	v
+worden
+wrang/Z
+wringen/DIX	v
+wuchern/DIXY	v
+wuchs/VZ
+wuchten/DIXY	v
+wundern/BDIVXY	v
+wundernehmen/D
+wurde/Z
+wurmen/DIXYW	v
+wurzeln/DIVXY	v
+wusch/Z
+wusste/Z
+wa"chst/V
+wa"gen/DIX	v
+wa"hlen/BDIXY	v
+wa"hnen/DIXY	v
+wa"hren/DXY	v
+wa"lzen/DIXY	v
+wa"ren/XI	v
+wa"rmen/DIXY	v
+wa"scht/X
+wa"ssern/DIXYW	v
+wo"ge/Z
+wo"lben/DIXY	v
+wu"hlen/DIXY	v
+wu"nschen/BDIVXY	v
+wu"rde/Z
+wu"rdigen/DIXY	v
+wu"rfeln/DIXY	v
+wu"rgen/DIXY	v
+wu"rzen/DIXY	v
+wu"sste/Z
+wu"sten/DIVXY	v
+wu"ten/DIXY	v
+xerographieren/IOXY	v
+zahlen/BDIXYW	v
+zanken/DIVXYW	v
+zapfen/DIVXYW	v
+zappeln/DIXYW	v
+zaubern/DIVXYW	v
+zaudern/DIXYW	v
+zehren/DIVXYW	v
+zeichnen/DIVXY	v
+zeigen/DIXYW	v
+zeitigen/IX	v
+zelebrieren/DIOXYW	v
+zelten/DIXY	v
+zementieren/DIOXYW	v
+zensieren/DIOXYW	v
+zentralisieren/DIOXYW	v
+zentrieren/DIOXYW	v
+zerbarst/Z
+zerbeisSen/DIXW	v
+zerbersten/DI	v
+zerbirst
+zerbomben/DIOXYW	v
+zerbrach/Z
+zerbrechen/DI	v
+zerbricht/X
+zerbro"ckeln/DIOXYW	v
+zerdeppern/DIOXYW	v
+zerdru"cken/DIOXYW	v
+zerfallen/ACDIW	v
+zerfasern/DIOXY	v
+zerfetzen/DIXYW	v
+zerfiel/ZE
+zerflattern/DIXY	v
+zerfleddern/DIOXYW	v
+zerfleischen/DIOXYW	v
+zerfliesSen/DIX	v
+zerfloss/Z
+zerfressen/ADI	v
+zerfrisst/W
+zerfa"llt/X
+zergehen/DIXW	v
+zerging/ZE
+zergliedern/DIOXY	v
+zerhacken/DIOXYW	v
+zerkauen/DIOXYW	v
+zerkleinern/DIOXYW	v
+zerknicken/BDIXYW	v
+zerknittern/DIXYW	v
+zerknu"llen/DIOXYW	v
+zerkochen/DIOXYW	v
+zerkratzen/DIOXYW	v
+zerlassen/ADI	v
+zerlegen/BDIOXYW	v
+zerliesS/Z
+zerla"sst
+zermahlen/ADIXYW	v
+zermalmen/DIOXYW	v
+zermartern/DIOXYW	v
+zermu"rben/DIOXY	v
+zernagen/DIOXYW	v
+zerpflu"cken/DIOXY	v
+zerplatzen/DIOXYW	v
+zerquetschen/DIOXYW	v
+zerrann/Z
+zerreden/DIOXY	v
+zerreiben/DIXW	v
+zerreisSen/BDIXW	v
+zerren/DIVXYW	v
+zerrieb/ZE
+zerrinnen/DIX	v
+zerriss/ZE
+zerru"tten/DIOXY	v
+zerschellen/DIOXYW	v
+zerschiesSen/DIXW	v
+zerschlagen/ADIW	v
+zerschlug/Z
+zerschla"gt/X
+zerschmelzen/DIW	v
+zerschmettern/DIOXYW	v
+zerschmilzt/X
+zerschmolz/Z
+zerschneiden/DIXW	v
+zerschnitt/Z
+zerschoss/Z
+zerschrammen/DIOXY	v
+zersetzen/DIOXYW	v
+zerspalten/ADIXYW	v
+zersplittern/DIOXYW	v
+zersprang/Z
+zersprengen/DIOXYW	v
+zerspringen/DIX	v
+zerstach/Z
+zerstampfen/DIOXYW	v
+zerstechen/DI	v
+zersticht/X
+zerstieben/DIXA	v
+zerstiesS/ZE
+zerstosSen/ADIW	v
+zerstreiten/DIX	v
+zerstreuen/DIOXYW	v
+zerstritt/Z
+zersta"uben/DIOXY	v
+zersto"ren/DIXYW	v
+zersto"sSt
+zerstu"ckeln/DIOXYW	v
+zersa"gen/DIOXYW	v
+zerteilen/DIOXYW	v
+zertifizieren/DIOXYW	v
+zertrampeln/DIOXYW	v
+zertrat/Z
+zertreten/ADI	v
+zertrittst/X
+zertru"mmern/DIOXYW	v
+zerwu"hlen/DIOXYW	v
+zerzausen/DIOXY	v
+zetern/DIXYW	v
+zetteln/IVXYW	v
+zeugen/DIXYW	v
+ziehen/DIVXW	v
+zielen/DIXYW	v
+ziemen/DIXY	v
+zieren/DIVXYW	v
+zimmern/DIXYW	v
+zirkulieren/DIOXY	v
+zirpen/DIXY	v
+zischen/DIXYW	v
+ziselieren/DIOXY	v
+zitieren/BDIOXY	v
+zittern/DIXYW	v
+zivilisieren/DIOXY	v
+zocken/VDIXY	v
+zog/VZ
+zollen/DIVXY	v
+zuarbeiten/DIXY	v
+zubauen/DIXY	v
+zubeisSen/DIX	v
+zubereiten/DIOXY	v
+zubilligen/DIXY	v
+zubinden/DIX	v
+zubleiben/DIX	v
+zublinzeln/DIXY	v
+zubringen/DIX	v
+zucken/DIXYW	v
+zuckern/DIVXY	v
+zudecken/DIXY	v
+zudrehen/BDIXY	v
+zudru"cken/DIXY	v
+zueignen/DIXY	v
+zueinanderfinden/DIX	v
+zueinandergefunden
+zuerkennen/DIX	v
+zufallen/DI	v
+zufassen/DIXY	v
+zufiel/P
+zufliegen/DIX	v
+zufliesSen/DIX	v
+zuflog/Z
+zufloss/Z
+zuflu"stern/DIXY	v
+zufriedenstellen/BDIXY	v
+zufriedenzustellen/D
+zufrieren/DIX	v
+zufa"llt/X
+zufu"gen/DIXY	v
+zufu"hren/DIXY	v
+zufu"llen/DIXY	v
+zugab/Z
+zugeben/DI	v
+zugegriffen
+zugeguckt
+zugehen/DIX	v
+zugeho"ren/DIXY	v
+zugejubelt
+zugelangt
+zugeschaut
+zugesehen
+zugestehen/DIX	v
+zugestochen
+zugestosSen/A	aa
+zugetragen/A	aa
+zugetraut
+zugetroffen
+zugewartet
+zugewendet
+zugezwinkert
+zugibt/X
+zugiesSen/DIX	v
+zuging/ZE
+zugreifen/BDIX	v
+zugriff/Z
+zugucken/DIXY	v
+zuhalten/DI	v
+zuhauen/DIXY	v
+zuheften/DIXY	v
+zuha"ltst/X
+zuha"ngen/DIXY	v
+zuho"ren/DIXY	v
+zujubeln/DIXY	v
+zukaufen/DIXY	v
+zukehren/DIXY	v
+zuklappen/DIXY	v
+zukleben/DIXY	v
+zuknallen/DIXY	v
+zukno"pfen/DIXY	v
+zukommen/DIX	v
+zulangen/DIXY	v
+zulassen/DI	v
+zulaufen/DI	v
+zulegen/DIXY	v
+zuleiten/DIXY	v
+zuliesS/ZE
+zula"cheln/DIXY	v
+zula"sst
+zumachen/DIX	v
+zumauern/DIXY	v
+zumessen/DI	v
+zumuten/DIXY	v
+zunahm/Z
+zunehmen/DI	v
+zuneigen/DIXY	v
+zunicken/DIXY	v
+zunimmt/X
+zuna"hen/DIXY	v
+zuordnen/DIXY	v
+zupacken/DIXY	v
+zupfen/DIXYW	v
+zuraste/Z
+zuraten/DI	v
+zurechnen/DIXY	v
+zurechtzuweisen/D
+zureden/DIXY	v
+zureichen/DIXY	v
+zureiten/DIX	v
+zurichten/DIXY	v
+zurufen/DIX	v
+zuru"ckbehalten/IDA	v
+zuru"ckbeha"ltst/X
+zuru"ckbezahlen/BDIOXY	v
+zuru"ckbleiben/IXD	v
+zuru"ckblieb/ZE
+zuru"ckfordern/DIXY	v
+zuru"ckfragen/DIXY	v
+zuru"ckgab/Z
+zuru"ckgeben/ID	v
+zuru"ckgefu"hrt/A	aa
+zuru"ckgegriffen/A	aa
+zuru"ckgehen/IXD	v
+zuru"ckging/ZE
+zuru"ckgreifen/IXD	v
+zuru"ckgriff/Z
+zuru"ckhalten/ID	v
+zuru"ckhielt/Z
+zuru"ckha"ltst/X
+zuru"ckkommen/IXD	v
+zuru"cklag/Z
+zuru"ckliegen/DIX	v
+zuru"ckrief/ZE
+zuru"ckrudern/DIXY	v
+zuru"cksetzen/IXYD	v
+zuru"cktrat/Z
+zuru"ckwies/ZE
+zuru"ckzog/Z
+zuru"ckzudra"ngen/D
+zuru"ckzuerhalten/D
+zuru"ckzugeben/D
+zuru"ckzugreifen
+zuru"ckzuhalten/D
+zuru"ckzukommen
+zuru"ckzusenden/D
+zuru"ckzusetzen
+zuru"ckzustellen/D
+zuru"ckzutreten
+zuru"sten/DIXY	v
+zusagen/DIXY	v
+zusah/Z
+zusammenarbeiten/IXYD	v
+zusammenbauen/IXYD	v
+zusammenberufen/ADIX	v
+zusammenbrach/Z
+zusammenbrachte/Z
+zusammenbringen/IXD	v
+zusammenfassen/DIXY	v
+zusammenfiel/ZE
+zusammenfu"gen/IXYD	v
+zusammenfu"hren/DIXY	v
+zusammengefasst/A	aa
+zusammengestellt/A	aa
+zusammengetan
+zusammengetragen/A	aa
+zusammenhalten/ID	v
+zusammenha"ltst/X
+zusammenha"ngen/DIX	v
+zusammenla"ppern/DIXY	v
+zusammenpressen/DIXY	v
+zusammensetzen/BIXYD	v
+zusammenstellen/IXYDB	v
+zusammentragen/ID	v
+zusammentreiben/DIX	v
+zusammenwickeln/DIXY	v
+zusammenzubringen/D
+zusammenzusetzen/D
+zusammenzutragen/D
+zusandte/Z
+zuschalten/BDIXY	v
+zuschanzen/DIXY	v
+zuschauen/DIXY	v
+zuschicken/DIXY	v
+zuschieben/DIX	v
+zuschiesSen/DIX	v
+zuschlagen/DI	v
+zuschliesSen/DIX	v
+zuschlug/Z
+zuschla"gt/X
+zuschmeisSen/DIX	v
+zuschmieren/DIXY	v
+zuschnallen/DIXY	v
+zuschnappen/DIXY	v
+zuschneiden/DIX	v
+zuschnu"ren/DIXY	v
+zuschrauben/DIXY	v
+zuschreiben/DIX	v
+zuschu"tten/DIXY	v
+zusehen/DI	v
+zusenden/DIXY	v
+zusetzen/DIXY	v
+zusichern/DIXY	v
+zusieht/X
+zuspielen/DIXY	v
+zuspitzen/DIXY	v
+zusprang/Z
+zusprechen/DI	v
+zuspringen/DIX	v
+zustand/ZE
+zustecken/DIXY	v
+zustehen/DIX	v
+zusteigen/DIX	v
+zustellen/BDIXY	v
+zusteuern/DIXY	v
+zustieg/ZE
+zustimmen/DIXY	v
+zustopfen/DIXY	v
+zustosSen/DI	v
+zusto"sSt
+zuteilen/DIXY	v
+zutraf/P
+zutragen/DI	v
+zutrauen/DIXY	v
+zutreffen/DI	v
+zutrifft/X
+zutrinken/DIX	v
+zutra"fe/N
+zuvorkommen/DIX	v
+zuvortun/IX	v
+zuvorzukommen
+zuwachsen/DI	v
+zuwandern/DIXY	v
+zuwandte/Z
+zuwarf/Z
+zuwarten/DIXY	v
+zuwehen/DIXY	v
+zuweisen/BDIX	v
+zuwenden/DIXY	v
+zuwerfen/DI	v
+zuwiderhandeln/DIXY	v
+zuwiderlaufen/DI	v
+zuwies/ZE
+zuwinken/DIXY	v
+zuzahlen/DIXY	v
+zuziehen/DIX	v
+zuzog/Z
+zuzubereiten/D
+zuzubilligen/D
+zuzudru"cken/D
+zuzufu"gen/D
+zuzufu"hren/D
+zuzugeben/D
+zuzugehen
+zuzugestehen/D
+zuzugreifen
+zuzuhalten/D
+zuzuho"ren
+zuzulassen/D
+zuzulegen/D
+zuzuleiten/D
+zuzumachen
+zuzumuten/D
+zuzunehmen/D
+zuzuordnen/D
+zuzurechnen/D
+zuzureden
+zuzurichten/D
+zuzurufen/D
+zuzusagen
+zuzuschalten/D
+zuzuschauen
+zuzuschicken/D
+zuzuschieben/D
+zuzuschlagen/D
+zuzuschreiben/D
+zuzusehen
+zuzusenden/D
+zuzusichern/D
+zuzusprechen/D
+zuzustellen/D
+zuzustimmen
+zuzuteilen/D
+zuzutrauen/D
+zuzutreffen
+zuzuweisen/D
+zuzuwenden/D
+zuzwinkern/DIXY	v
+zwacken/DIXYW	v
+zwang/Z
+zweckentfremden/DIXY	v
+zweifeln/DIVXYW	v
+zweigen/IVXY	v
+zwicken/DIXYW	v
+zwingen/DIXW	v
+zwinkern/DIXYW	v
+zwirbeln/DIXYW	v
+zwirnen/DIXY	v
+zwischenlagern/DIXY	v
+zwitschern/DIXYW	v
+zwa"ngen/DIXY	v
+za"hlen/BDIVXYW	v
+za"hmen/BDIXYW	v
+zo"ge/Z
+zo"gern/DIXYW	v
+zu"chten/DIXY	v
+zu"chtigen/DIXY	v
+zu"cken/DIVXYW	v
+zu"geln/DIXYW	v
+zu"ndeln/DIXYW	v
+zu"nden/DIXYW	v
+zu"ngeln/DIXY	v
+zu"rnen/DIXY	v
+a"chten/DIXY	v
+a"chzen/DIXY	v
+a"ffen/IXY	v
+a"hneln/DIXY	v
+a"ndern/BDIXY	v
+a"ngstigen/DIXY	v
+a"rgern/DIXY	v
+a"sen/DIXY	v
+a"tzen/DIXY	v
+a"ugen/DIXY	v
+a"usSern/DIVXY	v
+a"sSe/Z
+o"ffnen/DIXY	v
+o"len/DIXY	v
+u"ben/DIVXY	v
+u"beranstrengen/DIOXY	v
+u"berantworten/DIOXY	v
+u"berarbeiten/DIOXY	v
+u"berasS/Z
+u"berbelichten/DIOXY	v
+u"berbewerten/DIOXY	v
+u"berbieten/DIX	v
+u"berblenden/DIOXY	v
+u"berblicken/BDIOXY	v
+u"berbla"ttern/DIOXYW	v
+u"berboten/AWX	v
+u"berbracht/AZ	aa
+u"berbringen/DIX	v
+u"berbru"cken/BDIOXY	v
+u"berdauern/DIOXY	v
+u"berdecken/DIOXY	v
+u"berdenken/DIX	v
+u"bereignen/IOXYD	v
+u"bereilen/DIOXY	v
+u"bereinkommen/DIX	v
+u"bereinstimmen/DIXY	v
+u"bereinzustimmen
+u"beressen/IDA	v
+u"berfahren/ADI	v
+u"berfallen/ADI	v
+u"berfiel/ZE
+u"berfliegen/DIX	v
+u"berflog/Z
+u"berflogen/AWX	v
+u"berfluten/DIOXY	v
+u"berflu"geln/DIOXY	v
+u"berfordern/DIOXY	v
+u"berfrachten/DIOXY	v
+u"berfragen/DIXY	v
+u"berfuhr/Z
+u"berfa"hrt/X
+u"berfa"llt/X
+u"berfu"hren/BDIOXY	v
+u"berfu"llen/DIOXY	v
+u"bergab/Z
+u"bergeben/ADI	v
+u"bergehen/DIX	v
+u"bergibt/X
+u"berging/ZE
+u"bergossen/AWX	v
+u"bergreifen/DIX	v
+u"bergriff/Z
+u"berheben/DIX	v
+u"berhitzen/DIOXY	v
+u"berhoben/AWX	v
+u"berholen/DIOXY	v
+u"berha"ngen/DIOX	v
+u"berho"ren/BDIOXY	v
+u"berinterpretieren/DIOXY	v
+u"berkam/Z
+u"berkleben/DIOXY	v
+u"berkochen/DIXY	v
+u"berkommen/ADIX	v
+u"berlagern/DIOXY	v
+u"berlappen/IXYDO	v
+u"berlas/Z
+u"berlassen/ADI	v
+u"berlasten/DIOXY	v
+u"berlaufen/ADI	v
+u"berleben/DIOXY	v
+u"berlegen/ADIOXY	v
+u"berlesen/IDA	v
+u"berlief/ZE
+u"berliefern/DIOXY	v
+u"berliest
+u"berliesS/ZE
+u"berlisten/DIOXY	v
+u"berla"dt/X
+u"berla"sst
+u"berla"uft/X
+u"bermachen/DIOXY	v
+u"bermalen/DIOXY	v
+u"bermannen/DIOXY	v
+u"bermitteln/DIOXY	v
+u"bernachten/DIOXY	v
+u"bernahm/Z
+u"bernehmen/DI	v
+u"bernimmt/XW
+u"berna"hmen/IX	v
+u"berordnen/DIXY	v
+u"berpru"fen/BDIOXY	v
+u"berquellen/DI	v
+u"berqueren/DIOXY	v
+u"berquillt/X
+u"berquoll/Z
+u"berragen/DIOXY	v
+u"berrannt/AZ	aa
+u"berraschen/DIOXY	v
+u"berreagieren/DIOXYW	v
+u"berreden/DIOXY	v
+u"berreichen/DIOXY	v
+u"berrumpeln/DIOXY	v
+u"bersah/Z
+u"bersandt/AZ	aa
+u"berschauen/BDIOXY	v
+u"berschiesSen/DIX	v
+u"berschlafen/ADI	v
+u"berschlagen/ADI	v
+u"berschlief/Z
+u"berschlug/Z
+u"berschla"ft/X
+u"berschla"gt/X
+u"berschmieren/DIOXY	v
+u"berschneiden/DIX	v
+u"berschnitten/AWX	v
+u"berschreiten/DIX	v
+u"berschrieben/AWX	v
+u"berschritten/AWX	v
+u"berschulden/DIOXY	v
+u"berschwemmen/DIOXY	v
+u"berscha"tzen/DIOXY	v
+u"bersehen/ABDI	v
+u"bersenden/DIXY	v
+u"bersetzen/BDIOXY	v
+u"bersiedeln/DIOXY	v
+u"bersieht/X
+u"berspielen/DIOXY	v
+u"berspitzen/DIOXY	v
+u"bersprang/Z
+u"berspringen/DIX	v
+u"bersprudeln/DIXY	v
+u"berstanden/AWX	v
+u"berstehen/DIX	v
+u"bersteigen/DIX	v
+u"bersteigern/DIOXY	v
+u"berstellen/BDIXY	v
+u"berstiegen/AWX	v
+u"berstimmen/DIOXY	v
+u"berstrichen/AWX	v
+u"berstu"lpen/DIXY	v
+u"berstu"rzen/DIOXY	v
+u"bertraf/Z
+u"bertragen/ABDI	v
+u"bertrat/Z
+u"bertreffen/DI	v
+u"bertreiben/DIXW	v
+u"bertreten/ADI	v
+u"bertrieben/AWX	v
+u"bertrifft/X
+u"bertrittst/X
+u"bertrug/Z
+u"bertra"gt/X
+u"berto"lpeln/DIOXY	v
+u"berto"nen/DIOXY	v
+u"bervorteilen/DIOXY	v
+u"bervo"lkern/DIOXY	v
+u"berwachen/DIOXY	v
+u"berwand/Z
+u"berwechseln/IXY	v
+u"berweisen/DIX	v
+u"berwiegen/DIX	v
+u"berwiesen/AWX	v
+u"berwinden/DIX	v
+u"berwintern/DIOXY	v
+u"berwog/Z
+u"berwuchern/DIOXY	v
+u"berwa"ltigen/DIOXY	v
+u"berzeichnen/DIOXY	v
+u"berzeugen/BIOXY	v
+u"berziehen/DIXW	v
+u"berzogen/AWX	v
+u"berzugehen
+u"berzugreifen
+u"berzuwechseln
+u"brigbleiben/DIX	v
+u"brigblieb/ZE

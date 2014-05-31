@@ -1,0 +1,201 @@
+achteinhalb
+achthundert
+achthundertmal
+achttausend
+achtundachtzig
+achtundachtzigste/A	aa
+achtunddreisSig
+achtunddreisSigste/A	aa
+achtundfu"nfzig
+achtundfu"nfzigste/A	aa
+achtundneunzig
+achtundneunzigste/A	aa
+achtundsiebzig
+achtundsiebzigste/A	aa
+achtzehn
+achtzig/R
+drei/NP
+dreieinhalb
+dreier
+dreihundert
+dreihundertmal
+dreimal
+dreitausend
+dreiundachtzig
+dreiundachtzigste/A	aa
+dreiunddreisSig
+dreiunddreisSigste/A	aa
+dreiundfu"nfzig
+dreiundfu"nfzigste/A	aa
+dreiundneunzig
+dreiundneunzigste/A	aa
+dreiundsechzig
+dreiundsechzigste/A	aa
+dreiundsiebzig
+dreiundsiebzigste/A	aa
+dreiundvierzig
+dreiundvierzigste/A	aa
+dreiundzwanzig
+dreiundzwanzigste/A	aa
+dreiviertel
+dreizehn
+dreizehnmal
+dreisSig/R
+einhundert
+einundachtzig
+einundachtzigste/A	aa
+einunddreisSig
+einunddreisSigste/A	aa
+einundfu"nfzig
+einundfu"nfzigste/A	aa
+einundneunzig
+einundneunzigste/A	aa
+einundsechzig
+einundsechzigste/A	aa
+einundsiebzig
+einundsiebzigste/A	aa
+einundvierzig
+einundvierzigste/A	aa
+einundzwanzig
+einundzwanzigste/A	aa
+elf
+elfeinhalb
+elfhundert
+elfmal
+elftausend
+fu"nf
+fu"nfeinhalb
+fu"nfhundert
+fu"nfmal
+fu"nftausend
+fu"nftel
+fu"nfundachtzig
+fu"nfundachtzigste/A	aa
+fu"nfunddreisSig
+fu"nfunddreisSigste/A	aa
+fu"nfundfu"nfzig
+fu"nfundfu"nfzigste/A	aa
+fu"nfundneunzig
+fu"nfundneunzigste/A	aa
+fu"nfundsechzig
+fu"nfundsechzigste/A	aa
+fu"nfundsiebzig
+fu"nfundsiebzigste/A	aa
+fu"nfviertel
+fu"nfzehn
+fu"nfzig/R
+hundertmal
+hunderttausend/EP
+hundertzehn
+hundertzwanzig
+neun
+neunhundert
+neunmal
+neuntausend
+neunundachtzig
+neunundachtzigste/A	aa
+neununddreisSig
+neununddreisSigste/A	aa
+neunundfu"nfzig
+neunundfu"nfzigste/A	aa
+neunundneunzig
+neunundsechzig
+neunundsechzigste/A	aa
+neunundsiebzig
+neunundsiebzigste/A	aa
+neunundvierzig
+neunundvierzigste/A	aa
+neunundzwanzig
+neunundzwanzigste/A	aa
+neunzehn
+neunzehnmal
+neunzig/R
+sechs
+sechseinhalb
+sechshundert
+sechsmal
+sechsundachtzig
+sechsundachtzigste/A	aa
+sechsunddreisSig
+sechsunddreisSigste/A	aa
+sechsundfu"nfzig
+sechsundfu"nfzigste/A	aa
+sechsundneunzig
+sechsundneunzigste/A	aa
+sechsundsechzig
+sechsundsechzigste/A	aa
+sechsundsiebzig
+sechsundsiebzigste/A	aa
+sechzehn
+sechzig/R
+siebeneinhalb
+siebenhundert
+siebenmal
+siebenundachtzig
+siebenundachtzigste/A	aa
+siebenunddreisSig
+siebenunddreisSigste/A	aa
+siebenundfu"nfzig
+siebenundfu"nfzigste/A	aa
+siebenundneunzig
+siebenundneunzigste/A	aa
+siebenundsechzig
+siebenundsechzigste/A	aa
+siebenundsiebzig
+siebenundsiebzigste/A	aa
+siebenundvierzig
+siebenundvierzigste/A	aa
+siebzehn
+siebzig/R
+tausendmal
+vier
+viereinhalb
+vierhundert
+viermal
+viertausend
+vierundachtzig
+vierundachtzigste/A	aa
+vierunddreisSig
+vierunddreisSigste/A	aa
+vierundfu"nfzig
+vierundfu"nfzigste/A	aa
+vierundneunzig
+vierundneunzigste/A	aa
+vierundsechzig
+vierundsechzigste/A	aa
+vierundsiebzig
+vierundsiebzigste/A	aa
+vierundvierzig
+vierundvierzigste/A	aa
+vierundzwanzig
+vierundzwanzigste/A	aa
+vierzehn
+vierzig/R
+zehnmal
+zwei
+zweieinhalb
+zweier
+zweihundert
+zweimal
+zweitausend
+zweiundachtzig
+zweiundachtzigste/A	aa
+zweiunddreisSig
+zweiunddreisSigste/A	aa
+zweiunddreisSigstel
+zweiundfu"nfzig
+zweiundfu"nfzigste/A	aa
+zweiundneunzig
+zweiundneunzigste/A	aa
+zweiundsechzig
+zweiundsechzigste/A	aa
+zweiundsiebzig
+zweiundsiebzigste/A	aa
+zweiundvierzig
+zweiundvierzigste/A	aa
+zweiundzwanzig
+zweiundzwanzigste/A	aa
+zwo"lf
+zwo"lfhundert
+zwo"lfmal
+zwo"lftausend

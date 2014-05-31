@@ -1,0 +1,4 @@
+haber/NSF	n
+losigkeit/P	n+f
+nahme/N		n
+rechtler/NSF	n+m

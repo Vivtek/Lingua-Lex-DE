@@ -1,0 +1,739 @@
+Abi/S	n
+Absahner/FNS	n
+Achter/NS	n
+Adebar/S	n
+Anamnese/N	n
+Andra"ngen/S	n
+Angedenken/S	n
+Ankick	n
+Archenholz/T	n
+Argonaut/P	n
+Armagnac	n
+Arsch/T	n
+Atlant	n
+Auffindbarkeit/UP	n
+Aufsuchen/SJ	n
+Aufwurf/ST	n
+Ausgesetztheit/P	n
+Auszeit	n
+Autograph/P	n
+Azur	n
+Bai/P	n
+Bakschisch	n
+Bambi	n
+Bangema"nner	n
+Batist/ET	n
+Benu"tzer/NSF	n
+Beo/S	n
+Beschiss	n
+Birnbaum/ST	n
+Blinker	n
+Blo"dmann/S	n
+Blo"dma"nner/N	n
+Bolero	n
+Bolognese	n
+Bolschewik/P	n
+Bolschewiki	n
+Bongo	n
+Bonieren	n
+Boogie	n
+Brummer/S	n
+Bulldog	n
+Ba"lde	n
+Ba"nker/NS	n
+Bu"chlein/S	n
+Camion	n
+Carotinoid/EPS	n
+Cinemascope	n
+Circus	n
+Civil	n
+Coautor	n
+Commune	n
+Couleur	n
+Couture	n
+Crimpen	n
+Cunnilingus	n
+Dankescho"n/S	n
+Depp/SP	n
+Dichotomie/N	n
+Donnergang	n
+Dusel/S	n
+Dusseligkeit/P	n
+Dussligkeit/P	n
+Dutt/ESPT	n
+Da"monie/N	n
+Do"ner/SN	n
+Economyklasse	n
+Erdenken	n
+Estrade/N	n
+Euda"monie	n
+Fellatio	n
+Ficker/SNFn	n
+Fiesling/SEP	n
+Fimmel/S	n
+Fixer/SNF	n
+Flicker/FNS	n
+Flickerei/P	n
+Fluid	n
+Flunkerei/P	n
+Fopperei/P	n
+Fotze/Nn	n
+Fresser/SNF	n
+Fummelei/P	n
+Futurologie	n
+Fu"sSchen/S	n
+Gabler/NS	n
+Gaudeamus	n
+Gaumeister/NSF	n
+Geklatsche/S	n
+Gekro"se/S	n
+Gelass/TE	n
+Geleis/EPT	n
+Geplauder/S	n
+Geraffel/S	n
+Geru"lpse/S	n
+Gestelltsein/S	n
+Gesa"usel/S	n
+Gipser/NSF	n
+Glotzkiste	n
+Glo"ckchen/S	n
+Ga"sschen/S	n
+Go"re/N	n
+Hansdampf	n
+Hanswurst/ESTP	n
+Hasardeur/SEPF	n
+Hauruck	n
+Headhunter	n
+Herrjemine	n
+Hesperiden	n
+Hethiter/NSF	n
+Hethiterreich/ST	n
+Hi/n	n
+Historismus	n
+Hydrophon	n
+Ha"rterei	n
+Insertion	n
+Inszenator	n
+Jakobiner/NSF	n
+Juliusturm	n
+Jumbo/S	n
+Jungens	n
+Jungenschaft	n
+Juras	n
+Ja"hrchen/S	n
+Kaff/S	n
+Kasko	n
+Kicker	n
+Kir/S	n
+Kittchen	n
+Klo/S	n
+Kloppe	n
+Klops	n
+Knacker	n
+Knatterton	n
+Knauser	n
+Kna"ste/N	n
+Kochereien	n
+Komo"dchen/S	n
+Krakeeler/S	n
+Krauler	n
+Kraxelei/P	n
+Kru"mchen/S	n
+Kupee	n
+Kursor	n
+Ko"ter/NS	n
+Lader	n
+Lateiner	n
+Latwerge/N	n
+Lotos	n
+La"ndler	n
+Macker	n
+Maraschino/S	n
+Mazurka	n
+Media	n
+Memo	n
+Merowinger/NSF	n
+Metropolis	n
+Mieze/N	n
+Military	n
+Millio"nchen	n
+Mistigkeit/P	n
+Mistvieh	n
+Moire'	n
+Moneten	n
+Mordio	n
+Motocross	n
+Murks	n
+Murksbehebung/P	n
+Muschi/S	n
+Mutti	n
+Ma"rkchen/S	n
+Ma"rker	n
+Mo"pse	n
+Narzissmus	n
+Nepper/SN	n
+Nonplusultra	n
+Nutte/Nn	n
+Paella	n
+Palais	n
+Pamphletist/P	n
+Papi	n
+Penthouse	n
+Periodizita"t	n
+Perpetuum	n
+Pfister	n
+Philister/FNS	n
+Pho"nix	n
+Pimmel/SNn	n
+Piquet	n
+Pisser	n
+Pla"tte	n
+Polente	n
+Polis	n
+Pommes	n
+Pratze/N	n
+Promoter/N	n
+Psalter/S	n
+Pulle/N	n
+Pulli/S	n
+Put/S	n
+Quacksalber/SNF	n
+Ratsche	n
+Raudi	n
+Redigierung	n
+Rekognoszierung	n
+Ries/ET	n
+Rotznase/N	n
+ScheisSkerl/EPS	n
+Schi/S	n
+Schmankerl/NS	n
+Schmerbauch/ST	n
+Schmerba"uche/N	n
+Schnorrer/NSF	n
+Schnorrerei	n
+Schnorrertum	n
+Schussel/S	n
+Schwanensee	n
+Schwinger/NS	n
+Sensitivita"t	n
+Seppel	n
+Sergeant/PS	n
+Shogun	n
+Siesta	n
+Skanda"lchen/S	n
+Sohnemann	n
+Spengler/N	n
+Spenglermeister/NS	n
+Stalinisierung	n
+Steganografie	n
+Steganographie	n
+Stephanstag	n
+Stimmer/NS	n
+Stuckateur/ESF	n
+Stunk/S	n
+Sta"nker/S	n
+Sta"nkerei/P	n
+Superiorita"t	n
+Sushi	n
+Sylphe/N	n
+Sylphide/N	n
+Su"ppchen/S	n
+Tabulatur	n
+Tagbau	n
+Tagbauten	n
+Tagblatt/S	n
+Tagbla"tter/N	n
+Tapisserieware/N	n
+Tarantella	n
+Telegraphist/FP	n
+Torero/S	n
+Traktion	n
+Tycoon	n
+Umwohner/NS	n
+Valpolicella	n
+Vati/S	n
+Video/S	n
+Viecher/N	n
+Viktualien	n
+Vize	n
+Vorderpratze/N	n
+Wackler	n
+Werder/S	n
+Wichse/R	n
+Wichserei/P	n
+Wolkenkuckucksland/S	n
+Wolkenkuckucksla"nder/N	n
+Zarewitsch	n
+Zuwenig/n	n
+abbat/Z
+abbetteln/IXYD	v
+abbitten/IX	v
+abdru"cken/IXYD	v
+abfackeln/DIXY	v
+abgebettelt/A	aa
+abgehebelt/A	aa
+abgeordnet/A	aa
+abgesahnt/A	aa
+abgeschritten/A	aa
+abgespiegelt/A	aa
+abgesteppt/A	aa
+abgestottert/A	aa
+abgestrichen/A	aa
+abgezinst/A	aa
+abpatrouillieren/IX	v
+abspiegeln/IXYD	v
+ach
+achtstrahlig/A	aa
+additional/A	aa
+ade
+adieu
+ahoi
+alldieweil
+allegro
+allerwa"rts
+allwo
+allzweck
+amten/IX	v
+amusisch/A	aa
+anschnalzen
+antibritisch/A	aa
+antikirchlich/A	aa
+antilandwirtschaftlich/A	aa
+antimarxistisch/A	aa
+antirachitisch/A	aa
+antisowjetisch/A	aa
+antisozial/A	aa
+antisozialistisch/A	aa
+anzeigentechnisch/A	aa
+apriorisch/A	aa
+areligio"s/A	aa
+armlos/A	aa
+atemberaubend/A	aa
+au
+aufbiegen/IX	v
+aufgemotzt/A	aa
+aufschlitzen/IXY	v
+augenlos/A	aa
+ausbaueigen/A	aa
+ausbaulokal/A	aa
+ausgelobt/A	aa
+ausloben/DIXY	v
+ausschwingen/IX	v
+auszupolieren/D
+automatenfreundlich/A	aa
+ballettma"sSig/A	aa
+bananenrepublikanisch/A	aa
+bankma"sSig/A	aa
+basal/A	aa
+bekloppt/A	aa
+beknackt/A	aa
+beschosst/A	aa
+betatschen/IOXY	v
+betriebsextern/A	aa
+betriebsnah/A	aa
+bifilar
+billigerweise
+bittescho"n
+bizonal
+blaugemacht
+blaumetallic
+blicklos
+bombig/A	aa
+bonita"tsfo"rdernd/A	aa
+brechungsartig/A	aa
+buk/Z
+bumsfidel
+burlesk/A	aa
+busartige
+bu"hnengewandt/A	aa
+bu"hnenhaft/A	aa
+bu"hnenkundiger
+choreographieren/DIOXY	v
+dackeln/IXY	v
+dauergeleuchtet
+dazugesagt/A	aa
+deindustrialisieren/DIOXY	v
+delphisch/A	aa
+denka"hnliche
+deppern/DIXYO	v
+dieweil
+dispers/A	aa
+domartig
+durchbacken
+durchgelutscht
+durchgesucht/A	aa
+durchgevo"gelt/An	aa
+durchgewandert/A	aa
+durchgewu"hlt/A	aa
+durchkonstruierte
+durchvo"geln/DIXYn	v
+dusslig/AC	aa
+eigeninitiatives
+einstosSen/ID	v
+elisabethanisch/A	aa
+endlagenabha"ngig
+energietechnisch/A	aa
+entleibt/A	aa
+entspinnen/IXD	v
+epistemologisch
+erdschlusssicher
+ergaunern/WDIOXY	v
+erstammte
+erzengelhaft/A	aa
+eschatologisch/A	aa
+etymologisch/A	aa
+exilpolnisch/A	aa
+exilungarisch/A	aa
+fakirhaft/A	aa
+farbgraphisch/A	aa
+ficken/DIXYWn	v
+flankte
+fleucht
+florettartig/A	aa
+fla"zen/DIXYW	v
+franko
+freudevoll/A	aa
+frottieren/IXYO	v
+frotzelte
+fru"hminoisch/A	aa
+futsch
+fusSballerisch/A	aa
+fo"hnig
+fu"glich
+gangsterhaft/A	aa
+garni
+gaukeln/DIXYW	v
+gebuddelt
+gedoktort
+gedrahtet
+gefickt/An	aa
+gefixt
+gefoppt/A	aa
+gehascht
+gehievt
+gekaudert/A	aa
+gekloppt
+geklo"nt
+gekritzelt
+gelatscht
+gelyncht/A	aa
+gemanagt/A	aa
+genippt
+gentechnologisch/A	aa
+geophysikalisch/A	aa
+gepatzt
+gepurzelt/A	aa
+geringpreisig/A	aa
+gesamtaktiv/A	aa
+gesamtkoreanisch/A	aa
+gesamtskandinavisch/A	aa
+geschlurft
+geschwabbelt
+geschwa"nzelt
+gescha"ftslos
+geschu"rzt
+gesu"ffelt
+getextet/A	aa
+getu"ttelt/A	aa
+gevo"gelt/An	aa
+gezahnt/A	aa
+glamouro"s/A	aa
+gleicher/A	aa
+gleichspannungsma"sSig
+gouvernantenhaft/A	aa
+grenzprovokatorisch/A	aa
+halbschlau/A	aa
+happig/A	aa
+heldisch/A	aa
+herabgezogene
+herabsacken/IXY	v
+herausgefo"rdert/A	aa
+herausgestoppt/A	aa
+herumknattern/IXY	v
+herumkreuzen/IXY	v
+herumprobieren/DIXY	v
+herumticken/DIXY	v
+herumwirtschaften/IXY	v
+heruntergeladen/A	aa
+herunterhu"pft
+herunterladen/I	v
+herunterla"dt/X
+herunterpoltern/DIXY	v
+herunterriss/Z
+herunterzuladen/D
+hervorgesagt/A	aa
+heuer
+hienieden
+hieven/DIXYW	v
+hinfort
+hochalpin/A	aa
+hochamtlich/A	aa
+hochgepa"ppelt/A	aa
+hochgerutscht/A	aa
+hochperformant/A	aa
+hochperso"nlich/A	aa
+hochspekulativ/A	aa
+hochwu"rdig/A	aa
+homoerotisch/A	aa
+hordenweise
+hotelma"sSiger
+huren/DIXY	v
+hyperelegant/A	aa
+illuster/A	aa
+imaginativ/A	aa
+improvisatorisch/A	aa
+inaktivieren/IXYDO	v
+indefinit/A	aa
+innerrussisch/A	aa
+insektenfo"rmig/A	aa
+inszenatorisch/A	aa
+intellektualistisch/A	aa
+intraspezifisch/A	aa
+intus
+irden/A	aa
+juryfrei/A	aa
+kabelgerecht/A	aa
+kanzeln/IXY	v
+kapieren/DIOXYW	v
+karambolieren/DIOXY	v
+kaudern/DIXY	v
+kerben/DIXY	v
+klapperfrei/A	aa
+klarerweise
+knallfroschartig/A	aa
+knickerig/A	aa
+knickrig/A	aa
+knieweich/A	aa
+kodifizieren/IXYDO	v
+kofferweise
+konnotativ/A	aa
+kontrastieren/DIXYW	v
+konzertant/A	aa
+krausen/DIXY	v
+kriseln/D
+kriselt/E
+kristallisationsfest/A	aa
+kritzeln/IXY	v
+kru"pplig/AC	aa
+kujonieren/DIOXYW	v
+kullern/IXY	v
+kultisch/A	aa
+lasergedruckt/A	aa
+leibt
+letztgeliefert/A	aa
+letztha"ndig/A	aa
+liften/IX	v
+linksunabha"ngig/A	aa
+losrollen/IXY	v
+luftfo"rmig/A	aa
+lugen/DIXYn	v
+la"nderma"sSig/A	aa
+markenpflichtig/A	aa
+markgra"flich/A	aa
+maschinenbezogen/A	aa
+maschinenfertig/A	aa
+maschinenma"sSig/A	aa
+maschinenzugeho"rig/A	aa
+maskenorganisiert/A	aa
+minimalisieren/IXYDO	v
+mistig/A	aa
+mitangesehen/A	aa
+mitgedruckt
+mitgesteuert
+mitspringen/IXD	v
+mittelflach/A	aa
+mittelklassig/A	aa
+mittelminoisch/A	aa
+mittelmykenisch/A	aa
+ma"andrieren/DIOXY	v
+nachbestu"ckt/A	aa
+nachgebla"ttert
+nachgeleiert/A	aa
+nachgeredet/A	aa
+nachreformatorisch/A	aa
+nadelgestreift/A	aa
+naturherstellend/A	aa
+neonazistisch/A	aa
+neuestens
+neustens
+nichtberechtigt/A	aa
+nichtbesta"tigt/A	aa
+nichtchristlich/A	aa
+nichteisenhaltig/A	aa
+nichteuropa"isch/A	aa
+nichtjapanisch/A	aa
+nichtklassisch/A	aa
+nichtrussisch/A	aa
+nichtweisS/A	aa
+niet
+nonkonformistisch/A	aa
+nonstop
+norme
+nummerisch/A	aa
+nummern/DIXY	v
+na"chst
+offenbarlich/A	aa
+oh
+oho
+okay
+paletti
+panarabisch/A	aa
+pauken/IXY	v
+peu
+pfriemeln
+pianissimo
+piano
+platsch
+polyzentrisch/A	aa
+preisbrechen/D
+proppenvoll/A	aa
+prost
+psychomotorisch/A	aa
+punisch/A	aa
+purzeln/DIXY	v
+putzmunter/A	aa
+quatschig/A	aa
+ran
+rapple
+ratzekahl
+raus
+rechen/IXYD	v
+rechtsga"ngig/A	aa
+referentiell/A	aa
+referenziell/A	aa
+refinanzieren/DIOXY	v
+reservepflichtig/A	aa
+reststa"ndig/A	aa
+rockig/A	aa
+rumlag/Z
+rumliegen/DIX	v
+rummachen/IXYD	v
+rumprobieren/DIXY	v
+rumspielen/IXYD	v
+runter
+sanguinisch/A	aa
+sapperlot
+saublo"d/A	aa
+sauerer
+sauerto"pfisch/A	aa
+schlabberig/A	aa
+schlabbern/DIXYW	v
+schlagwettergefa"hrdet/A	aa
+schmuck/AC	aa
+schnickschnacklos/A	aa
+schnuckelig/A	aa
+schrillen/DIXY	v
+schubkarrenweise
+schwuppdiwupp
+seema"sSig/A	aa
+selbstevident/A	aa
+semilegal/A	aa
+sendekopfseitig/A	aa
+sicherheitsgerichtet/A	aa
+silbermetallic
+situativ/A	aa
+soft/A	aa
+sonder
+sonnenu"bergla"nzt/A	aa
+soundso
+soundsoviel
+soziodemografisch/A	aa
+spezial/A	aa
+spielfrei/A	aa
+sprayen/IXYD	v
+spa"tminoisch/A	aa
+spa"tmykenisch/A	aa
+staatsklug/A	aa
+stempeldruckabha"ngig/A	aa
+sternhagelvoll/A	aa
+strebweit/A	aa
+stromlos/A	aa
+strukturbasiert/A	aa
+stro"mungsproportional/A	aa
+sto"rfrei/A	aa
+subsequent/A	aa
+super
+superspezialisiert/A	aa
+syphilitisch/A	aa
+su"ndenfa"llig/A	aa
+taschenrechnergewandt/A	aa
+technologieinduziert/A	aa
+textlinguistisch/A	aa
+tiefladbar/A	aa
+tiefzuladen/P
+trecken/DIXY	v
+tschu"s
+tschu"ss
+tumultuarisch/A	aa
+tuntig/A	aa
+ubiquita"r/A	aa
+ungetrimmt/A	aa
+unintellektuell/A	aa
+unipolar/A	aa
+universalistisch/A	aa
+unvirtuos/AC	aa
+utopistisch/A	aa
+verabsa"umen/IXYDO	v
+verbauern/DIOXY	v
+verbiestern/IOXY	v
+verdaten/IXYDO	v
+verdattern/DIOXY	v
+verderbt/A	aa
+verdolmetschen/DIOXY	v
+verdreckt/A	aa
+verfressen/A	aa
+verglomm
+verkippt
+verknallen/DIOXY	v
+verlachen/DIOXY	v
+verla"stern/DIOXY	v
+verprivatisieren/IXYDO	v
+verquast/A	aa
+verschrumpeln/DIOXYW	v
+versta"ndnisinnig/A	aa
+verza"rteln/DIOXY	v
+visitieren/DIOXY	v
+volatil/AC	aa
+volksverdummte/A	aa
+vorbeiflimmernd/A	aa
+vorgaukeln/DIXY	v
+vorgeredet/A	aa
+vorgerichtet
+vorm
+vorolympisch/A	aa
+vo"geln/DIXYWn	v
+wahrhaben/D
+ward
+wegbefo"rderte
+wegfo"hnen/IXYD	v
+weggeredet
+wegreden
+weltumkrempelnd/A	aa
+wursteln/DIXY	v
+wuseln/DIXYW	v
+zappenduster
+zerspanen/DIOXY	v
+zigtausend/E
+zinsesverzinst
+zirkeln/DIXY	v
+zischeln/DIXY	v
+zoomen/IXYDW	v
+zornfunkelnd/A	aa
+zudrucken/IXYD	v
+zuhanden
+zukneifen/DIX	v
+zuknu"pfen/IXYD	v
+zukorken/DIXY	v
+zulo"ten/BDIXY	v
+zunageln/D
+zupass/E
+zusiegeln/DIXY	v
+zwanzigerlei
+zwo"lferlei
+A"gide	n
+A"ugelchen/S	n
+a"tsch
+o"ffenbar/nA	aa
+u"berbegabt/A	aa
+u"berhin
+u"berza"hlen/IXYDO	v

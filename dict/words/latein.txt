@@ -1,0 +1,59 @@
+Errata	n
+Erratum/S	n
+Filius	n
+Indikativ/SEP	n
+Insignien	n
+Laudatio	n
+Letter/NS	n
+Numerus	n
+Plusquamperfekt/SEP	n
+Procedere	n
+Prozedere	n
+Pra"sens	n
+Pra"terita	n
+Pra"teritum/S	n
+Tabula	n
+Termini	n
+Terminus	n
+Usus	n
+absurdum
+acta
+ad
+anno
+cetera
+circa
+clausus
+cum
+de
+definitionem
+domini
+dubio
+eo
+ergo
+et
+ex
+expressis
+facto
+forma
+hoc
+ipso
+jure
+laude
+natura
+posteriori
+priori
+pro
+puncto
+rasa
+ratio
+realiter
+spe
+summa
+ultima
+unisono
+verbis
+versa
+versus
+via
+vice
+vivendi

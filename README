@@ -1,0 +1,20 @@
+Lingua-Lex-DE
+
+Lingua-Lex-DE
+
+This subclass of Lingua::Lex includes a full (but still very immature) lexicon for
+the German language. It can be used for spell checking, POS tagging, and feeding
+into a parser.
+
+The current state of affairs is very raw; I used the igerman98 spell checker for
+an initial vocabulary and morphological rules, and hope to firm things up going
+forward. As a result, the part-of-speech information is very incomplete and
+so are the morphological rules. So use it with the caveat that it's going to
+fail to recognize a lot of words, and could very well give you wrong information
+about many others.
+
+It should get better over time. Help would naturally be welcome.
+
+During installation, the dictionary is installed to a module shared directory;
+if possible, it also attempts to build the working database there for ease of
+use.

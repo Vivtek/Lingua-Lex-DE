@@ -1,0 +1,195 @@
+# ------------------ nouns ----------------------------
+H: -heit
+aa	.	.	heit	n+f	P
+
+K: -keit
+aa	.	.	keit	n+f	P
+
+M: diminutive -chen, -l (Austrian), -le (southern)
+n	[^sSe]	.	chen	+n	S
+n	[^sSe]	.	l	+n+AT	S
+n	[^sSe]	.	le	+n+S	.
+n	[^sSe]	.	ls	+n+gen+S	.
+n	.	ase	a"schen	+n	S
+n	.	ose	o"schen	+n	S
+n	.	use	u"schen	+n	S
+n	.	asSe	a"sSchen	+n	S
+n	.	osSe	o"sSchen	+n	S
+n	.	usSe	u"sSchen	+n	S
+
+L: -lich
+n	n	.	tlich	aa	AC
+n	[^n]	.	lich	aa	AC
+
+F: feminine, also ph/f spelling variant for words ending in -ph
+n	.	e	in	+f	p
+n	[^i]n	.	in	+f	p
+n	[^i]rer	.	in	+f	p
+n	r	.	in	+f	p
+n	rer	er	in	+f	p
+
+n	.	ph	f	.	P
+
+n: plural dative, also weird ones like Planet->Planeten
+n	[^stn]	.	n	+dat	.
+n	[stn]	.	en	+dat	.
+
+E: e-plurals
+n	.	.	e	+p	n
+
+N: n-plurals
+n	.	.	n	+p	.
+
+P: en-plurals
+n	in	.	nen	+p	.
+n	.	.	en	+p	.
+
+R: r-plurals
+n	[^e]	.	er	+p	n
+
+p: irregular umlauted vowel plurals
+n	.	auf	a"ufe	+p	n
+n	.	haus	ha"use	+p	n
+n	.	markt	ma"rkte	+p	n
+n	.	ang	a"ng	+p	n
+n	.	usS	u"sSe	+p	n
+n	.	osS	o"sSe	+p	n
+n	.	aum	a"ume	+p	n
+n	.	ag	a"ge	+p	n
+n	.	ug	a"ge	+p	n
+n	.	and	a"nde	+p	n
+n	.	all	a"lle	+p	n
+n	.	ass	a"sse	+p	n
+n	.	uss	u"sse	+p	n
+
+S: S-plural or regular genitive (todo: this is probably bad)
+n	.	.	s	+p/gen	.
+
+q: feminine -is nouns
+n	.	s	sse	+p	n
+
+Q: -is nouns
+n	.	s	sse	+p	n
+n	.	s	sses	+gen	n
+
+T: -es genitive
+n	.	.	es	+gen	n
+
+J: special-case e.g. Drossel -> Drosseln
+n	el		.	en	v	JIXY
+
+
+# ------------------------------ adjectives ---------------------------
+a: adjective declination
+aa	e	.	r	aa+m	.
+aa	e	.	n	aa+p	.
+aa	e	.	m	aa+p+dat	.
+aa	e	.	s	aa+p+gen	.
+
+A: adjective stem changes
+aa	e			.	.	.	a
+aa	[^elr]			.	e	aa	a
+aa	[^e][rl]		.	e	aa	a
+aa	[^u]er			.	e	aa	a
+aa	u			er	re	.	a
+aa	[eil]el			.	e	aa	a
+aa	[^eil]			el	le	.	a
+aa	[^aeiouhlra"u"o"]	lig	elig	.	A
+aa	[^hi]			erig	rig	.	A
+
+C: comparative/superlative
+aa	[^elr]			.	er	+c	A
+aa	e			.	r	+c	A
+aa	[^e][lr]		.	er	+c	A
+aa	.			el	ler	+c	A
+aa	u			er	rer	+c	A
+aa	[^u]er			.	er	+c	A
+aa	[^aeiouhlra"u"o"]	lig	eliger	+c	A
+aa	[^hi]			erig	riger	+c	A
+
+aa	[ksSsuxz]		.	est	+s	A
+aa	et			.	st	+s	A
+aa	[^e]t			.	est	+s	A
+aa	[^dksSstxz]		.	st	+s	A
+aa	nd			.	st	+s	A
+aa	[^n]d			.	est	+s	A
+aa	[^aeiouhlra"u"o"]	lig	eligst	+s	A
+aa	[^hi]			erig	rigst	+s	A
+
+
+# ------------------------------ verbs ---------------------------------------
+J: -ung
+v	[bgkpsSsz]el	n	ung	n+f	P
+v	.		eln	lung	n+f	P
+v	er		n	ung	n+f	P
+v	.		en	ung	n+f	P
+v	[^n]		.	ung	n+f	P
+
+B: -bar
+v	e[lr]	n	bar	aa	AC
+v	.	en	bar	aa	AC
+
+D: -d (present participle)
+V	n	.	d	pp	AC
+
+W: imperative endings - these are weird and maybe the wrong way to do this
+v	.	en	.	+imp	.
+v	[^e]	n	.	+imp	.
+v	.	st	.	+imp	.
+v	[^s]	t	.	+imp	.
+
+I: present tense ich forms
+v	e	n	.	+1s	.
+v	.	eln	le	+1s	.
+v	el	n	e	+1s	.
+v	.	ern	re	+1s	.
+v	er	n	e	+1s	.
+
+I: present tense ihr forms
+v	e[lr]		n	t	+2p/3s	.
+v	[dt]e		n	t	+2p/3s	.
+v	[^dimnt]	en	t	+2p/3s	.
+v	ei		en	t	+2p/3s	.
+v	[^e]ie		n	t	+2p/3s	.
+
+v	chne		n	t	+2p/3s	.
+v	[^c]h[mn]	en	t	+2p	.
+
+v	[^aa"ehilmnoo"uu"r][mn]e	n	t	.	.
+v	[aa"ehilmnoo"uu"r][mn]		en	t	.	.
+
+v	u	n	e	+1s	.
+v	u	n	t	+3s	.
+
+X: more present tense
+v	e[lr]	n	t	+3s	.
+v	[dtw]e	n	t	+3s	.
+v	ei	en	t	+3s
+v	eie	n	t	+2p/3s+OLD	.
+v	[^e]ie	n	t	.	.
+v	[^ditmnw]	en	t	+2p/3s	.
+v	chne	n	t	+2p/3s	.
+v	[^c]h[mn]	en	t	+2p/3s	.
+
+v	[^aa"ehilmnoo"uu"r][mn]e	n	t	.	.
+v	[aa"ehilmnoo"uu"r][mn]		en	t	.	.
+
+v	[bfghklmnprssSvx]e	n	t	+imp/2p+OLD	.
+
+v	u	n	e	+1s	.
+v	u	n	t	+3s	.
+v	u	n	et	+2p+OLD	.
+
+v	e[lr]	n	st	+2s	.
+v	[dwt]e	n	st	+2s	.
+v	[^dimnsSstwzx]	en	st	+2s	.
+v	chne	n	st	+2s	.
+v	[^c]h[mn]	en	st	+2s	.
+v	u	n	st	+2s	.
+
+v	[sSsxz]e	n	st	+2s	.
+v	sche	n	st	+2s	.
+v	[^sz]	t	st	+2s	.
+v	z	t	est	+2s	.
+
+Y: past tense
