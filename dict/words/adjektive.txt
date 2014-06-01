@@ -4529,7 +4529,7 @@ gewacht/A	aa
 gewackelt/A	aa
 gewaffnet/A	aa
 gewagt/AC	aa
-gewahrt/AW	aa
+gewahrt/A	aa
 gewallt/A	aa
 gewaltig/AC	aa
 gewaltlos/A	aa
@@ -6869,7 +6869,6 @@ objektiv/AC	aa
 obligat/A	aa
 obligatorisch/A	aa
 obrigkeitlich/A	aa
-observieren/DIOXYW	v
 obsessiv/AC	aa
 obskur/A	aa
 obsolet/A	aa
