@@ -34,6 +34,20 @@ for others who want to develop purpose-specific or language-specific lexica.
 For now, though, Lingua::Lex::DE doesn't actually do I<anything> except be Lingua::Lex with a more specific name,
 a default lexical source directory, and a distribution that permits separate testing of its lexical rules.
 
+Since everything (including the data location) defaults out to reasonable values, you can probably use it just like this:
+
+   use Lingua::Lex::DE;
+
+   my $lex = Lingua::Lex::DE->new();
+   my $tok = $lex->word('unangenehm');
+   # $tok is now ['aa', 'unangenehm', 'un+angenehm']
+
+The first time you call the module, it will build the database for live lookup. On my machine, this takes about ten minutes -
+the basic lexicon contains over 83,400 root words, so it's just plain a massive amount of data.
+
+(As a result, testing is disabled for CPANtesters. That's a lot to ask of anonymous testing platforms. So if there are
+some platform incompatibilities, please tell me.)
+
 =head1 DEFAULT OVERRIDES
 
 =head2 default_filename
