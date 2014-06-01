@@ -1940,7 +1940,8 @@ bechern/DIXY	v
 bedachte/Z
 bedampfen/BDIOXYW	v
 bedanken/DIXY	v
-bedarfst/W
+bedarfst	v
+bedarf/Z	v
 bedauern/DIOXY	v
 bedecken/DIOXY	v
 bedenken/DIX	v
@@ -2004,7 +2005,8 @@ begegnen/DIXY	v
 begehen/DIX	v
 begehren/DIXY	v
 begeistern/DIOXY	v
-begibt/XW
+begibt/X	v
+begib/Z	v
 begiesSen/DIX	v
 beging/ZE
 beginnen/DIXW	v
@@ -2422,8 +2424,9 @@ bewerkstelligen/DIXY	v
 bewerten/BDIOXY	v
 bewies/ZE
 bewilligen/DIOXY	v
-bewirbt/X
-bewirft/XW
+bewirbt/X	v
+bewirft/X	v
+bewirf	v
 bewirken/DIOXY	v
 bewirten/DIOXY	v
 bewirtschaften/DIOXY	v
@@ -2457,9 +2460,10 @@ bilanzieren/DIOXY	v
 bilden/DIXY	v
 billigen/DIVXY	v
 bimmeln/DIXY	v
-bin
+bin	vis
 binden/DIVXW	v
-birgt/VXW
+birgt/VX	v
+birg/Z	v
 biss/VZ
 bist
 bitten/DIVX	v
@@ -2519,7 +2523,8 @@ breittreten/DI	v
 breitzutreten/D
 bremsen/BDIXY	v
 brennen/BDIVX	v
-bricht/VXW
+bricht/VX	v
+brich/Z	v
 briet/Z
 bringen/DIVXW	v
 brodeln/DIXY	v
@@ -2613,7 +2618,8 @@ darben/DIXY	v
 darbieten/DIX	v
 darbot/Z
 darbringen/DIX	v
-darfst/W
+darfst	v
+darf	v
 dargetan
 darlegen/DIXY	v
 darreichen/DIXY	v
@@ -3625,7 +3631,8 @@ entwich/ZE
 entwichen/AWX	v
 entwickeln/BDIOXY	v
 entwinden/DIX	v
-entwirft/XW
+entwirft/X	v
+entwirf/Z	v
 entwirren/DIOXY	v
 entwischen/DIOXY	v
 entwurzeln/DIOXY	v
@@ -3889,8 +3896,9 @@ erweisen/DIX	v
 erweitern/BDIOXY	v
 erwerben/BDI	v
 erwidern/DIOXY	v
-erwies/ZE
-erwirbt/XW
+erwies/ZE	v
+erwirbt/X	v
+erwirb/Z	v
 erwirken/DIOXY	v
 erwirtschaften/DIOXY	v
 erwischen/DIOXY	v
@@ -4057,7 +4065,8 @@ flehen/DIXY	v
 flektieren/BDIOXYW	v
 flennen/DIXY	v
 fletschen/DIXY	v
-flichtst/VW
+flichtst/V	v
+flicht/Z	v
 flicken/DIXY	v
 fliegen/DIVXW	v
 fliehen/DIXW	v
@@ -4071,18 +4080,18 @@ flocken/DIXY	v
 flog/VZ
 floh/Z
 florieren/DIXY	v
-floss/VZ
+floss/VZ	v
 flottmachen/DIXY	v
-flottzumachen/D
+flottzumachen/D	v
 fluchen/DIVXY	v
 fluktuieren/DIXY	v
 flunkern/DIXY	v
 fluoreszieren/DIXY	v
 fluten/DIXY	v
 flutschen/DIXY	v
-flo"ge/Z
+flo"ge/Z	v
 flo"hen/XI	v
-flo"sse/Z
+flo"sse/Z	v
 flo"ten/DIXY	v
 flo"sSen/DIXY	v
 flu"chten/DIXY	v
@@ -4171,7 +4180,7 @@ freigeben/DI	v
 freigehabt
 freigeschwommen
 freigestanden
-freigibt/X
+freigibt/X	v
 freihaben/DI	v
 freihalten/DI	v
 freihielt/Z
@@ -4202,7 +4211,8 @@ freuen/DIXY	v
 freveln/DIXY	v
 frieren/DIVX	v
 frisieren/DIOXY	v
-frisst/W
+frisst	v
+friss	v
 fristen/DIXY	v
 frittieren/DIXY	v
 frohlocken/DIXY	v
@@ -4570,12 +4580,14 @@ gezuckt
 gezu"ndelt
 gezu"ngelt
 gea"hnelt
-gibt/VXW
+gibt/VX	v
+gib/Z	v
 gieren/DIXYW	v
 giesSen/DIVX	v
 giften/DIVXY	v
-giltst/VX
-ging/EVZ
+giltst/VX	v
+gilt	v
+ging/EVZ	v
 gipfeln/DIXY	v
 glasieren/DIOXY	v
 glattstellen/DIXY	v
@@ -4949,9 +4961,10 @@ heucheln/DIXY	v
 heuern/IXY	v
 heulen/DIXY	v
 hexen/DIVXY	v
-hielt/EVZ
-hiesS/VZE
-hilft/VXW
+hielt/EVZ	v
+hiesS/VZE	v
+hilft/VX	v
+hilf/Z	v
 hinabstosSen/DI	v
 hinabzugehen
 hinabzustu"rzen/D
@@ -5286,7 +5299,8 @@ irren/DIVXY	v
 irrezufu"hren/D
 irritieren/BDIOXY	v
 isolieren/BDIOXY	v
-isst/W
+isst	v
+iss	v
 jagen/DIVXY	v
 jammern/DIXY	v
 jauchzen/DIXY	v
@@ -5316,7 +5330,8 @@ kampieren/DIXY	v
 kanalisieren/BDIOXY	v
 kandidieren/DIXY	v
 kandieren/DIOXY	v
-kannst/W
+kannst	v
+kann	v
 kannte/VZ
 kanten/DIXY	v
 kapitalisieren/BDIOXY	v
@@ -5704,7 +5719,8 @@ lu"ften/DIXY	v
 lu"gen/DIX	v
 lu"mmeln/IXY	v
 machen/BDIVXYW	v
-magst/VW
+magst/V	v
+mag	v
 mahlen/DIXY	v
 mahnen/DIXY	v
 majorisieren/DIOXY	v
@@ -5895,7 +5911,8 @@ munkeln/DIXY	v
 murmeln/DIXY	v
 murren/DIXY	v
 musizieren/DIXY	v
-musst/W
+musst	v
+muss	v
 musste/Z
 mustern/DIXY	v
 muten/DIVXY	v
@@ -6071,7 +6088,8 @@ niederzuschlagen/D
 nieseln/DIXY	v
 niesen/DIXY	v
 nieten/DIXY	v
-nimmt/VXW
+nimmt/VX	v
+nimm/Z	v
 nippen/DIXY	v
 nisten/DIXY	v
 nivellieren/DIOXY	v
@@ -6094,6 +6112,7 @@ no"rgeln/DIXY	v
 no"tigen/DIXY	v
 nu"tzen/DIXY	v
 objektivieren/BDIOXY	v
+observieren/DIOXYW	v
 oblag/Z
 obliegen/DIX	v
 obwalten/DIXY	v
@@ -6308,7 +6327,8 @@ querzustellen/D
 quetschen/DIXY	v
 quieken/DIXY	v
 quietschen/DIXY	v
-quillt/XW
+quillt/X	v
+quill/Z	v
 quittieren/DIOXY	v
 quollen/X	v
 quotieren/DIOXY	v
@@ -6625,7 +6645,8 @@ schmettern/DIXYW	v
 schmieden/BDIXY	v
 schmiegen/DIXYW	v
 schmieren/DIVXYW	v
-schmilzt/VW
+schmilzt/V	v
+schmilz/Z	v
 schminken/DIXY	v
 schmirgeln/DIXY	v
 schmiss/ZE
@@ -6853,7 +6874,8 @@ sprechen/DIV	v
 spreizen/BDIXY	v
 sprengen/DIVXY	v
 sprenkeln/DIXY	v
-spricht/VXW
+spricht/VX	V
+sprich/Z	v
 spriesSen/DIXY	v
 springen/DIXW	v
 sprinten/DIXY	v
@@ -6960,7 +6982,8 @@ stillzulegen/D
 stimmen/DIVXY	v
 stimulieren/BDIOXY	v
 stinken/DIX	v
-stirbt/VXW
+stirbt/VX	v
+stirb/Z	v
 stochern/DIXY	v
 stocken/DIXY	v
 stolpern/DIXY	v
@@ -7149,7 +7172,8 @@ treten/DIV	v
 tricksen/IXY	v
 trieb/VZE
 triefen/DIXY	v
-trifft/XW
+trifft/X	v
+triff/Z	v
 trillern/DIXY	v
 trimmen/DIXY	v
 trinken/BDIVXW	v
@@ -7264,8 +7288,9 @@ umhalsen/DIOXY	v
 umhauen/DIXY	v
 umhingekommen
 umhingekonnt
-umhinkam/Z
-umhinkannst/W
+umhinkam/Z	v
+umhinkannst	v
+umhinkann	v
 umhinkommen/IX	v
 umhinkonnte/Z
 umhinko"nnen/IY	v
@@ -7684,7 +7709,8 @@ vergeuden/DIOXY	v
 vergewaltigen/DIOXY	v
 vergewissern/DIXY	v
 vergiften/DIOXY	v
-vergisst/W
+vergisst	v
+vergiss	v
 vergittern/DIOXY	v
 verglasen/DIOXY	v
 vergleichen/BDIX	v
@@ -8539,7 +8565,8 @@ wienern/DIXYW	v
 wies/VZ
 wildern/DIVXY	v
 willigen/IXY	v
-willst/W
+willst	v
+will	v
 wimmeln/DIXY	v
 wimmern/DIXY	v
 winden/DIVX	v
@@ -8548,8 +8575,9 @@ winseln/DIXY	v
 wippen/DIXY	v
 wirbeln/DIXY	v
 wirbt/X
-wird
-wirft/VXW
+wird	vis
+wirft/VX	v
+wirf/Z	v
 wirken/DIVXY	v
 wirren/DIVXY	v
 wirst
@@ -8638,7 +8666,8 @@ zerfleischen/DIOXYW	v
 zerfliesSen/DIX	v
 zerfloss/Z
 zerfressen/ADI	v
-zerfrisst/W
+zerfrisst	v
+zerfriss	v
 zerfa"llt/X
 zergehen/DIXW	v
 zerging/ZE
@@ -9133,7 +9162,8 @@ u"bermitteln/DIOXY	v
 u"bernachten/DIOXY	v
 u"bernahm/Z
 u"bernehmen/DI	v
-u"bernimmt/XW
+u"bernimmt/X	v
+u"bernimm/Z	v
 u"berna"hmen/IX	v
 u"berordnen/DIXY	v
 u"berpru"fen/BDIOXY	v
