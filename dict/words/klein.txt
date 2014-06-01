@@ -319,7 +319,8 @@ erstens
 erstmals
 erwiesenermasSen
 es	pro+n
-etwa/S
+etwa
+etwas
 euch	pro+2p+acc/dat
 euresgleichen
 eurigen
@@ -353,7 +354,6 @@ fa"lschlicherweise
 fu"ndig
 fu"r	prep
 fu"rs	prep
-
 fu"reinander
 fu"rlieb
 fu"rwahr
@@ -432,7 +432,9 @@ hierauf
 hieraus
 hierbei
 hierdurch
+hiedurch	+AT
 hierein
+hiefu"r		+AT
 hierfu"r
 hiergegen
 hierher
