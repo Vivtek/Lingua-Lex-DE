@@ -1,9 +1,10 @@
+und--oder	conj
 ab	prep
 abends	adv
 aber	conf
 aberhundert/EP	aa
 abermals	adv
-abertausend/EP
+abertausend/EP	aa
 abhanden	prep
 abseits	prep
 abwechslungsweise	adv
