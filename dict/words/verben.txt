@@ -119,7 +119,8 @@ abholzen/DIXY	v
 abhorchen/DIXY	v
 abhungern/DIXY	v
 abhusten/BDIXY	v
-abha"ltst/X
+abha"ltst/X	v
+abha"lt	v
 abha"ngen/BDIXY	v
 abho"ren/BDIXY	v
 abjagen/DIXY	v
@@ -725,7 +726,8 @@ anheuern/DIXY	v
 anhielt/ZE
 anhimmeln/DIXY	v
 anhob/Z
-anha"ltst/X
+anha"ltst/X	v
+anha"lt	v
 anha"ngen/DIX	v
 anha"ufen/DIXY	v
 anho"ren/DIXY	v
@@ -909,7 +911,8 @@ antreiben/DIX	v
 antreten/DI	v
 antrieb/ZE
 antrifft/X
-antrittst/X
+antrittst/X	v
+antritt	v
 antrug/Z
 antun/IX	v
 antworten/DIVXY	v
@@ -1169,7 +1172,8 @@ aufhielt/ZE
 aufhob/Z
 aufholen/DIXY	v
 aufhorchen/DIXY	v
-aufha"ltst/X
+aufha"ltst/X	v
+aufha"lt	v
 aufha"ngen/DIX	v
 aufha"ufen/DIXY	v
 aufho"ren/DIXY	v
@@ -1242,7 +1246,8 @@ aufrappeln/DIXY	v
 aufrauen/DIXY	v
 aufrechnen/DIXY	v
 aufrechterhalten/IDA	v
-aufrechterha"ltst/X
+aufrechterha"ltst/X	v
+aufrechterha"lt	v
 aufregen/DIXY	v
 aufreiben/DIX	v
 aufreihen/DIXY	v
@@ -1330,7 +1335,8 @@ auftreffen/DI	v
 auftreiben/DIX	v
 auftrennen/DIXY	v
 auftreten/DI	v
-auftrittst/X
+auftrittst/X	v
+auftritt	v
 auftrumpfen/DIXY	v
 auftra"gt/X
 auftun/IX	v
@@ -1582,7 +1588,8 @@ aushelfen/DI	v
 aushielt/ZE
 ausholen/DIXY	v
 aushorchen/DIXY	v
-ausha"ltst/X
+ausha"ltst/X	v
+ausha"lt	v
 ausha"ndigen/DIXY	v
 ausha"ngen/DIX	v
 ausha"rten/DIXY	v
@@ -2055,11 +2062,13 @@ behindern/DIOXY	v
 behoben/AWX	v
 beholfen
 behorchen/DIOXY	v
-beha"ltst/X
+beha"ltst/X	v
+beha"lt	v
 behu"ten/DIOXY	v
 beibehalten/ADI	v
 beibehielt/Z
-beibeha"ltst/X
+beibeha"ltst/X	v
+beibeha"lt	v
 beibrachte/Z
 beibringen/DIX	v
 beichten/DIXY	v
@@ -2087,7 +2096,8 @@ beitragen/DI	v
 beitrat/Z
 beitreiben/BDIX	v
 beitreten/DI	v
-beitrittst/X
+beitrittst/X	v
+beitritt	v
 beitrug/Z
 beitra"gt/X
 beitra"ten/IX	v
@@ -2214,7 +2224,8 @@ bereisen/DIOXY	v
 bereiten/DIOXY	v
 bereithalten/DI	v
 bereithielt/Z
-bereitha"ltst/X
+bereitha"ltst/X	v
+bereitha"lt	v
 bereitliegen/DIX	v
 bereitstand/Z
 bereitstehen/DIX	v
@@ -2236,7 +2247,8 @@ beriet/Z
 bersten/DIX	v
 beruhen/DIXY	v
 beruhigen/DIOXY	v
-bera"tst/X
+bera"tst/X	v
+bera"t	v
 beru"cksichtigen/DIOXY	v
 beru"hren/BDIOXY	v
 besagen/DIOXY	v
@@ -2378,7 +2390,8 @@ betreuen/DIOXY	v
 betrieben/AWX	v
 betrifft/X
 betrinken/DIX	v
-betrittst/X
+betrittst/X	v
+betritt	v
 betrogen/AWX	v
 betrug/Z
 betra"fe/Z
@@ -2532,7 +2545,7 @@ broschieren/DIOXY	v
 brummeln/DIXY	v
 brummen/DIXY	v
 bra"chten/IX	v
-bra"tst/VX
+bra"tst/VX	v
 bra"uchten/IX	v
 bra"unen/DIXW	v
 bro"ckeln/DIXY	v
@@ -2864,7 +2877,8 @@ durchgewunken/A	aa
 durchgreifen/DIX	v
 durchgriff/Z
 durchhalten/BDI	v
-durchha"ltst/X
+durchha"ltst/X	v
+durchha"lt	v
 durchkam/Z
 durchkneten/DIOXY	v
 durchkommen/DIX	v
@@ -3001,7 +3015,8 @@ einbalsamieren/DIOXY	v
 einbauen/BDIXY	v
 einbehalten/AI	v
 einbehielt/EZ
-einbeha"ltst/X
+einbeha"ltst/X	v
+einbeha"lt	v
 einberufen/ADIX	v
 einbestellen/BDIOXY	v
 einbetten/IXY	v
@@ -3084,7 +3099,8 @@ einheizen/DIXY	v
 einhergegangen
 einhergehen/DIX	v
 einholen/BDIXY	v
-einha"ltst/X
+einha"ltst/X	v
+einha"lt	v
 einha"ngen/DIXY	v
 einhu"llen/DIXY	v
 einigen/DIVXY	v
@@ -3245,7 +3261,8 @@ eintreiben/DIX	v
 eintreten/DI	v
 eintrieb/ZE
 eintrifft/X
-eintrittst/X
+eintrittst/X	v
+eintritt	v
 eintrocknen/DIXY	v
 eintra"gt/X
 eintra"te/Z
@@ -3505,7 +3522,8 @@ enthaupten/IOXY	v
 entheben/DIX	v
 enthielt/ZE
 enthoben/AWX	v
-entha"ltst/X
+entha"ltst/X	v
+entha"lt	v
 entha"uten/DIOXY	v
 enthu"llen/DIOXY	v
 entkam/Z
@@ -3731,7 +3749,8 @@ erhitzen/DIOXY	v
 erhoben/AWX	v
 erhoffen/DIOXY	v
 erholen/DIOXY	v
-erha"ltst/X
+erha"ltst/X	v
+erha"lt	v
 erha"ngen/DIOXY	v
 erha"rten/DIOXY	v
 erho"be/Z
@@ -3811,7 +3830,8 @@ erretten/DIOXY	v
 errichten/DIOXY	v
 erriet/ZE
 erringen/DIX	v
-erra"tst/X
+erra"tst/X	v
+erra"t	v
 erro"ten/DIOXY	v
 ersann/Z
 ersaufen/DI	v
@@ -3983,7 +4003,8 @@ feineinstellen/DIXY	v
 fernbleiben/DIX	v
 fernblieb/ZE
 fernhalten/DI	v
-fernha"ltst/X
+fernha"ltst/X	v
+fernha"lt	v
 fernlenken/BDIXY	v
 fernsehen/DI	v
 fernsieht/X
@@ -4000,7 +4021,8 @@ festbinden/DIX	v
 festfahren/DI	v
 festhalten/DI	v
 festhielt/ZE
-festha"ltst/X
+festha"ltst/X	v
+festha"lt	v
 festigen/DIVXY	v
 festkleben/DIXY	v
 festlegen/BDIXY	v
@@ -4035,7 +4057,7 @@ festzusetzen/D
 festzustehen
 festzustellen/D
 feuern/DIVXY	v
-fichtst/VX
+fichtst/VX	v
 fiebern/DIXY	v
 fiel/VZE
 filetieren/DIOXYW	v
@@ -4294,7 +4316,8 @@ gedo"st
 gedu"nkt
 gefallen/IA	v
 gefangenhalten/DI	v
-gefangenha"ltst/X
+gefangenha"ltst/X	v
+gefangenha"lt	v
 gefangennehmen/DI	v
 gefangennimmt/X
 gefangenzuhalten/D
@@ -4479,7 +4502,7 @@ gerinnen/DIX	v
 gerudert
 geruhen/DIXY	v
 gera"tselt
-gera"tst/X
+gera"tst/X	v
 gera"uspert
 geschah/P
 geschehe
@@ -4763,7 +4786,8 @@ heranschaffen/BDIXY	v
 herantragen/ID	v
 herantrat/Z
 herantreten/DI	v
-herantrittst/X
+herantrittst/X	v
+herantritt	v
 heranwagen/DIXY	v
 heranwa"chst
 heranziehen/DIX	v
@@ -4792,7 +4816,8 @@ herausgeben/DI	v
 herausgehen/DIX	v
 herausheben/DIX	v
 herausholen/DIXY	v
-herausha"ltst/X
+herausha"ltst/X	v
+herausha"lt	v
 herauskam/Z
 herauskaufen/DIXY	v
 herauskitzeln/BDIXY	v
@@ -4938,7 +4963,8 @@ hervorhob/Z
 hervorragen/DIXY	v
 hervorrief/ZE
 hervorrufen/DIX	v
-hervortrittst/X
+hervortrittst/X	v
+hervortritt	v
 hervortun/IX	v
 hervorzubringen/D
 hervorzuheben/D
@@ -5171,7 +5197,8 @@ hochgehen/DIX	v
 hochgelobt/A	aa
 hochgeredet
 hochhalten/ID	v
-hochha"ltst/X
+hochha"ltst/X	v
+hochha"lt	v
 hochlegen/DIXY	v
 hochrechnen/DIXY	v
 hochru"sten/DIXY	v
@@ -5204,7 +5231,8 @@ huschen/IXY	v
 husten/DIXY	v
 hypnotisieren/BDIOXY	v
 ha"keln/DIXY	v
-ha"ltst/VX
+ha"ltst/VX	v
+ha"lt	v
 ha"mmern/DIXY	v
 ha"ndigen/IXY	v
 ha"ngen/DIVXY	v
@@ -5260,7 +5288,8 @@ innehaben/DIW	v
 innehalten/DI	v
 innehat/X
 innehatte/Z
-inneha"ltst/X
+inneha"ltst/X	v
+inneha"lt	v
 innewohnen/DIXY	v
 innovieren/DIOXY	v
 inserieren/DIOXY	v
@@ -5687,7 +5716,8 @@ losschicken/DIXY	v
 losschlagen/DI	v
 lostrat/Z
 lostreten/DI	v
-lostrittst/X
+lostrittst/X	v
+lostritt	v
 loswerden/DI	v
 loswiehern/DIXY	v
 loszureisSen/D
@@ -5827,7 +5857,8 @@ mitgibt/X
 mithalten/ID	v
 mithandeln/DIXY	v
 mithelfen/DI	v
-mitha"ltst/X
+mitha"ltst/X	v
+mitha"lt	v
 mitisst
 mitjubeln/DIXY	v
 mitkam/Z
@@ -6496,7 +6527,7 @@ ra"chen/DIXY	v
 ra"keln/DIXY	v
 ra"ndern/DIXY	v
 ra"tseln/DIXY	v
-ra"tst/VX
+ra"tst/VX	v
 ra"uchern/DIVXY	v
 ra"umen/DIXY	v
 ra"uspern/DIXY	v
@@ -6910,7 +6941,8 @@ standardisieren/BDIOXY	v
 standgehalten
 standhalten/DI	v
 standhielt/ZE
-standha"ltst/X
+standha"ltst/X	v
+standha"lt	v
 standzuhalten/D
 stank/Z
 stanzen/DIXY	v
@@ -6973,7 +7005,8 @@ stigmatisieren/DIOXYW	v
 stilisieren/DIOXY	v
 stillen/DIXY	v
 stillhalten/DI	v
-stillha"ltst/X
+stillha"ltst/X	v
+stillha"lt	v
 stilllegen/DIXY	v
 stillliegen/DIX	v
 stillschweigen/DIX	v
@@ -7178,7 +7211,8 @@ trillern/DIXY	v
 trimmen/DIXY	v
 trinken/BDIVXW	v
 trippeln/DIXY	v
-trittst/VX
+trittst/VX	v
+tritt	v
 triumphieren/DIXY	v
 trockenlegen/DIXY	v
 trocknen/DIVXY	v
@@ -7473,7 +7507,8 @@ unterhalten/ADI	v
 unterhandeln/DIOXY	v
 unterhebeln/DIXY	v
 unterhielt/ZE
-unterha"ltst/X
+unterha"ltst/X	v
+unterha"lt	v
 unterho"hlen/DIOXY	v
 unterjochen/DIOXY	v
 unterkellern/DIOXY	v
@@ -8191,7 +8226,8 @@ voraussetzen/DIXY	v
 vorauszuberechnen
 vorauszusagen/D
 vorauszusehen/D
-vorbeha"ltst/X
+vorbeha"ltst/X	v
+vorbeha"lt	v
 vorbeifa"hrt/X
 vorbeigehen/DIX	v
 vorbeigekommen
@@ -8220,7 +8256,8 @@ vordru"cken/DIXY	v
 voreilen/DIXY	v
 voreinstellen/DIXY	v
 vorenthalten/ADI	v
-vorentha"ltst/X
+vorentha"ltst/X	v
+vorentha"lt	v
 vorentscheiden/DIX	v
 vorexerzieren/DIOXY	v
 vorfahren/DI	v
@@ -8250,7 +8287,8 @@ vorherrschen/DIXY	v
 vorherzusagen/D
 vorherzusehen/D
 vorholen/DIXY	v
-vorha"ltst/X
+vorha"ltst/X	v
+vorha"lt	v
 vorkam/Z
 vorkauen/DIXY	v
 vorkno"pfen/DIXY	v
@@ -8426,7 +8464,8 @@ weggeschert
 weggesehen
 wegging/ZE
 weghalten/ID	v
-wegha"ltst/X
+wegha"ltst/X	v
+wegha"lt	v
 weglassen/BDI	v
 weglaufen/DI	v
 weglegen/DIXY	v
@@ -8521,7 +8560,8 @@ widern/DIXY	v
 widerrief/ZE
 widerriet/Z
 widerrufen/ADIX	v
-widerra"tst/X
+widerra"tst/X	v
+widerra"t	v
 widersetzen/DIXY	v
 widerspiegeln/DIXY	v
 widersprach/Z
@@ -8606,7 +8646,8 @@ wurmen/DIXYW	v
 wurzeln/DIVXY	v
 wusch/Z
 wusste/Z
-wa"chst/V
+wa"chst/V	v
+wa"cht	v
 wa"gen/DIX	v
 wa"hlen/BDIXY	v
 wa"hnen/DIXY	v
@@ -8645,7 +8686,7 @@ zementieren/DIOXYW	v
 zensieren/DIOXYW	v
 zentralisieren/DIOXYW	v
 zentrieren/DIOXYW	v
-zerbarst/Z
+zerbarst/Z	v
 zerbeisSen/DIXW	v
 zerbersten/DI	v
 zerbirst
@@ -8740,7 +8781,8 @@ zertifizieren/DIOXYW	v
 zertrampeln/DIOXYW	v
 zertrat/Z
 zertreten/ADI	v
-zertrittst/X
+zertrittst/X	v
+zertritt	v
 zertru"mmern/DIOXYW	v
 zerwu"hlen/DIOXYW	v
 zerzausen/DIOXY	v
@@ -8823,7 +8865,8 @@ zugucken/DIXY	v
 zuhalten/DI	v
 zuhauen/DIXY	v
 zuheften/DIXY	v
-zuha"ltst/X
+zuha"ltst/X	v
+zuha"lt	v
 zuha"ngen/DIXY	v
 zuho"ren/DIXY	v
 zujubeln/DIXY	v
@@ -8865,7 +8908,8 @@ zureiten/DIX	v
 zurichten/DIXY	v
 zurufen/DIX	v
 zuru"ckbehalten/IDA	v
-zuru"ckbeha"ltst/X
+zuru"ckbeha"ltst/X	v
+zuru"ckbeha"lt	v
 zuru"ckbezahlen/BDIOXY	v
 zuru"ckbleiben/IXD	v
 zuru"ckblieb/ZE
@@ -8881,7 +8925,8 @@ zuru"ckgreifen/IXD	v
 zuru"ckgriff/Z
 zuru"ckhalten/ID	v
 zuru"ckhielt/Z
-zuru"ckha"ltst/X
+zuru"ckha"ltst/X	v
+zuru"ckha"lt	v
 zuru"ckkommen/IXD	v
 zuru"cklag/Z
 zuru"ckliegen/DIX	v
@@ -8919,7 +8964,8 @@ zusammengestellt/A	aa
 zusammengetan
 zusammengetragen/A	aa
 zusammenhalten/ID	v
-zusammenha"ltst/X
+zusammenha"ltst/X 	v
+zusammenha"lt 	v
 zusammenha"ngen/DIX	v
 zusammenla"ppern/DIXY	v
 zusammenpressen/DIXY	v
@@ -9225,7 +9271,8 @@ u"bertreiben/DIXW	v
 u"bertreten/ADI	v
 u"bertrieben/AWX	v
 u"bertrifft/X
-u"bertrittst/X
+u"bertrittst/X	v
+u"bertritt	v
 u"bertrug/Z
 u"bertra"gt/X
 u"berto"lpeln/DIOXY	v
